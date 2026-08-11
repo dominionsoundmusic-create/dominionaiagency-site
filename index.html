@@ -5,6 +5,7 @@
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Dominion AI Agency | Full-Service AI Automation for Local Businesses</title>
+<link rel="preconnect" href="https://i.ytimg.com">
 <meta name="description" content="Complete AI automation for local businesses. AI voice agents, CRM automation, lead generation, web design, and review management — all in one agency. East Texas, USA.">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -231,7 +232,7 @@ footer{background:var(--dark2);border-top:1px solid var(--border);padding:48px 2
     <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px;color:var(--text)">See How <span style="color:var(--cyan)">Dominion AI Agency</span> Works</h2>
     <p style="color:var(--muted);margin-bottom:24px">Watch how we put your business on full AI autopilot in 48 hours.</p>
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;border:1px solid var(--border)">
-      <iframe style="position:absolute;top:0;left:0;width:100%;height:100%" src="https://www.youtube.com/embed/wcUQmgWFQwY" title="AI Agency for Local Businesses | Dominion AI Agency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <button type="button" class="ytfacade" data-v="wcUQmgWFQwY" data-t="AI Agency for Local Businesses | Dominion AI Agency" aria-label="Play video" style="position:absolute;top:0;left:0;width:100%;height:100%;padding:0;border:0;cursor:pointer;background:#000 url(https://i.ytimg.com/vi/wcUQmgWFQwY/hqdefault.jpg) center/cover no-repeat"><span style="position:absolute;inset:0;display:grid;place-items:center"><span style="width:66px;height:66px;border-radius:50%;background:rgba(37,99,235,.92);display:grid;place-items:center;box-shadow:0 6px 24px rgba(0,0,0,.45)"><svg width="24" height="28" viewBox="0 0 26 30" aria-hidden="true"><path d="M0 0 L26 15 L0 30 Z" fill="#fff"/></svg></span></span></button>
     </div>
   </div>
 </div>
@@ -280,6 +281,36 @@ footer{background:var(--dark2);border-top:1px solid var(--border);padding:48px 2
 <script type="text/javascript">
 function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:"en",includedLanguages:"es,pt,fr,zh-CN,vi,ko,tl",layout:google.translate.TranslateElement.InlineLayout.SIMPLE,autoDisplay:false},"google_translate_element")}
 </script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script>
+(function(){
+  // Load the real YouTube player only when someone presses play (~1.5MB saved on load).
+  document.querySelectorAll('.ytfacade').forEach(function(b){
+    b.addEventListener('click', function(){
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube.com/embed/' + b.dataset.v + '?autoplay=1';
+      f.title = b.dataset.t || 'Video';
+      f.setAttribute('style', b.getAttribute('style').split(';padding:0')[0] + ';border:0');
+      f.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+      f.setAttribute('allowfullscreen','');
+      b.replaceWith(f);
+    });
+  });
+  // Load Google Translate lazily instead of blocking the page.
+  var loaded = false;
+  function loadT(){
+    if (loaded || typeof googleTranslateElementInit !== 'function') return; loaded = true;
+    var t = document.createElement('script');
+    t.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+    document.body.appendChild(t);
+  }
+  var el = document.getElementById('google_translate_element');
+  if (el) el.addEventListener('mouseenter', loadT, {once:true});
+  ['scroll','touchstart','keydown'].forEach(function(e){
+    window.addEventListener(e, loadT, {once:true, passive:true});
+  });
+  window.addEventListener('load', function(){ setTimeout(loadT, 3000); });
+})();
+</script>
 </body>
 </html>
