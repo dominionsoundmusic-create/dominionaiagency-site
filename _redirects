@@ -1,30 +1,38 @@
 # retired URL structures -> current service pages
 
-/ai-agency/*  /ai-automation-agency/:splat  301
+/ai-agency/*  /ai-automation-agency/  301
 /ai-agency/  /ai-automation-agency/  301
-/ai-business-automation/*  /ai-automation-agency/:splat  301
+/ai-business-automation/*  /ai-automation-agency/  301
 /ai-business-automation/  /ai-automation-agency/  301
-/ai-customer-automation/*  /ai-automation-agency/:splat  301
+/ai-customer-automation/*  /ai-automation-agency/  301
 /ai-customer-automation/  /ai-automation-agency/  301
-/ai-digital-agency/*  /ai-automation-agency/:splat  301
+/ai-digital-agency/*  /ai-automation-agency/  301
 /ai-digital-agency/  /ai-automation-agency/  301
-/ai-for-business/*  /ai-automation-agency/:splat  301
+/ai-for-business/*  /ai-automation-agency/  301
 /ai-for-business/  /ai-automation-agency/  301
-/ai-growth-agency/*  /ai-automation-agency/:splat  301
+/ai-growth-agency/*  /ai-automation-agency/  301
 /ai-growth-agency/  /ai-automation-agency/  301
-/ai-marketing-agency/*  /ai-automation-agency/:splat  301
+/ai-marketing-agency/*  /ai-automation-agency/  301
 /ai-marketing-agency/  /ai-automation-agency/  301
-/ai-powered-agency/*  /ai-automation-agency/:splat  301
+/ai-powered-agency/*  /ai-automation-agency/  301
 /ai-powered-agency/  /ai-automation-agency/  301
-/ai-sales-automation/*  /ai-automation-agency/:splat  301
+/ai-sales-automation/*  /ai-automation-agency/  301
 /ai-sales-automation/  /ai-automation-agency/  301
-/ai-solutions/*  /ai-automation-agency/:splat  301
+/ai-solutions/*  /ai-automation-agency/  301
 /ai-solutions/  /ai-automation-agency/  301
-/ai-tools-for-business/*  /ai-automation-agency/:splat  301
+/ai-tools-for-business/*  /ai-automation-agency/  301
 /ai-tools-for-business/  /ai-automation-agency/  301
-/business-ai-automation/*  /ai-automation-agency/:splat  301
+/business-ai-automation/*  /ai-automation-agency/  301
 /business-ai-automation/  /ai-automation-agency/  301
-/local-business-ai/*  /ai-automation-agency/:splat  301
+/local-business-ai/*  /ai-automation-agency/  301
 /local-business-ai/  /ai-automation-agency/  301
-/small-business-ai/*  /ai-automation-agency/:splat  301
+/small-business-ai/*  /ai-automation-agency/  301
 /small-business-ai/  /ai-automation-agency/  301
+
+# Sep 11 2026 - templated city pages retired; wildcards send them to the service hub.
+/ai-workflow-automation/*  /ai-workflow-automation/  301
+/ai-lead-generation/*  /ai-lead-generation/  301
+/ai-crm-automation/*  /ai-crm-automation/  301
+/ai-consulting/*  /ai-consulting/  301
+/ai-chatbot-agency/*  /ai-chatbot-agency/  301
+/ai-automation-agency/*  /ai-automation-agency/  301
