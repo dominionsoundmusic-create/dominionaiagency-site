@@ -1,3 +1,29 @@
+# Sep 26 2026 - templated auto-blog posts retired; each old post points to the closest real page.
+/blog/the-future-of-ai-in-local-business-marketing-1786023767154.html  /ai-automation-agency/  301
+/blog/the-future-of-ai-in-local-business-marketing-1786023767154  /ai-automation-agency/  301
+/blog/how-to-use-ai-to-generate-leads-for-your-business-1786106506093.html  /ai-automation-agency/  301
+/blog/how-to-use-ai-to-generate-leads-for-your-business-1786106506093  /ai-automation-agency/  301
+/blog/ai-marketing-vs-traditional-marketing-which-wins-1784554192437.html  /ai-automation-agency/  301
+/blog/ai-marketing-vs-traditional-marketing-which-wins-1784554192437  /ai-automation-agency/  301
+/blog/how-ai-is-changing-small-business-marketing-in-2026-1785851299217.html  /ai-automation-agency/  301
+/blog/how-ai-is-changing-small-business-marketing-in-2026-1785851299217  /ai-automation-agency/  301
+/blog/how-to-automate-your-business-with-ai-tools-1786192049748.html  /ai-automation-agency/  301
+/blog/how-to-automate-your-business-with-ai-tools-1786192049748  /ai-automation-agency/  301
+/blog/how-small-businesses-compete-with-big-companies-using-ai-1785937438812.html  /ai-automation-agency/  301
+/blog/how-small-businesses-compete-with-big-companies-using-ai-1785937438812  /ai-automation-agency/  301
+/blog/the-best-ai-tools-for-small-business-owners-1786278572625.html  /ai-automation-agency/  301
+/blog/the-best-ai-tools-for-small-business-owners-1786278572625  /ai-automation-agency/  301
+/blog/ai-chatbots-vs-ai-voice-agents-which-do-you-need-1784554575816.html  /ai-automation-agency/  301
+/blog/ai-chatbots-vs-ai-voice-agents-which-do-you-need-1784554575816  /ai-automation-agency/  301
+/blog/how-to-scale-your-business-without-hiring-more-staff-1786452174390.html  /  301
+/blog/how-to-scale-your-business-without-hiring-more-staff-1786452174390  /  301
+/blog/what-is-an-ai-agency-and-why-your-business-needs-one-1786365937278.html  /ai-automation-agency/  301
+/blog/what-is-an-ai-agency-and-why-your-business-needs-one-1786365937278  /ai-automation-agency/  301
+/blog/the-future-of-ai-in-local-business-marketing-1785707359288.html  /ai-automation-agency/  301
+/blog/the-future-of-ai-in-local-business-marketing-1785707359288  /ai-automation-agency/  301
+/blog/*  /  301
+/blog  /  301
+
 # retired URL structures -> current service pages
 
 /ai-agency/*  /ai-automation-agency/  301
