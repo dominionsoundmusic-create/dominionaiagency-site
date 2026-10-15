@@ -48,8 +48,8 @@ Packages (setup, training and support included in all):
   monthly reporting, email support.
 - AI Pro $1,097/month: voice agent inbound and outbound, full CRM automation, review management,
   AI lead generation, a professional website, social media automation, weekly reporting.
-- AI Empire $1,997/month: multiple AI voice agents, complete automation suite, advanced lead
-  generation, SEO pages, full social media management, a dedicated account manager.
+- AI Empire $1,997/month: multiple AI voice agents, complete automation suite, unlimited review
+  requests, advanced lead generation, SEO pages, full social media management, a dedicated account manager.
 Single services: AI voice agents from $297/month; AI lead generation from $197/month; website
   design from $497 one time; review management from $197/month; social media automation from
   $97/month.
