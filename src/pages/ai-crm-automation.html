@@ -45,9 +45,9 @@ faqs:
 
 <section class="prose" id="pipeline">
   <h2>A sales pipeline, stage by stage</h2>
-  <p class="section-intro">HighLevel's help center describes a pipeline as a set of stages that tracks opportunities through your sales or service process. Here is a generic one for a service business. Yours gets your own stage names and your own rules.</p>
+  <p class="section-intro">HighLevel's help center describes a pipeline as a set of stages that tracks opportunities through your sales or service process. Here is a generic one for a service business. In HighLevel, Won and Lost are opportunity statuses rather than stages, so the last two rows are statuses. Yours gets your own stage names and your own rules.</p>
   <div class="table-wrap"><table>
-    <thead><tr><th scope="col">Stage</th><th scope="col">What moves a lead here</th><th scope="col">What the CRM does on its own</th><th scope="col">What stays with you</th></tr></thead>
+    <thead><tr><th scope="col">Stage or status</th><th scope="col">What moves a lead here</th><th scope="col">What the CRM does on its own</th><th scope="col">What stays with you</th></tr></thead>
     <tbody>
       <tr><td>New inquiry</td><td>A form entry, a chat conversation or a call the AI receptionist logged</td><td>Creates the contact, tags the source, emails a short acknowledgment and notifies you</td><td>Glancing at the summary</td></tr>
       <tr><td>Contacted</td><td>You or the AI agent reached the person</td><td>Stops the first-touch sequence so nobody gets a duplicate email</td><td>The real conversation</td></tr>
@@ -79,8 +79,8 @@ faqs:
 <section class="band band--tint">
   <div class="wide">
     <h2>Review requests: by email today, by text after approval</h2>
-    <p>HighLevel has a workflow action that sends a review request when a trigger fires, for example when an appointment is marked completed. We set the trigger to the moment your customer is most likely to be pleased, add a short wait, and send a plain request with a direct link to your review page. Review management starts at $197 a month on its own and is included in every package.</p>
-    <p>Two sets of rules shape how we build it. The FTC's rule on consumer reviews, in effect since October 2024, bans fake reviews and bars offering an incentive on the condition that the review be positive. Google's Maps content policy does not allow incentives such as discounts or free services in exchange for a review. So every customer gets the same request, nobody is paid or rewarded for stars, and nobody is filtered out for being unhappy.</p>
+    <p>HighLevel has a workflow action that sends a review request when a trigger fires, for example when an appointment is marked completed. We set the trigger to the moment your customer is most likely to be pleased, add a short wait, and send a plain request with a direct link to your review page. Review management starts at $197 a month on its own and is included in AI Starter and AI Pro.</p>
+    <p>Two sets of rules shape how we build it. The FTC's rule on consumer reviews, in effect since October 2024, bans fake reviews and bars offering an incentive on the condition that the review be positive. Google's Maps content policy does not allow incentives such as discounts or free services in exchange for a review. Google's policy also says businesses may not discourage negative reviews or selectively ask only for positive ones. So every customer gets the same request, nobody is paid or rewarded for stars, and nobody is filtered out for being unhappy.</p>
     {{ m.texting_note('Until then, every review request goes by email.') }}
   </div>
 </section>
@@ -91,7 +91,7 @@ faqs:
     <div>
       <h2>Tasks, reminders and the reports you actually read</h2>
       <p>Not everything should be automated. Some steps need you, and the CRM's job is to make sure you know about them. HighLevel workflows can send an internal notification and add a task to a contact, so a stalled quote becomes a line on your list instead of something you remember at midnight.</p>
-      <p>Reporting comes from the same data. HighLevel's opportunities dashboard shows pipeline value, how many leads sit in each stage and how many were won. We set it up so the numbers you care about are on the first screen, then send the summary on the schedule your package includes: monthly on AI Starter, weekly on AI Pro.</p>
+      <p>Reporting comes from the same data. HighLevel's dashboard widgets show opportunity value, how opportunities are spread across stages, and the conversion rate from won opportunities. We set it up so the numbers you care about are on the first screen, then send the summary on the schedule your package includes: monthly on AI Starter, weekly on AI Pro.</p>
       <p>We do not attach a return-on-investment figure to any of this. Whether marketing automation pays for itself depends on your prices, your close rate and how many leads you lose today, and you will see those numbers in your own reports.</p>
     </div>
   </div>
@@ -143,10 +143,12 @@ faqs:
     {'label': 'HighLevel Support Portal: Understanding Pipelines', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000001982-understanding-pipelines'},
     {'label': 'HighLevel Support Portal: A List of Workflow Actions', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000002294-what-are-workflow-actions-complete-list-'},
     {'label': 'HighLevel Support Portal: Workflow Action, Review Request', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000003291-workflow-action-review-request'},
-    {'label': 'HighLevel Support Portal: Dashboard, opportunities, pipeline value, conversion rate, funnel, stages distribution', 'url': 'https://help.gohighlevel.com/support/solutions/articles/48001152117-dashboard-opportunities-pipeline-value-conversion-rate-funnel-stages-distribution'},
+    {'label': 'HighLevel Support Portal: Getting Started, Setup Pipelines and Opportunities', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000005062-getting-started-setup-pipelines-and-opportunities'},
+    {'label': 'HighLevel Support Portal: What Are Dashboard Widgets in HighLevel?', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000001212-what-are-dashboard-widgets-'},
     {'label': 'Federal Trade Commission: CAN-SPAM Act, A Compliance Guide for Business', 'url': 'https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business'},
     {'label': 'Federal Trade Commission: final rule banning fake reviews (August 2024)', 'url': 'https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials'},
     {'label': 'Google Maps user contributed content policy: Prohibited and restricted content', 'url': 'https://support.google.com/contributionpolicy/answer/7400114'},
+    {'label': 'Google Maps user contributed content policy: Incentivized or biased reviews', 'url': 'https://support.google.com/contributionpolicy/answer/16597558'},
   ]) }}
 </section>
 {% endblock %}
