@@ -1,0 +1,154 @@
+---
+type: service
+title: "Missed Call Text Back: How It Works and Where Ours Stands"
+description: "Missed call text back, explained honestly: what it does, why ours waits on A2P 10DLC carrier approval, what works today, and how to text back a missed call by hand."
+h1: "Missed Call Text Back, and Why Ours Is Not Switched On Yet"
+crumb: "Missed call text back"
+card_summary: "What missed call text back does, why ours waits on carrier registration, the consent and STOP rules that apply, and what answers your missed calls today."
+schema_service:
+  name: "Missed call text back setup (available once carrier approval clears)"
+  type: "Missed call text back"
+hero:
+  image: shop-owner-tablet-counter-hero.jpg
+  alt: "Woman at a shop counter looking at a tablet, shelves of goods behind her"
+  lead: "Plain status first: our texting is waiting on carrier approval. Here is what the feature does, what has to happen before it can send, and what covers your missed calls in the meantime."
+  secondary_label: "What works today"
+  secondary_href: "#works-today"
+faq_title: "Questions about missed call text back"
+faqs:
+  - q: "What is missed call text back?"
+    a: "<p>It is an automation on a business phone line: when a call rings out unanswered, the system sends the caller a short text from the business number, usually saying sorry we missed you and inviting them to reply. The conversation can then carry on by text. It needs a number registered for business texting, which is the part of ours still waiting on carrier approval.</p>"
+  - q: "How do I respond to a missed call by text?"
+    a: "<p>Keep it short and specific: say who you are, that you saw the missed call, and give one clear next step, such as a time you can call back or a question they can answer by reply. Do not paste a sales pitch into a reply to someone who only tried to reach you. The sample messages on this page are a starting point you can type from your own phone today.</p>"
+  - q: "Should I call back a missed call?"
+    a: "<p>If the number is a customer or looks like one, yes, and soon: a call back is still the most personal reply. Text first when you cannot talk yet, when it is late in the evening, or when the caller left a message asking for a text. If the number is unknown and left no voicemail, a short text asking how you can help is a lower-pressure way to find out who it was.</p>"
+  - q: "Does GoHighLevel have missed call text back?"
+    a: "<p>Yes. HighLevel has a built-in missed call text back setting on its phone system, and the same thing can be built as a workflow triggered by a missed incoming call, which allows a wait step so repeat callers do not get several texts. We build it on HighLevel, and it switches on for our clients once our carrier registration is approved.</p>"
+  - q: "When will your missed call text back be available?"
+    a: "<p>When the carriers approve our A2P 10DLC registration. We do not give a date, because the review is done by the carrier side, not by us. Until then voice works: the AI receptionist answers the call itself, so most callers have nothing to be texted back about, and messages reach you by email. We will say so on this page the day it changes.</p>"
+---
+{% block content %}
+<section class="prose">
+  <p class="lead">Missed call text back is a simple idea: when a call goes unanswered, the caller gets a text from your business number within moments, so the conversation does not end at voicemail. We set it up on HighLevel, but on our accounts it is not live yet, and this page explains why.</p>
+  {{ m.texting_note('We do not offer missed call text back, text reminders or any texted follow-up as working today. Everything on this page about automated texts describes what switches on after approval.') }}
+  <p>Most pages about missed call text back software are written to sell it. This one is written to tell you where things stand. You will find what the feature does, what a business has to register before any automated text can be sent, what we do for missed calls today, how to answer a missed call by text by hand in the meantime, and which rules apply once automated texting is running.</p>
+</section>
+
+<section class="prose">
+  <h2>What missed call text back does</h2>
+  <div class="split">
+    {{ img('phone-counter-rainy-window.jpg', 'Phone lying on a kitchen counter in front of a rainy window', 1200, 675) }}
+    <div>
+      <p>On HighLevel, missed call text back can be set up two ways. The built-in setting sits in the phone system settings: you write the message, and the ring timeout decides how long a call rings before it counts as missed. The other way is a workflow that starts when an incoming call ends with a busy or no-answer status, then sends the text.</p>
+      <p>The workflow version is the one we would use. HighLevel notes that the built-in setting sends a text for every missed call, including repeat calls a few minutes apart, and that running the setting and a workflow at the same time can produce duplicate messages. A workflow can wait a short time, check whether the person already got a text, and only then send one.</p>
+      <p>Done well, auto missed call text back is a courtesy, not a marketing channel: one message, from the number the person called, about the call they made.</p>
+    </div>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>Why it is not live here: A2P 10DLC registration</h2>
+  <p>A regular ten-digit local business number is called a long code, and texts sent from software through one count as application-to-person (A2P) traffic. US mobile carriers require that traffic to be registered before they will deliver it. The system is called 10DLC, for 10-digit long code.</p>
+  <p>Registration runs through The Campaign Registry, the registry the mobile network operators chose to collect brand and campaign information for 10DLC. It has two parts:</p>
+  <div class="grid-2">
+    <div class="panel">
+      <h3>The brand</h3>
+      <p>The business sending the texts. Brands do not register with the registry directly; a messaging provider submits them, and the brand's federal tax ID is used to verify that the business is real. An unverified brand cannot register a campaign.</p>
+    </div>
+    <div class="panel">
+      <h3>The campaign</h3>
+      <p>The use case: what kind of messages will be sent and why, such as customer care or appointment reminders. Once a campaign is approved it gets an ID, and carriers enable texting for the numbers tied to that ID.</p>
+    </div>
+  </div>
+  <p>Carriers ask for this because unregistered business texting is how a great deal of spam reaches phones. Our registration is submitted and pending. Until it clears, texts from our system would be filtered or blocked, so we do not send them and do not pretend otherwise.</p>
+</section>
+
+<section class="band band--tint" id="works-today">
+  <div class="wide">
+    <h2>What covers your missed calls today</h2>
+    <p class="section-intro">Missed call text back exists because calls go unanswered. The other fix is to answer more of them, and that part works now.</p>
+    <ul class="checks">
+      <li><strong>The AI voice agent picks up.</strong> Calls you cannot take ring through to an <a href="/ai-receptionist/">AI receptionist</a> that answers questions from your facts, takes a full message or books a time. A caller who got an answer has nothing to be texted back about.</li>
+      <li><strong>You get the message by email.</strong> Each call produces a summary with the caller's name, number and what they wanted, sent to the inbox you choose.</li>
+      <li><strong>A callback list in the CRM.</strong> Callers who asked for a call back are saved as contacts with a task, so nothing sits only in a voicemail box. See <a href="/ai-crm-automation/">CRM automation</a>.</li>
+      <li><strong>Follow-up by email.</strong> Where the caller gave an email address and agreed to follow-up, the automated sequence runs by email.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>How to respond to a missed call by text, by hand</h2>
+  <div class="split">
+    <div>
+      <p>Nothing stops you from replying from your own phone, person to person, today. A few starting points, written to be edited:</p>
+      <ol class="steps">
+        <li><strong>The quick acknowledgment.</strong> "Hi, this is [name] at [business]. Sorry I missed your call. I'm on a job until about 3. Can I call you then, or is there something I can answer here?"</li>
+        <li><strong>The after-hours reply.</strong> "Thanks for calling [business]. We're closed for the evening. I'll call you back tomorrow morning, or reply with a good time."</li>
+        <li><strong>The unknown number.</strong> "Hi, you called [business] a few minutes ago. How can I help?"</li>
+        <li><strong>The returning customer.</strong> "Hi [first name], I saw your call. Is this about the appointment on [day]? I'm free to talk after 4."</li>
+        <li><strong>The voicemail they left.</strong> "Got your voicemail about [topic]. I can come by [day] or call you at [time]. Which works better?"</li>
+      </ol>
+      <p>Always say who you are, answer the call they made rather than pitching something new, and stop if they ask you to.</p>
+    </div>
+    {{ img('shop-owner-phone-shelves.jpg', 'Shop owner checking her phone among shelves of packaged goods', 1200, 800) }}
+  </div>
+</section>
+
+<section class="prose">
+  <h2>Call back or text back?</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th scope="col">Situation</th><th scope="col">Better first reply</th><th scope="col">Why</th></tr></thead>
+    <tbody>
+      <tr><td>Existing customer, during business hours</td><td>Call back</td><td>They know you and probably have a real question</td></tr>
+      <tr><td>You are busy for the next hour</td><td>Short text, then call</td><td>Tells them you saw it and when to expect you</td></tr>
+      <tr><td>Late evening or early morning</td><td>Text, or wait until morning</td><td>A call at that hour can feel intrusive</td></tr>
+      <tr><td>Unknown number, no voicemail</td><td>Text asking how you can help</td><td>Lower pressure, and screens out wrong numbers</td></tr>
+      <tr><td>Voicemail about something urgent</td><td>Call back</td><td>Urgent problems are faster to sort out by voice</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section class="prose">
+  <h2>The texting rules that will apply once it is live</h2>
+  <div class="split">
+    {{ img('hands-papers-coffee-counter.jpg', 'Hands resting on printed pages at a counter next to a coffee cup and a phone', 1200, 800) }}
+    <div>
+      <p>Automated business texting comes with consent and opt-out rules. The two places they come from:</p>
+      <ul class="checks">
+        <li><strong>CTIA's Messaging Principles and Best Practices</strong>, the wireless industry guidance carriers apply to business texting, say senders should get the appropriate consent before messaging, use STOP as the standard opt-out word while also honoring plain requests such as end, cancel, unsubscribe or quit, and send one final confirmation after an opt-out with no further messages.</li>
+        <li><strong>The FCC's consent revocation rules</strong> let people revoke consent by any reasonable means. The FCC treats a reply of stop, quit, end, revoke, opt out, cancel or unsubscribe as reasonable on its face, and requires the request to be honored within a reasonable time not to exceed ten business days.</li>
+      </ul>
+      <p>So when our texting switches on, every automated text identifies the business and honors STOP. Whether a text back to someone who called you is covered by the consent you have depends on your business and your state, so check your plans with your own attorney. This is a summary, not legal advice.</p>
+    </div>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>What switches on when approval clears</h2>
+  <ul class="checks">
+    <li>Missed call text back from your business number, built as a workflow with a wait step so a repeat caller gets one text, not three</li>
+    <li>Two-way replies that land in the same HighLevel conversation as your calls and emails, where you or the AI can answer</li>
+    <li>Text appointment reminders alongside the email ones (see <a href="/ai-appointment-booking/">AI appointment booking</a>)</li>
+    <li>Texted review requests, for customers who agreed to receive them</li>
+    <li>Automatic STOP handling and opt-out records on every contact</li>
+  </ul>
+  <div class="grid-2">
+    {{ m.limits(['Send any automated text before our carrier registration is approved', 'Text people who have not called you or agreed to hear from you', 'Give legal advice about your consent records or create an attorney-client relationship', 'Act as a HIPAA compliance program or send clinical or patient-record detail by text', 'Connect to outside phone or booking software until we have confirmed per client that it can'], 'What it does not do') }}
+    <div class="panel">
+      <h3>What it costs</h3>
+      <p>Missed call text back will be part of the AI voice agent setup, which starts at $297 a month, and of AI Starter at $597 a month. Nothing extra is charged for a texting feature that is not live. See the <a href="/pricing/">pricing page</a> for the full list.</p>
+    </div>
+  </div>
+  {{ m.call_box('This is what we would rather your callers hear than a voicemail beep. Call our main line and the AI receptionist will answer, take your message and send it on.') }}
+  {{ m.related(['ai-receptionist', 'ai-answering-service', 'ai-voice-agent', 'crm-automation', 'ind:plumbers', 'guide:vs'], 'Related pages') }}
+  {{ m.sources([
+    {'label': 'HighLevel Help: Where and how to configure the missed call text back feature', 'url': 'https://help.gohighlevel.com/support/solutions/articles/48001239140-where-and-how-to-configure-the-missed-call-text-back-feature'},
+    {'label': 'HighLevel Help: Call status workflow trigger setup', 'url': 'https://help.gohighlevel.com/support/solutions/articles/48001212511-call-status-workflow-trigger-setup'},
+    {'label': 'The Campaign Registry: 10DLC brand and campaign registration', 'url': 'https://www.campaignregistry.com/'},
+    {'label': 'The Campaign Registry: Introduction to TCR and 10DLC (PDF)', 'url': 'https://www.campaignregistry.com/wp-content/uploads/TCR-Intro-2026-v4_comp.pdf'},
+    {'label': 'CTIA: Messaging Principles and Best Practices (July 2019, PDF)', 'url': 'https://api.ctia.org/wp-content/uploads/2019/07/190719-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf'},
+    {'label': 'Federal Register: FCC, Strengthening the Ability of Consumers To Stop Robocalls (consent revocation)', 'url': 'https://www.federalregister.gov/documents/2024/03/05/2024-04587/strengthening-the-ability-of-consumers-to-stop-robocalls'},
+    {'label': 'FCC: Stop unwanted robocalls and texts (consumer guide)', 'url': 'https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts'},
+  ]) }}
+</section>
+{% endblock %}
