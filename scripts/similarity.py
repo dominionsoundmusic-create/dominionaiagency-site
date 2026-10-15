@@ -142,6 +142,9 @@ def main():
                 if shared8:
                     other_fail.append(f"shares {len(shared8)} 8-word run(s) with {other} {du}: {u}: {sorted(shared8)[:3]}")
         worst.sort(reverse=True)
+        if not worst:
+            print(f"Against {other}: no page matched --only {args.only}")
+            continue
         print(f"Against {other} ({len(dpages)} pages): max Jaccard {worst[0][0]:.1%} ({worst[0][2]} vs {worst[0][3]}); "
               f"pages sharing an 8-word run: {len({d.split(': ')[1] for d in other_fail}) if other_fail else 0}")
     for f in fails + other_fail:
