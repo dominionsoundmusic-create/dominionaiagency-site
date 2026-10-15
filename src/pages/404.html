@@ -1,0 +1,23 @@
+---
+type: page
+title: "Page Not Found | Dominion AI Agency"
+description: "This page does not exist or has moved. Find AI receptionist, website chat, booking and automation services from Dominion AI Agency, or call the main line."
+h1: "That page is not here"
+lead: "It may have moved when the site was rebuilt. The links below cover everything the site offers."
+noindex: true
+cta: false
+---
+{% block content %}
+<section class="prose">
+  <h2>Where to go next</h2>
+  <ul class="pill-list">
+    <li><a href="/">Home</a></li>
+    <li><a href="/services/">All services</a></li>
+    <li><a href="/ai-for/">Industries</a></li>
+    <li><a href="/pricing/">Pricing</a></li>
+    <li><a href="/how-it-works/">How it works</a></li>
+    <li><a href="/contact/">Contact</a></li>
+  </ul>
+  <p>Or call <a href="tel:{{ site.business.phone_tel }}">{{ site.business.phone_display }}</a>. The AI receptionist answers at any hour and can point you to the right page.</p>
+</section>
+{% endblock %}

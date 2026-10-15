@@ -1,0 +1,417 @@
+{
+ "business": {
+  "name": "Dominion AI Agency",
+  "legal_name": "Dominion Digital Group",
+  "dba_note": "Dominion AI Agency is a d/b/a of Dominion Digital Group.",
+  "category": "AI automation agency for small businesses",
+  "origin": "https://dominionaiagency.com",
+  "phone": "(903) 636-7511",
+  "email": "maurice@dominionwebdesignpro.com",
+  "address_public": false,
+  "region": "East Texas",
+  "founded": "2022",
+  "founder": "Maurice Johnson",
+  "hours": "The main line is answered 24 hours a day, 7 days a week by an AI receptionist.",
+  "logo": "/images/dominion-logo.svg",
+  "logo_width": 192,
+  "logo_height": 64,
+  "theme_color": "#0b0b0c",
+  "description": "Dominion AI Agency sets up and manages AI receptionists, AI voice agents, website chat, CRM follow-up and automation for small businesses across the United States, built on HighLevel. Call the main line to hear the AI receptionist answer.",
+  "footer_line": "Dominion AI Agency sets up and manages AI receptionists, website chat and follow-up automation for small businesses in all 50 states. Our own line is answered by the AI receptionist we sell, so a call is the quickest demo.",
+  "texting_note": "Texting is not live yet. Voice works today; text messages (missed call text back, text reminders and texted review requests) switch on once carrier approval (A2P 10DLC registration) clears.",
+  "quote_text": "I believe the unbelievable, I receive the impossible, because it's doable.",
+  "quote_author": "Jesse Duplantis",
+  "scripture": "John 3:16",
+  "copyright": "© 2026 Dominion Digital Group. All rights reserved.",
+  "credit_text": "Designed by Dominion Web Design Pro",
+  "credit_url": "https://dominionwebdesignpro.com",
+  "demo_url": "https://dominionwebdesignpro.com/demo.html"
+ },
+ "cta": {
+  "primary_label": "Call {phone}",
+  "secondary_label": "See prices",
+  "secondary_href": "/pricing/"
+ },
+ "forms": {
+  "contact": "agency-contact"
+ },
+ "analytics": {
+  "ga4": "G-ZBZQPMRDEW",
+  "gtm": ""
+ },
+ "social": {
+  "facebook": "",
+  "instagram": "",
+  "tiktok": "",
+  "youtube": "",
+  "google_business": ""
+ },
+ "sister_brands": [
+  {
+   "name": "Dominion Web Design Pro",
+   "url": "https://dominionwebdesignpro.com"
+  },
+  {
+   "name": "AI Voice Agent Pros",
+   "url": "https://aivoiceagentpros.com"
+  },
+  {
+   "name": "Dominion Review Pro",
+   "url": "https://dominionreviewpro.com"
+  }
+ ],
+ "prices": {
+  "packages": [
+   {
+    "name": "AI Starter",
+    "price": "$597",
+    "unit": "/month",
+    "amount": 597,
+    "items": [
+     "AI voice agent (inbound)",
+     "CRM automation setup",
+     "Review management",
+     "Monthly reporting",
+     "Email support"
+    ]
+   },
+   {
+    "name": "AI Pro",
+    "price": "$1,097",
+    "unit": "/month",
+    "amount": 1097,
+    "items": [
+     "AI voice agent, inbound and outbound",
+     "Full CRM automation",
+     "Review management",
+     "AI lead generation",
+     "A professional website",
+     "Social media automation",
+     "Weekly reporting"
+    ]
+   },
+   {
+    "name": "AI Empire",
+    "price": "$1,997",
+    "unit": "/month",
+    "amount": 1997,
+    "items": [
+     "Multiple AI voice agents",
+     "Complete automation suite",
+     "Review management",
+     "Advanced lead generation",
+     "SEO pages",
+     "Full social media management",
+     "A dedicated account manager"
+    ]
+   }
+  ],
+  "included": "Setup, training and support are included in every package.",
+  "single": [
+   {
+    "name": "AI voice agents",
+    "price": "from $297/month",
+    "url": "/ai-voice-agent/"
+   },
+   {
+    "name": "AI lead generation",
+    "price": "from $197/month",
+    "url": "/ai-lead-generation/"
+   },
+   {
+    "name": "Website design",
+    "price": "from $497 one time",
+    "url": "/ai-lead-generation/"
+   },
+   {
+    "name": "Review management",
+    "price": "from $197/month",
+    "url": "/ai-crm-automation/"
+   },
+   {
+    "name": "Social media automation",
+    "price": "from $97/month",
+    "url": "/ai-lead-generation/"
+   }
+  ]
+ },
+ "nav": [
+  {
+   "label": "Services",
+   "menu": "services",
+   "href": "/services/"
+  },
+  {
+   "label": "Industries",
+   "menu": "industries",
+   "href": "/ai-for/"
+  },
+  {
+   "label": "Guides",
+   "menu": "guides"
+  },
+  {
+   "label": "Pricing",
+   "href": "/pricing/"
+  },
+  {
+   "label": "How It Works",
+   "href": "/how-it-works/"
+  },
+  {
+   "label": "About",
+   "href": "/about/"
+  },
+  {
+   "label": "Contact",
+   "href": "/contact/"
+  }
+ ],
+ "footer_links": [
+  {
+   "label": "All Services",
+   "href": "/services/"
+  },
+  {
+   "label": "Pricing",
+   "href": "/pricing/"
+  },
+  {
+   "label": "How It Works",
+   "href": "/how-it-works/"
+  },
+  {
+   "label": "About",
+   "href": "/about/"
+  },
+  {
+   "label": "FAQ",
+   "href": "/faq/"
+  },
+  {
+   "label": "Contact",
+   "href": "/contact/"
+  },
+  {
+   "label": "Tools We Use",
+   "href": "/tools/"
+  },
+  {
+   "label": "Privacy Policy",
+   "href": "/privacy-policy/"
+  },
+  {
+   "label": "Terms",
+   "href": "/terms/"
+  }
+ ],
+ "services": [
+  {
+   "slug": "ai-receptionist",
+   "url": "/ai-receptionist/",
+   "name": "AI Receptionist",
+   "short": "AI Receptionist",
+   "card_image": "shop-owner-phone-call-notes-hero.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-receptionist-small-business",
+   "url": "/ai-receptionist-for-small-business/",
+   "name": "AI Receptionist for Small Business",
+   "short": "For Small Business",
+   "card_image": "woodshop-owner-phone-call-hero.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-answering-service",
+   "url": "/ai-answering-service/",
+   "name": "AI Answering Service",
+   "short": "AI Answering Service",
+   "card_image": "phone-counter-rainy-window.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-voice-agent",
+   "url": "/ai-voice-agent/",
+   "name": "AI Voice Agent",
+   "short": "AI Voice Agent",
+   "card_image": "customer-phone-call-sunroom.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-chatbot",
+   "url": "/ai-chatbot-agency/",
+   "name": "AI Chatbot and Voice Widget for Your Website",
+   "short": "Website Chat and Voice",
+   "card_image": "shop-owner-laptop-gift-shop-hero.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "missed-call-text-back",
+   "url": "/missed-call-text-back/",
+   "name": "Missed Call Text Back",
+   "short": "Missed Call Text Back",
+   "card_image": "phone-planner-desk.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-appointment-booking",
+   "url": "/ai-appointment-booking/",
+   "name": "AI Appointment Booking",
+   "short": "Appointment Booking",
+   "card_image": "notebook-pen-coffee-desk.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "crm-automation",
+   "url": "/ai-crm-automation/",
+   "name": "CRM Automation and Follow-Up",
+   "short": "CRM Automation",
+   "card_image": "office-laptop-folders.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "business-automation",
+   "url": "/ai-workflow-automation/",
+   "name": "Business Automation Services",
+   "short": "Business Automation",
+   "card_image": "sketches-laptop-desk-hero.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-consulting",
+   "url": "/ai-consulting/",
+   "name": "AI Consulting for Small Business",
+   "short": "AI Consulting",
+   "card_image": "small-meeting-room-round-table.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-automation-agency",
+   "url": "/ai-automation-agency/",
+   "name": "AI Automation Agency",
+   "short": "AI Automation Agency",
+   "card_image": "owner-laptop-kitchen-table-hero.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "ai-marketing",
+   "url": "/ai-lead-generation/",
+   "name": "AI Marketing: Lead Generation, Reviews and Social",
+   "short": "AI Marketing and Leads",
+   "card_image": "florist-phone-map.jpg",
+   "summary": ""
+  }
+ ],
+ "industries": [
+  {
+   "slug": "law-firms",
+   "url": "/ai-for/law-firms.html",
+   "name": "AI for Law Firms",
+   "short": "Law Firms",
+   "card_image": "office-laptop-files-glasses.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "dentists",
+   "url": "/ai-for/dentists.html",
+   "name": "AI Receptionist for Dental Offices",
+   "short": "Dentists",
+   "card_image": "dental-front-desk-phone.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "medical-offices",
+   "url": "/ai-for/medical-offices.html",
+   "name": "AI Receptionist for Medical Offices",
+   "short": "Medical Offices",
+   "card_image": "medical-office-check-in-desk.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "hvac-companies",
+   "url": "/ai-for/hvac-companies.html",
+   "name": "AI Receptionist for HVAC Companies",
+   "short": "HVAC Companies",
+   "card_image": "hvac-tech-gauges-condenser.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "plumbers",
+   "url": "/ai-for/plumbers.html",
+   "name": "AI Receptionist for Plumbers",
+   "short": "Plumbers",
+   "card_image": "plumber-kneeling-toolbox.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "contractors",
+   "url": "/ai-for/contractors.html",
+   "name": "AI for Contractors",
+   "short": "Contractors",
+   "card_image": "roofer-ladder-brick-home.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "salons",
+   "url": "/ai-for/salons.html",
+   "name": "AI Receptionist for Salons",
+   "short": "Salons",
+   "card_image": "salon-front-desk-booking.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "restaurants",
+   "url": "/ai-for/restaurants.html",
+   "name": "AI for Restaurants",
+   "short": "Restaurants",
+   "card_image": "restaurant-host-stand-phone.jpg",
+   "summary": ""
+  },
+  {
+   "slug": "real-estate-agents",
+   "url": "/ai-for/real-estate-agents.html",
+   "name": "AI for Real Estate Agents",
+   "short": "Real Estate Agents",
+   "card_image": "real-estate-agent-front-door-keys.jpg",
+   "summary": ""
+  }
+ ],
+ "guides": [
+  {
+   "slug": "cost",
+   "url": "/how-much-does-an-ai-receptionist-cost/",
+   "name": "How Much Does an AI Receptionist Cost?",
+   "short": "AI Receptionist Cost",
+   "summary": ""
+  },
+  {
+   "slug": "vs",
+   "url": "/ai-receptionist-vs-answering-service/",
+   "name": "AI Receptionist vs Answering Service vs Hiring",
+   "short": "AI vs Answering Service",
+   "summary": ""
+  },
+  {
+   "slug": "worth-it",
+   "url": "/is-an-ai-receptionist-worth-it/",
+   "name": "Is an AI Receptionist Worth It?",
+   "short": "Is It Worth It?",
+   "summary": ""
+  },
+  {
+   "slug": "what-is",
+   "url": "/what-is-an-ai-agency/",
+   "name": "What Is an AI Agency?",
+   "short": "What Is an AI Agency?",
+   "summary": ""
+  },
+  {
+   "slug": "choose",
+   "url": "/how-to-choose-an-ai-agency/",
+   "name": "How to Choose an AI Agency",
+   "short": "How to Choose an AI Agency",
+   "summary": ""
+  }
+ ]
+}

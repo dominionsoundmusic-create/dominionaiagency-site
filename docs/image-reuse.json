@@ -1,0 +1,73 @@
+{
+ "_note": "Oct 15 2026, Maurice's reuse rule. Each key is a NEW image still wanted from Artistly (docs/image-list.md). Until the file is saved in src/static/images/, build.py serves a crop of `from` (an existing photo in docs/photos.json) under the new name, with that photo's alt text. When the new image arrives, the build uses the real file and `alt` is the alt text to put in the page source.",
+ "dental-office-front-desk-hero.jpg": {
+  "from": "quiet-waiting-room-armchairs-hero.jpg",
+  "alt": "Bright dental office front desk with a phone and an appointment screen turned away, chairs in the waiting area",
+  "prompt": "Bright, modern American dental office reception area: a front desk with a desk phone and a monitor turned away from the camera, a few empty waiting chairs, plants, natural daylight through large windows, no people's faces visible."
+ },
+ "salon-stylist-station-hero.jpg": {
+  "from": "shop-owner-tablet-counter-hero.jpg",
+  "alt": "Hair salon with a stylist working at a chair while a phone sits on the front counter",
+  "prompt": "Bright neighborhood hair salon: a stylist seen from behind working on a client's hair at a styling chair, mirrors and product shelves, a smartphone resting on the front counter in the foreground, warm daylight, faces not visible."
+ },
+ "restaurant-host-stand-hero.jpg": {
+  "from": "cafe-owner-laptop-window-hero.jpg",
+  "alt": "Busy restaurant dining room at dinner service with a host stand and phone near the door",
+  "prompt": "Busy casual American restaurant at dinner service: full tables in soft focus, a host stand with a cordless phone and a reservation book near the front door, warm evening light, servers moving, no faces in focus."
+ },
+ "medical-office-reception-hero.jpg": {
+  "from": "waiting-room-sofa-lamp.jpg",
+  "alt": "Clean medical office reception desk with a phone and a quiet waiting area",
+  "prompt": "Clean, bright family medical practice reception area: a check-in desk with a phone and a monitor turned away, a few waiting chairs, plants, soft daylight, no people's faces visible, no medical procedures."
+ },
+ "real-estate-agent-home-tour-hero.jpg": {
+  "from": "two-story-brick-home-street-hero.jpg",
+  "alt": "Real estate agent walking up the front path of a two-story home for a showing",
+  "prompt": "Real estate agent seen from behind walking up the front path of an attractive two-story suburban American home on a sunny afternoon, holding a folder, green lawn, no sign text, no house numbers, face not visible."
+ },
+ "law-firm-reception-hero.jpg": {
+  "from": "office-tablet-front-window.jpg",
+  "alt": "Small law office reception area with a desk phone, legal pads and shelves of binders",
+  "prompt": "Small-town American law office reception area: a wooden desk with a desk phone, yellow legal pads and a pen, shelves of binders and law books with no readable titles, warm daylight through blinds, no people."
+ },
+ "dental-front-desk-phone.jpg": {
+  "from": "waiting-room-sofa-lamp.jpg",
+  "alt": "Dental office front desk phone beside an appointment book and a cup of pens",
+  "prompt": "Close view of a dental office front desk: a desk phone, an open appointment book with no readable writing, a cup of pens, a small plant, bright daylight, blurred waiting room behind."
+ },
+ "salon-front-desk-booking.jpg": {
+  "from": "shop-owner-phone-shelves.jpg",
+  "alt": "Salon front counter with a phone, a booking tablet and shelves of hair products",
+  "prompt": "Salon front counter with a smartphone and a tablet showing a calendar grid with no readable words, shelves of hair care bottles with no labels readable, warm light, salon chairs blurred in the background."
+ },
+ "restaurant-host-stand-phone.jpg": {
+  "from": "coffee-shop-counter-laptops.jpg",
+  "alt": "Restaurant host stand with a cordless phone and a reservation book",
+  "prompt": "Restaurant host stand by the entrance with a cordless phone and an open reservation book with no readable writing, menus stacked, dining room softly blurred behind, warm evening light."
+ },
+ "medical-office-check-in-desk.jpg": {
+  "from": "notebook-pen-table-window.jpg",
+  "alt": "Medical office check-in desk with a phone, a clipboard and hand sanitizer",
+  "prompt": "Medical office check-in desk with a desk phone, a blank clipboard with a pen, a hand sanitizer bottle with no readable label, bright clean daylight, no people."
+ },
+ "real-estate-agent-front-door-keys.jpg": {
+  "from": "phone-photo-house-front.jpg",
+  "alt": "Hand holding house keys in front of the door of a home for sale",
+  "prompt": "Close view of a hand holding a set of house keys in front of the front door of a bright suburban home, porch plants, sunny day, no house numbers, no sign text."
+ },
+ "law-office-intake-notes.jpg": {
+  "from": "small-meeting-room-round-table.jpg",
+  "alt": "Legal pad with handwritten intake notes beside a desk phone in a law office",
+  "prompt": "Close view of a yellow legal pad with illegible handwritten notes beside a desk phone and a pen on a wooden law office desk, shelves softly blurred, warm daylight."
+ },
+ "salon-stylist-blow-dry.jpg": {
+  "from": "new-store-owner-shelves.jpg",
+  "alt": "Stylist blow-drying a client's hair at a salon station",
+  "prompt": "Stylist seen from behind blow-drying a client's hair at a salon station with a large mirror, products on the counter, bright daylight, faces not visible in the mirror."
+ },
+ "restaurant-kitchen-pass-service.jpg": {
+  "from": "bakery-owner-bread-shelves-hero.jpg",
+  "alt": "Plates lined up at a restaurant kitchen pass during dinner service",
+  "prompt": "Restaurant kitchen pass during dinner service: plated dishes under warm heat lamps, a cook's hands placing a plate, stainless steel counters, busy motion, no faces."
+ }
+}

@@ -1,0 +1,15 @@
+{% set h = page.hero %}
+<section class="hero hero--{{ h.size | default('full') }}{% if not h.render_image %} hero--noimg{% endif %}">
+  {% if h.render_image %}{{ picture(h.render_image, h.render_alt, h.w, h.h, "100vw", ' class="hero__img" loading="eager" fetchpriority="high" decoding="async"' ~ (' style="object-position:' ~ h.position ~ '"' if h.position is defined else '')) }}{% endif %}
+  {% if h.pending %}<!-- new hero image still to come (docs/image-list.md): an existing photo is shown under this file name until it is saved -->{% endif %}
+  <div class="hero__fade" aria-hidden="true"></div>
+  <div class="hero__inner">
+    <h1>{{ page.h1 }}</h1>
+    <p class="hero__lead">{{ h.lead }}</p>
+    <div class="btn-row">
+      <a class="btn btn--gold" href="tel:{{ site.business.phone_tel }}">{{ site.cta.primary_label }}</a>
+      <a class="btn btn--ghost" href="{{ h.secondary_href | default(site.cta.secondary_href) }}">{{ h.secondary_label | default(site.cta.secondary_label) }}</a>
+    </div>
+    <p class="hero__note">{{ h.note | default('Our own line is answered by the AI receptionist we set up for clients. Call it and judge for yourself.') }}</p>
+  </div>
+</section>

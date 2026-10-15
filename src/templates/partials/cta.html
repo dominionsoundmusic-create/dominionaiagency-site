@@ -1,0 +1,19 @@
+{% set b = site.business %}
+<section class="band band--black cta" aria-labelledby="cta-title">
+  <div class="wide cta__grid">
+    <div class="cta__text">
+      <h2 id="cta-title">{{ page.cta_title | default('Hear the AI receptionist answer before you buy one') }}</h2>
+      <p>{{ page.cta_text | default('Call our main line. The AI receptionist that picks up is the same kind of agent we configure for clients, so you can test it with your own questions. Ask it about prices, setup or your industry, or leave a message for Maurice.') }}</p>
+      <div class="btn-row">
+        <a class="btn btn--gold btn--big" href="tel:{{ b.phone_tel }}">{{ site.cta.primary_label }}</a>
+        <a class="btn btn--ghost" href="/contact/">Send a message instead</a>
+      </div>
+    </div>
+    <ul class="cta__facts">
+      <li><strong>Answered 24/7</strong>The main line is picked up by an AI receptionist at any hour, every day.</li>
+      <li><strong>Prices on the page</strong>Packages from $597 a month and voice agents from $297 a month. Setup, training and support are included in every package.</li>
+      <li><strong>Texting comes later</strong>Voice works today. Text features switch on once carrier approval clears.</li>
+      <li><strong>Built on HighLevel</strong>A widely used platform, so your system is not a homemade tool only one person understands.</li>
+    </ul>
+  </div>
+</section>

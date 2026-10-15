@@ -1,0 +1,119 @@
+{# Shared page parts for dominionaiagency.com. A page body calls them as m.<name>(...). #}
+
+{% macro service_cards(slugs=None, more='Read more') -%}
+<div class="cards">
+{% for s in site.services if slugs is none or s.slug in slugs %}
+  <article class="card">
+    {% if s.card_image %}{{ img(s.card_image, s.card_alt | default(''), 1200, 750, note=False) | replace('<figure class="fig', '<figure class="card__fig fig') }}{% endif %}
+    <div class="card__body">
+      <h3><a href="{{ s.url }}">{{ s.name }}</a></h3>
+      <p>{{ s.summary }}</p>
+      <p class="card__more" aria-hidden="true">{{ more }}</p>
+    </div>
+  </article>
+{% endfor %}
+</div>
+{%- endmacro %}
+
+{% macro industry_cards(slugs=None, more='See the industry page') -%}
+<div class="cards">
+{% for s in site.industries if slugs is none or s.slug in slugs %}
+  <article class="card">
+    {% if s.card_image %}{{ img(s.card_image, s.card_alt | default(''), 1200, 750, note=False) | replace('<figure class="fig', '<figure class="card__fig fig') }}{% endif %}
+    <div class="card__body">
+      <h3><a href="{{ s.url }}">{{ s.name }}</a></h3>
+      <p>{{ s.summary }}</p>
+      <p class="card__more" aria-hidden="true">{{ more }}</p>
+    </div>
+  </article>
+{% endfor %}
+</div>
+{%- endmacro %}
+
+{% macro guide_cards(slugs=None) -%}
+<div class="cards">
+{% for g in site.guides if slugs is none or g.slug in slugs %}
+  <article class="card card--text">
+    <div class="card__body">
+      <h3><a href="{{ g.url }}">{{ g.name }}</a></h3>
+      <p>{{ g.summary }}</p>
+      <p class="card__more" aria-hidden="true">Read the guide</p>
+    </div>
+  </article>
+{% endfor %}
+</div>
+{%- endmacro %}
+
+{# related(['ai-receptionist', 'ind:dentists', 'guide:cost'], title) : link pills to services, industries and guides #}
+{% macro related(slugs, title='Related pages') -%}
+<h2>{{ title }}</h2>
+<ul class="pill-list">
+{% for slug in slugs %}
+  {% if slug.startswith('guide:') %}{% set g = guide(slug[6:]) %}<li><a href="{{ g.url }}">{{ g.name }}</a></li>
+  {% elif slug.startswith('ind:') %}{% set a = ind(slug[4:]) %}<li><a href="{{ a.url }}">{{ a.name }}</a></li>
+  {% else %}{% set s = svc(slug) %}<li><a href="{{ s.url }}">{{ s.name }}</a></li>{% endif %}
+{% endfor %}
+</ul>
+{%- endmacro %}
+
+{% macro call_box(text='The quickest way to judge an AI receptionist is to talk to one. Our main line is answered by the same kind of agent we set up for clients. Ask it anything you would want your own callers to ask.') -%}
+<div class="note note--gold">
+  <p>{{ text }}</p>
+  <p><a class="btn btn--black btn--sm" href="tel:{{ site.business.phone_tel }}">{{ site.cta.primary_label }}</a></p>
+</div>
+{%- endmacro %}
+
+{# The texting status note. Every page that mentions SMS, texts or text back carries it (CLAUDE.md rule 3). #}
+{% macro texting_note(extra='') -%}
+<div class="note note--texting">
+  <p><strong>Texting is not live yet.</strong> Voice works today. Text messages (missed call text back, text reminders and texted review requests) switch on once carrier approval clears; that approval is the A2P 10DLC registration US carriers require for business texting from a regular local number. {{ extra }}</p>
+</div>
+{%- endmacro %}
+
+{# What it does not do: a page passes its own list; these limits are stated on every service and industry page. #}
+{% macro limits(items, title='What it does not do') -%}
+<div class="panel panel--limits">
+  <h3>{{ title }}</h3>
+  <ul class="checks checks--no">
+  {% for i in items %}<li>{{ i }}</li>{% endfor %}
+  </ul>
+</div>
+{%- endmacro %}
+
+{% macro packages(note=True) -%}
+{% set p = site.prices %}
+<div class="price-grid">
+{% for k in p.packages %}
+  <div class="price-card{% if loop.index == 2 %} price-card--mid{% endif %}">
+    <h3>{{ k.name }}</h3>
+    <p class="price-card__price"><span>{{ k.price }}</span>{{ k.unit }}</p>
+    <ul class="checks">{% for i in k['items'] %}<li>{{ i }}</li>{% endfor %}</ul>
+  </div>
+{% endfor %}
+</div>
+{% if note %}<p class="small">{{ p.included }} Features that depend on texting switch on once carrier approval clears.</p>{% endif %}
+{%- endmacro %}
+
+{% macro single_prices() -%}
+<div class="table-wrap"><table>
+<thead><tr><th scope="col">Single service</th><th scope="col">Price</th></tr></thead>
+<tbody>
+{% for s in site.prices.single %}<tr><td><a href="{{ s.url }}">{{ s.name }}</a></td><td>{{ s.price }}</td></tr>
+{% endfor %}
+</tbody></table></div>
+{%- endmacro %}
+
+{% macro demo_link(text='Want to see what a new website could look like first? Dominion Web Design Pro, our sister brand, has a free demo builder.') -%}
+<p class="demo-link">{{ text }} <a href="{{ site.business.demo_url }}" target="_blank" rel="noopener">See a free website demo<span class="sr"> (opens in a new tab)</span></a></p>
+{%- endmacro %}
+
+{% macro sources(items) -%}
+<aside class="sources" aria-labelledby="sources-title">
+  <h2 id="sources-title">Sources</h2>
+  <ul>
+  {% for s in items %}
+    <li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.label }}</a></li>
+  {% endfor %}
+  </ul>
+</aside>
+{%- endmacro %}
