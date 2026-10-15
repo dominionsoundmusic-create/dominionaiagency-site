@@ -83,7 +83,12 @@ def load(dist):
 # 8-word runs that are only proper names or carrier wording cannot be reworded.
 NAMES = ("dominion digital group", "all rights reserved", "no mobile information will be shared", "a2p 10dlc",
          "telephone consumer protection act", "federal communications commission", "bureau of labor statistics",
-         "health insurance portability and accountability act")
+         "health insurance portability and accountability act",
+         # the legal d/b/a line and carrier-required SMS wording (CTIA / A2P registration) are the same on every Dominion site by design
+         "d b a of dominion", "is a d b a of", "the brand is a d b a", "mobile information will be shared with third parties",
+         "shared with third parties or affiliates for", "third parties or affiliates for marketing", "affiliates for marketing or promotional purposes",
+         "originator opt in data and consent", "not liable for delayed or undelivered messages", "carriers are not liable for delayed",
+         "message and data rates may apply", "message frequency varies", "information will be shared with third parties", "will be shared with third parties or")
 
 
 def runs8(words):

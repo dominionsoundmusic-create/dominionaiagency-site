@@ -15,7 +15,142 @@ shops, salons, kitchens, job sites), natural daylight, no text, no logos, no wat
 readable words, no recognizable faces. Every prompt starts with: wide cinematic landscape shot, subject
 positioned on right third of frame, well lit. Heroes 1920x1080, in-body images 1200x800.
 
-Total: 0 images (0 heroes at 1920x1080 listed first, then 0 in-body images at 1200x800).
+Total: 15 images (7 heroes at 1920x1080 listed first, then 8 in-body images at 1200x800).
 
 | # | File name | Size | Stand-in until it arrives | Pages |
 |---:|---|---|---|---|
+| 1 | dental-office-front-desk-hero.jpg | 1920x1080 | quiet-waiting-room-armchairs-hero.jpg | 1 page(s) |
+| 2 | law-firm-reception-hero.jpg | 1920x1080 | office-tablet-front-window.jpg | 1 page(s) |
+| 3 | medical-office-reception-hero.jpg | 1920x1080 | waiting-room-sofa-lamp.jpg | 1 page(s) |
+| 4 | plumber-under-kitchen-sink-hero.jpg | 1920x1080 | brick-ranch-home-oak-hero.jpg | 1 page(s) |
+| 5 | real-estate-agent-home-tour-hero.jpg | 1920x1080 | two-story-brick-home-street-hero.jpg | 1 page(s) |
+| 6 | restaurant-host-stand-hero.jpg | 1920x1080 | cafe-owner-laptop-window-hero.jpg | 1 page(s) |
+| 7 | salon-stylist-station-hero.jpg | 1920x1080 | shop-owner-tablet-counter-hero.jpg | 1 page(s) |
+| 8 | dental-front-desk-phone.jpg | 1200x800 | waiting-room-sofa-lamp.jpg | 1 page(s) |
+| 9 | law-office-intake-notes.jpg | 1200x800 | small-meeting-room-round-table.jpg | 1 page(s) |
+| 10 | medical-office-check-in-desk.jpg | 1200x800 | notebook-pen-table-window.jpg | 1 page(s) |
+| 11 | real-estate-agent-front-door-keys.jpg | 1200x800 | phone-photo-house-front.jpg | 1 page(s) |
+| 12 | restaurant-host-stand-phone.jpg | 1200x800 | coffee-shop-counter-laptops.jpg | 1 page(s) |
+| 13 | restaurant-kitchen-pass-service.jpg | 1200x800 | bakery-owner-bread-shelves-hero.jpg | 1 page(s) |
+| 14 | salon-front-desk-booking.jpg | 1200x800 | shop-owner-phone-shelves.jpg | 1 page(s) |
+| 15 | salon-stylist-blow-dry.jpg | 1200x800 | new-store-owner-shelves.jpg | 1 page(s) |
+
+## 1. dental-office-front-desk-hero.jpg
+
+- File name: `dental-office-front-desk-hero.jpg`
+- Size: 1920x1080 px
+- Used on: /ai-for/dentists.html
+- Alt text once it arrives: Bright dental office front desk with a phone and an appointment screen turned away, chairs in the waiting area
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Bright, modern American dental office reception area: a front desk with a desk phone and a monitor turned away from the camera, a few empty waiting chairs, plants, natural daylight through large windows, no people's faces visible. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 2. law-firm-reception-hero.jpg
+
+- File name: `law-firm-reception-hero.jpg`
+- Size: 1920x1080 px
+- Used on: /ai-for/law-firms.html
+- Alt text once it arrives: Small law office reception area with a desk phone, legal pads and shelves of binders
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Small-town American law office reception area: a wooden desk with a desk phone, yellow legal pads and a pen, shelves of binders and law books with no readable titles, warm daylight through blinds, no people. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 3. medical-office-reception-hero.jpg
+
+- File name: `medical-office-reception-hero.jpg`
+- Size: 1920x1080 px
+- Used on: /ai-for/medical-offices.html
+- Alt text once it arrives: Clean medical office reception desk with a phone and a quiet waiting area
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Clean, bright family medical practice reception area: a check-in desk with a phone and a monitor turned away, a few waiting chairs, plants, soft daylight, no people's faces visible, no medical procedures. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 4. plumber-under-kitchen-sink-hero.jpg
+
+- File name: `plumber-under-kitchen-sink-hero.jpg`
+- Size: 1920x1080 px
+- Used on: /ai-for/plumbers.html
+- Alt text once it arrives: Plumber working under a kitchen sink with a flashlight and tools
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Plumber seen from the side lying under an open kitchen sink cabinet with a flashlight and a wrench, toolbox on the tile floor, bright suburban kitchen, daylight, face not visible. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 5. real-estate-agent-home-tour-hero.jpg
+
+- File name: `real-estate-agent-home-tour-hero.jpg`
+- Size: 1920x1080 px
+- Used on: /ai-for/real-estate-agents.html
+- Alt text once it arrives: Real estate agent walking up the front path of a two-story home for a showing
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Real estate agent seen from behind walking up the front path of an attractive two-story suburban American home on a sunny afternoon, holding a folder, green lawn, no sign text, no house numbers, face not visible. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 6. restaurant-host-stand-hero.jpg
+
+- File name: `restaurant-host-stand-hero.jpg`
+- Size: 1920x1080 px
+- Used on: /ai-for/restaurants.html
+- Alt text once it arrives: Busy restaurant dining room at dinner service with a host stand and phone near the door
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Busy casual American restaurant at dinner service: full tables in soft focus, a host stand with a cordless phone and a reservation book near the front door, warm evening light, servers moving, no faces in focus. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 7. salon-stylist-station-hero.jpg
+
+- File name: `salon-stylist-station-hero.jpg`
+- Size: 1920x1080 px
+- Used on: /ai-for/salons.html
+- Alt text once it arrives: Hair salon with a stylist working at a chair while a phone sits on the front counter
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Bright neighborhood hair salon: a stylist seen from behind working on a client's hair at a styling chair, mirrors and product shelves, a smartphone resting on the front counter in the foreground, warm daylight, faces not visible. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 8. dental-front-desk-phone.jpg
+
+- File name: `dental-front-desk-phone.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/dentists.html
+- Alt text once it arrives: Dental office front desk phone beside an appointment book and a cup of pens
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a dental office front desk: a desk phone, an open appointment book with no readable writing, a cup of pens, a small plant, bright daylight, blurred waiting room behind. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 9. law-office-intake-notes.jpg
+
+- File name: `law-office-intake-notes.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/law-firms.html
+- Alt text once it arrives: Legal pad with handwritten intake notes beside a desk phone in a law office
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a yellow legal pad with illegible handwritten notes beside a desk phone and a pen on a wooden law office desk, shelves softly blurred, warm daylight. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 10. medical-office-check-in-desk.jpg
+
+- File name: `medical-office-check-in-desk.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/medical-offices.html
+- Alt text once it arrives: Medical office check-in desk with a phone, a clipboard and hand sanitizer
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Medical office check-in desk with a desk phone, a blank clipboard with a pen, a hand sanitizer bottle with no readable label, bright clean daylight, no people. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 11. real-estate-agent-front-door-keys.jpg
+
+- File name: `real-estate-agent-front-door-keys.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/real-estate-agents.html
+- Alt text once it arrives: Hand holding house keys in front of the door of a home for sale
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a hand holding a set of house keys in front of the front door of a bright suburban home, porch plants, sunny day, no house numbers, no sign text. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 12. restaurant-host-stand-phone.jpg
+
+- File name: `restaurant-host-stand-phone.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/restaurants.html
+- Alt text once it arrives: Restaurant host stand with a cordless phone and a reservation book
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Restaurant host stand by the entrance with a cordless phone and an open reservation book with no readable writing, menus stacked, dining room softly blurred behind, warm evening light. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 13. restaurant-kitchen-pass-service.jpg
+
+- File name: `restaurant-kitchen-pass-service.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/restaurants.html
+- Alt text once it arrives: Plates lined up at a restaurant kitchen pass during dinner service
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Restaurant kitchen pass during dinner service: plated dishes under warm heat lamps, a cook's hands placing a plate, stainless steel counters, busy motion, no faces. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 14. salon-front-desk-booking.jpg
+
+- File name: `salon-front-desk-booking.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/salons.html
+- Alt text once it arrives: Salon front counter with a phone, a booking tablet and shelves of hair products
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Salon front counter with a smartphone and a tablet showing a calendar grid with no readable words, shelves of hair care bottles with no labels readable, warm light, salon chairs blurred in the background. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
+
+## 15. salon-stylist-blow-dry.jpg
+
+- File name: `salon-stylist-blow-dry.jpg`
+- Size: 1200x800 px
+- Used on: /ai-for/salons.html
+- Alt text once it arrives: Stylist blow-drying a client's hair at a salon station
+- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Stylist seen from behind blow-drying a client's hair at a salon station with a large mirror, products on the counter, bright daylight, faces not visible in the mirror. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
