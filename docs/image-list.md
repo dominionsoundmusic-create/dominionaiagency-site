@@ -15,61 +15,7 @@ shops, salons, kitchens, job sites), natural daylight, no text, no logos, no wat
 readable words, no recognizable faces. Every prompt starts with: wide cinematic landscape shot, subject
 positioned on right third of frame, well lit. Heroes 1920x1080, in-body images 1200x800.
 
-Total: 6 images (1 heroes at 1920x1080 listed first, then 5 in-body images at 1200x800).
+Total: 0 images (0 heroes at 1920x1080 listed first, then 0 in-body images at 1200x800).
 
 | # | File name | Size | Stand-in until it arrives | Pages |
 |---:|---|---|---|---|
-| 1 | restaurant-host-stand-hero.jpg | 1920x1080 | cafe-owner-laptop-window-hero.jpg | 1 page(s) |
-| 2 | real-estate-agent-front-door-keys.jpg | 1200x800 | phone-photo-house-front.jpg | 1 page(s) |
-| 3 | restaurant-host-stand-phone.jpg | 1200x800 | coffee-shop-counter-laptops.jpg | 1 page(s) |
-| 4 | restaurant-kitchen-pass-service.jpg | 1200x800 | bakery-owner-bread-shelves-hero.jpg | 1 page(s) |
-| 5 | salon-front-desk-booking.jpg | 1200x800 | shop-owner-phone-shelves.jpg | 1 page(s) |
-| 6 | salon-stylist-blow-dry.jpg | 1200x800 | new-store-owner-shelves.jpg | 1 page(s) |
-
-## 1. restaurant-host-stand-hero.jpg
-
-- File name: `restaurant-host-stand-hero.jpg`
-- Size: 1920x1080 px
-- Used on: /ai-for/restaurants.html
-- Alt text once it arrives: Busy restaurant dining room at dinner service with a host stand and phone near the door
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Busy casual American restaurant at dinner service: full tables in soft focus, a host stand with a cordless phone and a reservation book near the front door, warm evening light, servers moving, no faces in focus. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
-
-## 2. real-estate-agent-front-door-keys.jpg
-
-- File name: `real-estate-agent-front-door-keys.jpg`
-- Size: 1200x800 px
-- Used on: /ai-for/real-estate-agents.html
-- Alt text once it arrives: Hand holding house keys in front of the door of a home for sale
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Close view of a hand holding a set of house keys in front of the front door of a bright suburban home, porch plants, sunny day, no house numbers, no sign text. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
-
-## 3. restaurant-host-stand-phone.jpg
-
-- File name: `restaurant-host-stand-phone.jpg`
-- Size: 1200x800 px
-- Used on: /ai-for/restaurants.html
-- Alt text once it arrives: Restaurant host stand with a cordless phone and a reservation book
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Restaurant host stand by the entrance with a cordless phone and an open reservation book with no readable writing, menus stacked, dining room softly blurred behind, warm evening light. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
-
-## 4. restaurant-kitchen-pass-service.jpg
-
-- File name: `restaurant-kitchen-pass-service.jpg`
-- Size: 1200x800 px
-- Used on: /ai-for/restaurants.html
-- Alt text once it arrives: Plates lined up at a restaurant kitchen pass during dinner service
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Restaurant kitchen pass during dinner service: plated dishes under warm heat lamps, a cook's hands placing a plate, stainless steel counters, busy motion, no faces. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
-
-## 5. salon-front-desk-booking.jpg
-
-- File name: `salon-front-desk-booking.jpg`
-- Size: 1200x800 px
-- Used on: /ai-for/salons.html
-- Alt text once it arrives: Salon front counter with a phone, a booking tablet and shelves of hair products
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Salon front counter with a smartphone and a tablet showing a calendar grid with no readable words, shelves of hair care bottles with no labels readable, warm light, salon chairs blurred in the background. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.
-
-## 6. salon-stylist-blow-dry.jpg
-
-- File name: `salon-stylist-blow-dry.jpg`
-- Size: 1200x800 px
-- Used on: /ai-for/salons.html
-- Alt text once it arrives: Stylist blow-drying a client's hair at a salon station
-- Artistly prompt: Wide cinematic landscape shot, subject positioned on right third of frame, well lit. Stylist seen from behind blow-drying a client's hair at a salon station with a large mirror, products on the counter, bright daylight, faces not visible in the mirror. Bright, clearly visible, realistic photo of an American small business setting, no text, no logos, no screens with readable words, no recognizable faces.

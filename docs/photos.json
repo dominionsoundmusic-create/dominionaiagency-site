@@ -484,5 +484,41 @@
   "group": "medical-office-check-in-desk",
   "origin": "Artistly, Oct 15 2026",
   "size": "1200x800"
+ },
+ "restaurant-host-stand-hero.jpg": {
+  "alt": "Restaurant dining room set for dinner, with a host stand, phone and reservation book by the front door",
+  "group": "restaurant-host-stand-hero",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "real-estate-agent-front-door-keys.jpg": {
+  "alt": "Hand holding house keys in front of the door of a home for sale",
+  "group": "real-estate-agent-front-door-keys",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
+ },
+ "restaurant-host-stand-phone.jpg": {
+  "alt": "Restaurant host stand with a cordless phone and a reservation book",
+  "group": "restaurant-host-stand-phone",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
+ },
+ "restaurant-kitchen-pass-service.jpg": {
+  "alt": "Plates lined up at a restaurant kitchen pass during dinner service",
+  "group": "restaurant-kitchen-pass-service",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
+ },
+ "salon-front-desk-booking.jpg": {
+  "alt": "Salon front counter with a phone, a booking calendar on a tablet and shelves of hair products",
+  "group": "salon-front-desk-booking",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
+ },
+ "salon-stylist-blow-dry.jpg": {
+  "alt": "Stylist blow-drying a client's hair at a salon station",
+  "group": "salon-stylist-blow-dry",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
  }
 }

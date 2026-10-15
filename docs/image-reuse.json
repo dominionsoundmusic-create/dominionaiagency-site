@@ -1,33 +1,3 @@
 {
- "_note": "Oct 15 2026, Maurice's reuse rule. Each key is a NEW image still wanted from Artistly (docs/image-list.md). Until the file is saved in src/static/images/, build.py serves a crop of `from` (an existing photo in docs/photos.json) under the new name, with that photo's alt text. When the new image arrives, the build uses the real file and `alt` is the alt text to put in the page source.",
- "restaurant-host-stand-hero.jpg": {
-  "from": "cafe-owner-laptop-window-hero.jpg",
-  "alt": "Busy restaurant dining room at dinner service with a host stand and phone near the door",
-  "prompt": "Busy casual American restaurant at dinner service: full tables in soft focus, a host stand with a cordless phone and a reservation book near the front door, warm evening light, servers moving, no faces in focus."
- },
- "salon-front-desk-booking.jpg": {
-  "from": "shop-owner-phone-shelves.jpg",
-  "alt": "Salon front counter with a phone, a booking tablet and shelves of hair products",
-  "prompt": "Salon front counter with a smartphone and a tablet showing a calendar grid with no readable words, shelves of hair care bottles with no labels readable, warm light, salon chairs blurred in the background."
- },
- "restaurant-host-stand-phone.jpg": {
-  "from": "coffee-shop-counter-laptops.jpg",
-  "alt": "Restaurant host stand with a cordless phone and a reservation book",
-  "prompt": "Restaurant host stand by the entrance with a cordless phone and an open reservation book with no readable writing, menus stacked, dining room softly blurred behind, warm evening light."
- },
- "real-estate-agent-front-door-keys.jpg": {
-  "from": "phone-photo-house-front.jpg",
-  "alt": "Hand holding house keys in front of the door of a home for sale",
-  "prompt": "Close view of a hand holding a set of house keys in front of the front door of a bright suburban home, porch plants, sunny day, no house numbers, no sign text."
- },
- "salon-stylist-blow-dry.jpg": {
-  "from": "new-store-owner-shelves.jpg",
-  "alt": "Stylist blow-drying a client's hair at a salon station",
-  "prompt": "Stylist seen from behind blow-drying a client's hair at a salon station with a large mirror, products on the counter, bright daylight, faces not visible in the mirror."
- },
- "restaurant-kitchen-pass-service.jpg": {
-  "from": "bakery-owner-bread-shelves-hero.jpg",
-  "alt": "Plates lined up at a restaurant kitchen pass during dinner service",
-  "prompt": "Restaurant kitchen pass during dinner service: plated dishes under warm heat lamps, a cook's hands placing a plate, stainless steel counters, busy motion, no faces."
- }
+ "_note": "Oct 15 2026, Maurice's reuse rule. Each key is a NEW image still wanted from Artistly (docs/image-list.md). Until the file is saved in src/static/images/, build.py serves a crop of `from` (an existing photo in docs/photos.json) under the new name, with that photo's alt text. When the new image arrives, the build uses the real file and `alt` is the alt text to put in the page source."
 }
