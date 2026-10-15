@@ -1,0 +1,153 @@
+---
+type: industry
+url: /ai-for/law-firms.html
+title: "AI for Law Firms: AI Receptionist and Intake for Small Firms"
+description: "AI for law firms, set up around intake: an AI receptionist that answers new-client calls, collects conflict-check names and books consults. No legal advice."
+h1: "AI for Law Firms, Built Around the Intake Call"
+crumb: "Law firms"
+card_summary: "An AI receptionist for law firms that answers new-client calls at any hour, gathers conflict-check names and books consultations, without giving legal advice."
+schema_service:
+  name: "AI receptionist and intake setup for law firms"
+  type: "AI receptionist"
+  audience: "Law firms"
+  offers:
+    - {name: "AI voice agent", price: 297, unit: "MONTH", description: "From $297 a month"}
+    - {name: "AI Starter", price: 597, unit: "MONTH", description: "AI voice agent (inbound), CRM automation setup, review management, monthly reporting, email support"}
+hero:
+  image: law-firm-reception-hero.jpg
+  alt: "Small law office reception area with a desk phone, legal pads and shelves of binders"
+  lead: "We set up an AI receptionist that answers your firm's new-client calls, asks the intake questions you approve, gathers the names your conflict check needs and books the consultation. It never gives legal advice."
+  secondary_label: "See the ethics lines"
+  secondary_href: "#ethics"
+faq_title: "Questions firms ask about AI intake"
+faqs:
+  - q: "What is the best AI for law firms?"
+    a: "<p>It depends on where the firm loses time. For research and drafting, lawyers use tools built for that work and check every result themselves. For the front door, the useful kind of AI is an intake agent that answers the phone, asks your intake questions and books a consult. That second kind is what we set up. Whatever you pick, ABA Formal Opinion 512 expects you to understand what the tool does and to protect client information.</p>"
+  - q: "Can an AI receptionist for law firms give legal advice?"
+    a: "<p>Ours does not, and it is built to refuse. If a caller asks whether they have a case, what it is worth or what to do next, the agent says it cannot answer legal questions, that an attorney will review the information, and that no attorney-client relationship exists yet. Then it goes back to collecting intake details or booking the consultation. The script for that refusal is written with you and tested before it goes live.</p>"
+  - q: "Does calling an AI intake line create an attorney-client relationship?"
+    a: "<p>The agent tells callers that it does not, and the firm decides when representation starts, usually with a signed engagement. Be aware, though, that ABA Model Rule 1.18 gives duties to prospective clients even when no engagement follows, including keeping what they told you confidential. That is one reason our intake script collects the names for a conflict check first and keeps the description of the matter short. Your state's version of the rules controls.</p>"
+  - q: "Is AI for small law firms worth the cost?"
+    a: "<p>For a solo or small firm, the honest test is how many potential clients reach voicemail while you are in court, in a meeting or asleep, and what one new matter is worth to you. A single AI voice agent starts at $297 a month here. Call our main line and listen to how it handles an intake-style conversation before you decide; if it would not satisfy you, it will not satisfy your callers.</p>"
+  - q: "Can AI agents for law firms call leads back?"
+    a: "<p>Outbound calls are possible on the AI Pro package, but we only set them up to call back people who asked for a call, such as someone who filled in your web form. Calling strangers about a legal matter runs into Model Rule 7.3 on solicitation, and the FCC ruled in February 2024 that AI-generated voices count as artificial voices under the TCPA, which brings consent rules with them. Your firm makes that call with its own counsel.</p>"
+---
+{% block content %}
+<section class="prose">
+  <p class="lead">Most writing about AI for law firms is about research and drafting. This page is about the first conversation: the phone call from someone who needs a lawyer, often at an hour when nobody at the firm can pick up.</p>
+  <p>That call is where a small firm wins or loses a matter before any legal work happens. We set up an AI receptionist for law firms on HighLevel that answers that call with your firm's name, asks the questions on your intake sheet, gathers what the conflict check needs, books the consultation into your calendar and emails a written summary to whoever handles intake. It is a front desk tool. It does not draft, research or advise.</p>
+  {{ m.call_box('Before you read further, call our main line. It is answered by the same kind of AI receptionist we build for firms. Pretend you were just in a car accident, or just got served, and see how it handles you.') }}
+</section>
+
+<section class="prose">
+  <h2>Who calls a law firm, and when</h2>
+  <p class="section-intro">Calls to a firm follow the event that caused them, not your office hours. The pattern changes by practice area, so the intake script does too.</p>
+  <div class="table-wrap"><table>
+    <thead><tr><th scope="col">Practice area</th><th scope="col">Who is usually calling</th><th scope="col">When the call tends to come</th><th scope="col">What the agent asks first</th></tr></thead>
+    <tbody>
+      <tr><td>Personal injury</td><td>The injured person, or a spouse or parent calling for them</td><td>After a crash, a fall, or the first call from an insurance adjuster, often evenings and weekends</td><td>Names of everyone involved, date and place of the incident, whether anyone was treated</td></tr>
+      <tr><td>Family law</td><td>A spouse or parent who just received papers or decided to file</td><td>Early morning or late at night, when the caller has privacy</td><td>Names of the other party and children, county, any court date already set</td></tr>
+      <tr><td>Criminal defense</td><td>A relative of someone just arrested, or the person after release</td><td>Any hour, including overnight</td><td>Name of the accused, the county or court, the next court date</td></tr>
+      <tr><td>Estate planning and probate</td><td>Adult children, a surviving spouse, retirees planning ahead</td><td>Mostly business hours, unhurried</td><td>Who the plan or estate is for, the county, what documents already exist</td></tr>
+      <tr><td>Employment and small business</td><td>Workers who were let go, owners with a dispute</td><td>Lunch breaks and after work</td><td>Names of the employer or other company, dates, any deadline in a letter they received</td></tr>
+    </tbody>
+  </table></div>
+  <p>You tell us which of these you handle and which you refer out. A caller with a matter you do not take hears that politely and, if you want, gets the name of the referral resource you choose, instead of a consultation that wastes both of your time.</p>
+</section>
+
+<section class="prose">
+  <div class="split">
+    <div>
+      <h2>What the AI intake agent collects on the call</h2>
+      <p>Order matters on a legal intake call. The agent is configured to gather the minimum the firm needs to decide whether to talk to this person, in this sequence:</p>
+      <ol class="steps">
+        <li><strong>Who is calling and how to reach them.</strong> Name, the best number and email, and whether it is safe to leave a message there. In family and criminal matters that last question matters.</li>
+        <li><strong>The names for your conflict check.</strong> The caller, the other party, and anyone else you list on your intake form. These go to the top of the summary so a person at the firm can run the check before anyone hears the story.</li>
+        <li><strong>A short description, not the whole story.</strong> Practice area, county, a sentence or two about what happened. The agent is told not to draw out detail the firm has not decided it wants yet.</li>
+        <li><strong>Deadlines the caller already knows about.</strong> A court date, a letter with a response date, a hearing. Anything time sensitive is flagged at the top of the email.</li>
+        <li><strong>The consultation.</strong> Booked into the calendar you give us, under the rules you set: which attorney, what length, whether it is by phone or in person.</li>
+      </ol>
+    </div>
+    {{ img('law-office-intake-notes.jpg', 'Legal pad with handwritten intake notes beside a desk phone in a law office', 1200, 800) }}
+  </div>
+  <p>Everything lands in a CRM record in HighLevel and in an email to the intake person. If your firm uses practice management software, we look at whether it can receive the record before we promise it will; some firms simply copy the summary in by hand at first, and that is fine.</p>
+</section>
+
+<section class="band band--tint" id="ethics">
+  <div class="wide">
+    <h2>The ethics lines we build into a law firm intake agent</h2>
+    <p class="section-intro">We are not lawyers and this is not legal advice. These are the published ABA sources a firm should read before it puts any AI on its phone, and how each one shapes what we configure. States adopt the Model Rules with their own changes, so check your state's version with your own ethics counsel.</p>
+    <div class="grid-2">
+      <div class="panel">
+        <h3>ABA Formal Opinion 512</h3>
+        <p>Issued July 29, 2024, it was the ABA's first formal ethics opinion on lawyers using generative AI. It covers competence, confidentiality, communication with clients, supervision and fees. In plain terms: know what the tool does, protect client information when it goes into one, and do not treat a boilerplate line in an engagement letter as consent. We give you a written description of what the agent does with call information so you can make that judgment.</p>
+      </div>
+      <div class="panel">
+        <h3>Model Rule 5.3: supervision</h3>
+        <p>Lawyers with managerial authority must make reasonable efforts to have measures in place giving reasonable assurance that nonlawyer assistance fits the lawyer's own obligations, and Opinion 512 applies that thinking to AI tools. Practically, a lawyer at the firm should approve the intake script, listen to test calls and read the summaries. We do not switch the agent on until someone at the firm has signed off.</p>
+      </div>
+      <div class="panel">
+        <h3>Model Rule 1.18: prospective clients</h3>
+        <p>Someone who consults a lawyer about possibly hiring them is owed confidentiality even if they never become a client, and what they say can create a conflict. That is why the script asks for conflict names first and keeps the description short: the rule's screening exception looks at whether the lawyer avoided learning more than was reasonably necessary.</p>
+      </div>
+      <div class="panel">
+        <h3>Model Rule 1.6 and Rule 7.3</h3>
+        <p>Rule 1.6(c) asks for reasonable efforts to prevent unauthorized disclosure of client information, so access to call recordings and summaries is limited to people you name. Rule 7.3 restricts live person-to-person solicitation for pecuniary gain, so the agent answers people who called you and calls back only people who asked to be called.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>AI for small law firms and solo practices</h2>
+  <div class="split">
+    {{ img('contract-papers-table.jpg', 'Person reviewing printed forms on a table by a window', 1200, 800) }}
+    <div>
+      <p>A large firm has a receptionist and an intake department. A solo practitioner has a cell phone that rings during a hearing. For small firms the value of AI is less about cleverness and more about coverage: someone answers, in the firm's name, while the lawyer is in court, with a client, driving between courthouses or asleep.</p>
+      <p>What a small firm usually asks us for:</p>
+      <ul class="checks">
+        <li>A greeting that sounds like the firm, not like a call center, with the attorney's name if you want it said</li>
+        <li>An honest answer to "is this a real person?" (it says it is an AI assistant for the firm)</li>
+        <li>Booking only into slots you have opened, so a court day stays blocked</li>
+        <li>A transfer to your cell for a short list of situations you define, with everything else held for the morning</li>
+        <li>Answers to the questions you hear every week: where you are, whether you charge for a first consult, what to bring, whether you handle a given type of case</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>AI for personal injury law firms</h2>
+  <p>Personal injury calls have their own rhythm. The caller may be at home after an emergency room visit, may be calling for someone who is still in the hospital, and may have just had a first conversation with an insurance adjuster. They often call several firms. An AI answering service for law firms helps here because it can take that call at nine on a Saturday night with a calm, consistent set of questions.</p>
+  <p>What we configure for injury practices in particular:</p>
+  <div class="grid-3">
+    <div class="panel"><h3>Incident basics</h3><p>Date, location and type of incident, other people or companies involved, and whether a police or incident report exists. No questions about fault, and no opinion on the case.</p></div>
+    <div class="panel"><h3>Treatment, in one line</h3><p>Only whether the caller was treated and where, so the attorney can decide how urgent the follow-up is. The agent does not ask for medical details or records.</p></div>
+    <div class="panel"><h3>Deadline flag</h3><p>Limitation periods vary by state and by claim. The agent does not state one. It flags every injury call as time sensitive for an attorney to review.</p></div>
+  </div>
+  <p>Some injury firms ask about outbound AI calling to buy leads or reach accident victims. We do not set that up. Beyond Rule 7.3, the FCC's February 2024 declaratory ruling treats AI-generated voices as artificial voices under the Telephone Consumer Protection Act, which brings prior consent requirements to those calls. Callbacks to people who asked for one are a different matter, and your counsel can tell you how your state treats them.</p>
+</section>
+
+<section class="prose">
+  <h2>Price, limits and how it gets on your line</h2>
+  <div class="split">
+    <div>
+      <p>A single AI voice agent starts at $297 a month. AI Starter, at $597 a month, adds CRM automation setup, review management and monthly reporting. Setup, training and support are included in every package. The <a href="/pricing/">pricing page</a> has the full list, and <a href="/how-it-works/">how it works</a> walks through the setup steps, which usually end with forwarding the number you already have.</p>
+      <p>Follow-up after the call runs by email today: a confirmation of the consultation time, and a reminder before it.</p>
+      {{ m.texting_note('Until then, consultation confirmations and reminders go by email, and the agent can confirm the time by voice on the call.') }}
+    </div>
+    {{ img('desk-phone-laptop-lamp.jpg', 'Desk with an office phone, a laptop and a sketch pad under a lamp', 1200, 800) }}
+  </div>
+  {{ m.limits(['Give legal advice, predict outcomes or say whether a caller has a case', 'Create an attorney-client relationship (the agent tells callers so)', 'Run conflict checks or accept or decline a matter: those stay with people at the firm', 'Quote fees beyond what you tell it to say', 'Call people who did not ask to be called', 'Connect to your practice management software until we have confirmed that it can']) }}
+  {{ m.related(['ai-receptionist', 'ai-answering-service', 'ai-appointment-booking', 'ai-consulting', 'guide:choose', 'ind:medical-offices'], 'Related pages for firms') }}
+  {{ m.sources([
+    {'label': 'American Bar Association: ABA issues first ethics guidance on lawyers using AI tools (Formal Opinion 512, July 29, 2024)', 'url': 'https://www.americanbar.org/news/abanews/aba-news-archives/2024/07/aba-issues-guidance-lawyers-use-ai-tools/'},
+    {'label': 'ABA Model Rules of Professional Conduct, Rule 5.3: Responsibilities Regarding Nonlawyer Assistance', 'url': 'https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_5_3_responsibilities_regarding_nonlawyer_assistant/'},
+    {'label': 'ABA Model Rules of Professional Conduct, Rule 1.18: Duties to Prospective Client', 'url': 'https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_18_duties_of_prospective_client/'},
+    {'label': 'ABA Model Rules of Professional Conduct, Rule 1.6: Confidentiality of Information', 'url': 'https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_6_confidentiality_of_information/'},
+    {'label': 'ABA Model Rules of Professional Conduct, Rule 7.3: Solicitation of Clients', 'url': 'https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_7_3_direct_contact_with_prospective_clients/'},
+    {'label': 'FCC: FCC makes AI-generated voices in robocalls illegal (Declaratory Ruling, February 8, 2024)', 'url': 'https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal'},
+    {'label': 'HighLevel: official site (the platform our systems are built on)', 'url': 'https://www.gohighlevel.com/'},
+  ]) }}
+</section>
+{% endblock %}
