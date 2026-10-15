@@ -1,0 +1,134 @@
+---
+type: service
+title: "AI Appointment Booking by Phone and Website Chat"
+description: "AI appointment booking for small businesses: callers and website visitors book open times on your calendar, with your rules, Google or Outlook sync and email confirmations."
+h1: "AI Appointment Booking That Follows Your Calendar Rules"
+crumb: "AI appointment booking"
+card_summary: "Callers and website visitors book, move or cancel appointments with an AI agent that checks your real availability, buffers and calendar sync before it offers a time."
+schema_service:
+  name: "AI appointment booking setup for small businesses"
+  type: "AI appointment booking"
+  offers:
+    - {name: "AI voice agent", price: 297, unit: "MONTH", description: "From $297 a month"}
+    - {name: "AI Starter", price: 597, unit: "MONTH", description: "$597 a month"}
+hero:
+  image: shop-owner-phone-laptop-register-hero.jpg
+  alt: "Shop owner holding a phone beside a laptop and register at the counter"
+  lead: "The AI agent offers only the times you actually have, collects what you need to know, puts the appointment on your calendar and sends the confirmation. You set the rules once."
+  secondary_label: "See a booking step by step"
+  secondary_href: "#booking-walkthrough"
+faq_title: "Questions about AI appointment booking"
+faqs:
+  - q: "What is appointment scheduling?"
+    a: "<p>Appointment scheduling is the work of matching a customer who wants a time with a time the business can actually give, then recording it so both sides show up. It covers checking availability, choosing a slot, collecting the details for the visit, confirming it, and handling changes. It can be done by a person with a paper book, by an online booking page, or by an AI agent on the phone or in chat.</p>"
+  - q: "What is appointment scheduling software?"
+    a: "<p>It is the software that holds the calendar and the rules: which hours are open, how long each service takes, how much gap to leave between visits, and who gets notified. Customers book through it online, staff book through it by hand, and an AI agent can book through it during a call. Ours runs on HighLevel's calendars, which can sync with Google Calendar and Outlook.</p>"
+  - q: "Can an AI voice agent book appointments?"
+    a: "<p>Yes. On HighLevel, the voice agent books during the call through an appointment booking action: it checks the calendar for open times, offers them to the caller, confirms the one they choose and creates the appointment with their details. If you allow it, it can also move or cancel an existing booking after verifying who is calling. This is the job sometimes called an AI voice agent appointment setter.</p>"
+  - q: "Will the AI double-book me?"
+    a: "<p>It books only into times the calendar shows as open. The usual cause of a double booking is a second calendar the system cannot see. That is why we connect your Google or Outlook calendar as a conflict calendar, so personal and outside appointments marked busy block those times. Events you mark as free do not block anything, which is worth knowing before you go live.</p>"
+  - q: "What is an online appointment?"
+    a: "<p>Usually it means an appointment the customer booked online, through a booking page or a website chat, rather than by calling. Sometimes it means a visit that happens online, by video. Our booking setup handles the first kind by chat and by phone, and can book video consultations as a meeting type if your calendar is set up for them.</p>"
+---
+{% block content %}
+<section class="prose">
+  <p class="lead">AI appointment booking means a customer can call your number or open the chat on your website, ask for a time, and leave with a confirmed appointment on your calendar, without anyone on your side stopping what they are doing. We set up the agent, the calendar and the rules it books by.</p>
+  <p>Booking sounds like the simplest thing an AI agent can do, and it is where careless setups go wrong most often. An agent that does not know your buffer between jobs, or cannot see your personal calendar, will happily offer a time you cannot keep. So this page is mostly about the rules, because the rules are the product.</p>
+  {{ m.texting_note('Until then, confirmations and reminders go out by email, and the agent confirms the details out loud on the call.') }}
+</section>
+
+<section class="prose">
+  <h2>Appointment scheduling, in plain terms</h2>
+  <div class="split">
+    <div>
+      <p>Every business that books visits does the same five things, whether it uses a paper book or software: it knows which times are open, matches a request to one of them, writes down who is coming and why, tells the customer it is set, and deals with changes. Appointment scheduling software holds that calendar and those rules in one place.</p>
+      <p>An AI appointment booking system adds a front desk that can talk. The calendar and its rules stay where they are; the agent reads them and books into them, on the phone or in chat. HighLevel, the platform we build on, lets one voice or chat agent book on a single calendar or choose among several, so a salon can route a color appointment and a quick trim to different calendars and a contractor can keep estimates separate from service calls.</p>
+    </div>
+    {{ img('phone-planner-desk.jpg', 'Hands holding a phone over an open planner on a desk', 1200, 800) }}
+  </div>
+</section>
+
+<section class="prose" id="booking-walkthrough">
+  <h2>One booking, start to finish</h2>
+  <p class="section-intro">A generic example of how a phone booking runs once everything is configured. Chat follows the same path in writing.</p>
+  <ol class="steps">
+    <li><strong>The caller asks for a time.</strong> "Do you have anything Thursday afternoon?" The agent confirms which service they want, since that decides the length and the calendar.</li>
+    <li><strong>The agent checks availability.</strong> It looks at the right calendar, which already accounts for your hours, buffers, minimum notice and anything marked busy on your connected Google or Outlook calendar.</li>
+    <li><strong>It offers real options.</strong> Two or three open times, not a list of every slot. If Thursday is full, it offers the nearest openings instead.</li>
+    <li><strong>It collects the details.</strong> Name, the best phone number and email, the address if you go to them, and the short list of questions you chose.</li>
+    <li><strong>It books and confirms.</strong> The appointment is created on your calendar, the contact is saved in your CRM, the caller hears the time read back, and a confirmation email goes out.</li>
+    <li><strong>You are told.</strong> You get the booking notice, plus a call summary if anything unusual came up.</li>
+  </ol>
+</section>
+
+<section class="prose">
+  <h2>The rules we set before the agent books anything</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th scope="col">Rule</th><th scope="col">What it controls</th><th scope="col">Example</th></tr></thead>
+    <tbody>
+      <tr><td>Open hours</td><td>When each calendar takes bookings at all</td><td>Weekdays 8 to 5, Saturday mornings only</td></tr>
+      <tr><td>Appointment length</td><td>How long each type of visit blocks</td><td>Consultation 30 minutes, full service 2 hours</td></tr>
+      <tr><td>Buffers</td><td>Gap before or after a visit for travel, cleanup or notes</td><td>30 minutes after every on-site job</td></tr>
+      <tr><td>Minimum notice</td><td>How soon a customer can book from now</td><td>No same-morning bookings</td></tr>
+      <tr><td>Booking window</td><td>How far ahead the calendar opens</td><td>Up to six weeks out</td></tr>
+      <tr><td>Daily limit</td><td>Maximum appointments of a type per day</td><td>Two estimates a day</td></tr>
+      <tr><td>Calendar routing</td><td>Which calendar a request goes to, with a fallback</td><td>Repairs to one calendar, new installs to another</td></tr>
+    </tbody>
+  </table></div>
+  <p>Buffers and availability are set per calendar on HighLevel. We set them with you, then test them by trying to book the times that should be refused.</p>
+</section>
+
+<section class="band band--tint">
+  <div class="wide">
+    <h2>Calendar sync with Google Calendar and Outlook</h2>
+    <p>Most owners already live in a Google or Outlook calendar, and the agent has to respect it. HighLevel's calendars connect to both, and the way the connection is set matters:</p>
+    <ul class="checks">
+      <li><strong>Primary calendar.</strong> One connected calendar is the one HighLevel reads from and writes new appointments to. HighLevel recommends writing back to a single work calendar, because writing to several can create duplicate events.</li>
+      <li><strong>Conflict calendars.</strong> Other calendars can be connected only to check for conflicts. Their events block time, but nothing is written to them. Google and Outlook can be mixed this way.</li>
+      <li><strong>Busy versus free.</strong> An outside event blocks a slot only if it is marked busy. An event marked free leaves the time open for booking.</li>
+      <li><strong>iCloud is one-way.</strong> An iCloud calendar can be connected, but HighLevel supports one-way sync for it, not two-way.</li>
+    </ul>
+    <p>We connect the calendars, then check that a test event on your phone actually blocks the slot before any customer is allowed to book.</p>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>Confirmations, reminders and changes</h2>
+  <div class="split">
+    {{ img('notebook-pen-coffee-desk.jpg', 'Open notebook and pen on a desk by a window, with a coffee cup and a plant', 1200, 800) }}
+    <div>
+      <p>After a booking, HighLevel can send confirmations, reminders before the visit, and notices when an appointment is rescheduled or canceled. Today we send all of those by email, and the voice agent reads the details back before the call ends.</p>
+      <p>Text reminders are part of the same setup, but they wait for carrier approval of our business texting registration. The note near the top of this page explains it, and the <a href="/missed-call-text-back/">missed call text back page</a> covers the registration in detail.</p>
+      <p>Changes are switched on deliberately. If you allow it, the agent can reschedule or cancel an existing appointment, but only after verifying the caller's details against the booking. Some businesses prefer changes to go to a person, especially when a cancellation fee or a deposit is involved; that is a setting, not a limitation.</p>
+    </div>
+  </div>
+</section>
+
+<section class="prose">
+  <h2>Booking software you already use</h2>
+  <div class="split">
+    <div>
+      <p>If your appointments already live in practice management, field service or salon booking software, the question is whether that system lets an outside calendar book into it. Some do, some only through a paid add-on, and some not at all. We check yours before anything is promised, and if it cannot connect we say so and suggest the next best setup, such as booking a callback rather than a fixed slot.</p>
+      {{ m.limits(['Connect to your existing booking, practice or field service software until we have confirmed per client that it can', 'Book times your calendar does not show as open, or override a rule you set', 'Take deposits or card payments during the call', 'Give medical or clinical advice about what kind of appointment a patient needs, or handle patient-record detail', 'Act as a HIPAA compliance program', 'Send text reminders before carrier approval clears'], 'What it does not do') }}
+    </div>
+    {{ img('office-laptop-folders.jpg', 'Person at an office desk with a laptop, folders and a coffee', 1200, 800) }}
+  </div>
+</section>
+
+<section class="prose">
+  <h2>Price and where booking fits</h2>
+  <p>Booking is part of the AI voice agent, which starts at $297 a month as a single service, and it is included in AI Starter at $597 a month along with CRM automation setup and review management. Setup, training and support are included. Website chat booking and outbound reminder calls come with the larger packages; the <a href="/pricing/">pricing page</a> shows what each includes.</p>
+  <p>If calls are the bigger problem than booking, start with the <a href="/ai-receptionist/">AI receptionist</a>. For industries where booking is most of the phone traffic, see the pages for <a href="/ai-for/salons.html">salons</a> and <a href="/ai-for/dentists.html">dental offices</a>.</p>
+  {{ m.call_box('Call our main line and ask the AI receptionist to book a time to talk. You will hear exactly how it offers times, collects details and confirms.') }}
+  {{ m.related(['ai-voice-agent', 'ai-chatbot', 'crm-automation', 'ind:salons', 'ind:medical-offices', 'guide:worth-it'], 'Related pages') }}
+  {{ m.sources([
+    {'label': 'HighLevel Help: Appointment booking in Voice AI', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000005293-appointment-booking-for-voice-ai-agents-in-highlevel'},
+    {'label': 'HighLevel Help: Voice AI booking across multiple calendars', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000007203-highlevel-voice-ai-book-across-multiple-calendars-intent%E2%80%91based-selection-'},
+    {'label': 'HighLevel Help: Setting up linked calendars and conflict calendars', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000002374-setting-up-linked-calendars-conflict-calendars'},
+    {'label': 'HighLevel Help: How to sync HighLevel calendars with Outlook', 'url': 'https://help.gohighlevel.com/support/solutions/articles/48001188796-how-to-sync-highlevel-calendars-with-outlook'},
+    {'label': 'HighLevel Help: How to integrate Google Calendar with HighLevel', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000002369'},
+    {'label': 'HighLevel Help: iCloud calendar integration', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000001477-how-to-connect-icloud-with-highlevel-'},
+    {'label': 'HighLevel Help: Calendar and service appointment notifications', 'url': 'https://help.gohighlevel.com/support/solutions/articles/155000003441-calendar-email-in-app-sms-whatsapp-appointment-notifications'},
+  ]) }}
+</section>
+{% endblock %}
