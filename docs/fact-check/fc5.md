@@ -164,3 +164,6 @@ NOT CHECKED
 ## Totals
 5 pages, 72 claims checked, 12 corrections (including 4 HighLevel URL slug updates and 6 source
 replacements), 0 claims removed outright, 2 general statements not checked.
+
+## Lead follow-up (Oct 15 2026)
+- The two unchecked general statements were rewritten so they state no unverified fact: what-is-an-ai-agency now tells the reader to ask how an agency charges (and states our own INTAKE.md model); how-to-choose now tells the reader to ask whether a ranking site is paid by the companies it lists.
