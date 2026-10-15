@@ -40,7 +40,7 @@ faqs:
     {{ img('phone-counter-rainy-window.jpg', 'Phone lying on a kitchen counter in front of a rainy window', 1200, 675) }}
     <div>
       <p>On HighLevel, missed call text back can be set up two ways. The built-in setting sits in the phone system settings: you write the message, and the ring timeout decides how long a call rings before it counts as missed. The other way is a workflow that starts when an incoming call ends with a busy or no-answer status, then sends the text.</p>
-      <p>The workflow version is the one we would use. HighLevel notes that the built-in setting sends a text for every missed call, including repeat calls a few minutes apart, and that running the setting and a workflow at the same time can produce duplicate messages. A workflow can wait a short time, check whether the person already got a text, and only then send one.</p>
+      <p>The workflow version is the one we would use. HighLevel notes that the built-in setting sends a text for every missed call, even when the same caller tries several times in a short time, and that running the setting and a workflow at the same time can produce duplicate messages. A workflow can wait a short time, check whether the person already got a text, and only then send one.</p>
       <p>Done well, auto missed call text back is a courtesy, not a marketing channel: one message, from the number the person called, about the call they made.</p>
     </div>
   </div>
@@ -57,10 +57,10 @@ faqs:
     </div>
     <div class="panel">
       <h3>The campaign</h3>
-      <p>The use case: what kind of messages will be sent and why, such as customer care or appointment reminders. Once a campaign is approved it gets an ID, and carriers enable texting for the numbers tied to that ID.</p>
+      <p>The use case: what kind of messages will be sent and why, such as customer care or appointment reminders. A registered campaign gets an ID, the business's numbers are tied to it, and the carriers can run their own review before they deliver that traffic.</p>
     </div>
   </div>
-  <p>Carriers ask for this because unregistered business texting is how a great deal of spam reaches phones. Our registration is pending. Until it clears, texts from our system would be filtered or blocked, so we do not send them and do not pretend otherwise.</p>
+  <p>Carriers ask for this because unregistered business texting is how a great deal of spam reaches phones. Our registration is pending. Until it clears, texts from our system could be filtered or blocked, so we do not send them and do not pretend otherwise.</p>
 </section>
 
 <section class="band band--tint" id="works-today">
@@ -116,7 +116,7 @@ faqs:
       <p>Automated business texting comes with consent and opt-out rules. The two places they come from:</p>
       <ul class="checks">
         <li><strong>CTIA's Messaging Principles and Best Practices</strong>, the wireless industry guidance carriers apply to business texting, say senders should get the appropriate consent before messaging, use STOP as the standard opt-out word while also honoring plain requests such as end, cancel, unsubscribe or quit, and send one final confirmation after an opt-out with no further messages.</li>
-        <li><strong>The FCC's consent revocation rules</strong> let people revoke consent by any reasonable means. The FCC treats a reply of stop, quit, end, revoke, opt out, cancel or unsubscribe as reasonable on its face, and requires the request to be honored within a reasonable time not to exceed ten business days.</li>
+        <li><strong>The FCC's consent revocation rules</strong> let people revoke consent by any reasonable means. The FCC treats a reply of stop, quit, end, revoke, opt out, cancel or unsubscribe as reasonable on its face, and requires the request to be honored within a reasonable time not to exceed ten business days. These rules can change, so check the current version.</li>
       </ul>
       <p>So when our texting switches on, every automated text identifies the business and honors STOP. Whether a text back to someone who called you is covered by the consent you have depends on your business and your state, so check your plans with your own attorney. This is a summary, not legal advice.</p>
     </div>
@@ -143,10 +143,10 @@ faqs:
   {{ m.related(['ai-receptionist', 'ai-answering-service', 'ai-voice-agent', 'crm-automation', 'ind:plumbers', 'guide:vs'], 'Related pages') }}
   {{ m.sources([
     {'label': 'HighLevel Help: Where and how to configure the missed call text back feature', 'url': 'https://help.gohighlevel.com/support/solutions/articles/48001239140-where-and-how-to-configure-the-missed-call-text-back-feature'},
-    {'label': 'HighLevel Help: Call status workflow trigger setup', 'url': 'https://help.gohighlevel.com/support/solutions/articles/48001212511-call-status-workflow-trigger-setup'},
+    {'label': 'HighLevel Help: Workflow trigger, call details (incoming, busy, no answer)', 'url': 'https://help.gohighlevel.com/support/solutions/articles/48001212511-call-status-workflow-trigger-setup'},
     {'label': 'The Campaign Registry: 10DLC brand and campaign registration', 'url': 'https://www.campaignregistry.com/'},
     {'label': 'The Campaign Registry: Introduction to TCR and 10DLC (PDF)', 'url': 'https://www.campaignregistry.com/wp-content/uploads/TCR-Intro-2026-v4_comp.pdf'},
-    {'label': 'CTIA: Messaging Principles and Best Practices (July 2019, PDF)', 'url': 'https://api.ctia.org/wp-content/uploads/2019/07/190719-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf'},
+    {'label': 'CTIA: Messaging Principles and Best Practices (May 2023, PDF)', 'url': 'https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf'},
     {'label': 'Federal Register: FCC, Strengthening the Ability of Consumers To Stop Robocalls (consent revocation)', 'url': 'https://www.federalregister.gov/documents/2024/03/05/2024-04587/strengthening-the-ability-of-consumers-to-stop-robocalls'},
     {'label': 'FCC: Stop unwanted robocalls and texts (consumer guide)', 'url': 'https://www.fcc.gov/consumers/guides/stop-unwanted-robocalls-and-texts'},
   ]) }}
