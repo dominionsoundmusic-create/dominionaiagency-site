@@ -1,434 +1,488 @@
 {
-  "attic-air-handler-insulation.jpg": {
-    "alt": "Air handler and flexible ducts in an attic over pink insulation",
-    "group": "attic-air-handler-insulation",
-    "origin": "Houston HVAC Pro, generic (attic-air-handler.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "attic-flashlight-rafters.jpg": {
-    "alt": "Person in an attic shining a flashlight along the rafters and roof decking",
-    "group": "attic-flashlight-rafters",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (attic-roof-decking-flashlight-inspection.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "bakery-owner-bread-shelves-hero.jpg": {
-    "alt": "Bakery owner stocking shelves of fresh bread by the front window",
-    "group": "bakery-owner-bread-shelves-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/why-small-businesses-need-a-website-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "brick-ranch-home-oak-hero.jpg": {
-    "alt": "Single-story brick home with a shingle roof under a large oak tree",
-    "group": "brick-ranch-home-oak-hero",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (brick-ranch-home-oak-roof-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "cafe-owner-laptop-window-hero.jpg": {
-    "alt": "Owner working on a laptop at a small cafe counter beside the front window",
-    "group": "cafe-owner-laptop-window-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/website-cost-per-month-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "coffee-shop-counter-laptops.jpg": {
-    "alt": "Coffee shop with a barista at the counter and laptops on the tables",
-    "group": "coffee-shop-counter-laptops",
-    "origin": "Dominion Web Design Pro, generic (body/san-marcos-campus-area-shop.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "contract-papers-table.jpg": {
-    "alt": "Person reviewing printed forms on a table by a window",
-    "group": "contract-papers-table",
-    "origin": "Water Damage Pro Dallas, generic (contract-papers-kitchen-table.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "contractor-phone-truck-sunset.jpg": {
-    "alt": "Contractor in a hard hat and safety vest checking his phone beside a work truck at sunset",
-    "group": "contractor-phone-truck-sunset",
-    "origin": "Dominion Web Design Pro, generic (contractors/contractor-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1200x500"
-  },
-  "couple-reviewing-papers-kitchen.jpg": {
-    "alt": "Older couple reviewing papers and a tablet at a kitchen table",
-    "group": "couple-reviewing-papers-kitchen",
-    "origin": "Houston HVAC Pro, generic (couple-reviewing-papers.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "customer-phone-call-sunroom.jpg": {
-    "alt": "Woman smiling during a phone call in a bright sunroom",
-    "group": "customer-phone-call-sunroom",
-    "origin": "Houston HVAC Pro, generic (homeowner-phone-call.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "desk-phone-laptop-lamp.jpg": {
-    "alt": "Desk with an office phone, a laptop and a sketch pad under a lamp",
-    "group": "desk-phone-laptop-lamp",
-    "origin": "Dominion Web Design Pro, generic (body/builder-vs-designer-desk.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "east-texas-pine-woods.jpg": {
-    "alt": "Tall pine trees along a quiet road in the East Texas woods",
-    "group": "east-texas-pine-woods",
-    "origin": "Dominion Web Design Pro, generic (body/east-texas-pines.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "estimate-phone-kitchen-table.jpg": {
-    "alt": "Phone propped up on a kitchen table beside printed pages and a coffee mug",
-    "group": "estimate-phone-kitchen-table",
-    "origin": "Water Damage Pro Dallas, generic (written-estimate-phone-kitchen-table.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "florist-phone-map.jpg": {
-    "alt": "Florist looking at a map on her phone among buckets of fresh flowers",
-    "group": "florist-phone-map",
-    "origin": "Dominion Web Design Pro, generic (body/why-website-google-profile.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "gas-furnace-open-panel.jpg": {
-    "alt": "Gas furnace with its front panel open, lit by a flashlight",
-    "group": "gas-furnace-open-panel",
-    "origin": "Houston HVAC Pro, generic (gas-furnace-open-panel.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "hands-papers-coffee-counter.jpg": {
-    "alt": "Hands resting on printed pages at a counter next to a coffee cup and a phone",
-    "group": "hands-papers-coffee-counter",
-    "origin": "Dominion Web Design Pro, generic (body/designer-cost-quote-review.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "homeowner-clipboard-pickup-truck-hero.jpg": {
-    "alt": "Man holding a clipboard in front of a brick two-story house with a pickup truck at the curb",
-    "group": "homeowner-clipboard-pickup-truck-hero",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (homeowner-clipboard-checking-roofer-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "homeowner-porch-phone-hero.jpg": {
-    "alt": "Man on a phone call on the front walk of a brick home on a tree-lined street",
-    "group": "homeowner-porch-phone-hero",
-    "origin": "Water Damage Pro Dallas, generic (homeowner-phone-call-front-porch-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "homeowner-thermostat-window.jpg": {
-    "alt": "Woman standing by a sliding glass door near a wall thermostat",
-    "group": "homeowner-thermostat-window",
-    "origin": "Houston HVAC Pro, generic (homeowner-thermostat-window.jpg), copied read-only Oct 15 2026",
-    "size": "1200x500"
-  },
-  "hvac-installers-new-condenser.jpg": {
-    "alt": "Two installers setting a new condenser on a pad beside a house",
-    "group": "hvac-installers-new-condenser",
-    "origin": "Houston HVAC Pro, generic (installers-new-condenser.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "hvac-tech-crouched-condenser.jpg": {
-    "alt": "HVAC technician crouched beside a condenser unit in a fenced back yard",
-    "group": "hvac-tech-crouched-condenser",
-    "origin": "Houston HVAC Pro, generic (technician-crouched-condenser.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "hvac-tech-furnace-closet-hero.jpg": {
-    "alt": "HVAC technician working on an indoor furnace and duct connection",
-    "group": "hvac-tech-furnace-closet-hero",
-    "origin": "Houston HVAC Pro, generic (hvac-05-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x800"
-  },
-  "hvac-tech-gauges-condenser.jpg": {
-    "alt": "HVAC technician reading gauges on an outdoor condenser beside a brick house",
-    "group": "hvac-tech-gauges-condenser",
-    "origin": "Houston HVAC Pro, generic (technician-gauges-condenser.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "hvac-tech-gauges-side-yard-hero.jpg": {
-    "alt": "HVAC technician checking pressures on a condenser in a side yard",
-    "group": "hvac-tech-gauges-side-yard-hero",
-    "origin": "Houston HVAC Pro, generic (hvac-01-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x800"
-  },
-  "hvac-techs-condenser-side-yard-hero.jpg": {
-    "alt": "Two HVAC technicians working on a condenser beside a white house",
-    "group": "hvac-techs-condenser-side-yard-hero",
-    "origin": "Houston HVAC Pro, generic (hvac-02-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x800"
-  },
-  "kitchen-sink-cabinet-open.jpg": {
-    "alt": "Bright kitchen with the cabinet under the sink open and towels on the floor",
-    "group": "kitchen-sink-cabinet-open",
-    "origin": "Water Damage Pro Dallas, generic (kitchen-sink-cabinet-open-towels.jpg), copied read-only Oct 15 2026",
-    "size": "1200x675"
-  },
-  "laptop-notebook-bright-desk.jpg": {
-    "alt": "Man typing on a laptop at a bright desk with an open notebook",
-    "group": "laptop-notebook-bright-desk",
-    "origin": "Dominion Web Design Pro, generic (body/packages-seo-setup.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "laptop-paperwork-kitchen.jpg": {
-    "alt": "Laptop and paperwork on a kitchen table with a coffee cup",
-    "group": "laptop-paperwork-kitchen",
-    "origin": "Water Damage Pro Dallas, generic (license-lookup-laptop-kitchen.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "laundry-washer-water-heater.jpg": {
-    "alt": "Laundry room with a front-load washer and a tank water heater",
-    "group": "laundry-washer-water-heater",
-    "origin": "Water Damage Pro Dallas, generic (laundry-room-washer-water-heater.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "map-notes-laptop-coffee.jpg": {
-    "alt": "Person writing notes over a road map beside a laptop and a coffee",
-    "group": "map-notes-laptop-coffee",
-    "origin": "Dominion Web Design Pro, generic (body/seo-city-pages-planning.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "new-store-owner-shelves.jpg": {
-    "alt": "Owner arranging stock on the shelves of a new store",
-    "group": "new-store-owner-shelves",
-    "origin": "Dominion Web Design Pro, generic (body/leander-new-storefront-opening.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "notebook-pen-coffee-desk.jpg": {
-    "alt": "Open notebook and pen on a desk by a window, with a coffee cup and a plant",
-    "group": "notebook-pen-coffee-desk",
-    "origin": "Dominion Web Design Pro, generic (body/therapist-writing-notes.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "notebook-pen-table-window.jpg": {
-    "alt": "Spiral notebook and pen on a table beside a window",
-    "group": "notebook-pen-table-window",
-    "origin": "Water Damage Pro Dallas, generic (notebook-and-pen-table-window.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "notes-laptop-coffee-desk.jpg": {
-    "alt": "Person writing notes beside a laptop and a coffee cup",
-    "group": "notes-laptop-coffee-desk",
-    "origin": "Dominion Web Design Pro, generic (cost-page-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1200x500"
-  },
-  "office-laptop-files-glasses.jpg": {
-    "alt": "Laptop, a stack of file folders and reading glasses on an office desk",
-    "group": "office-laptop-files-glasses",
-    "origin": "Dominion Web Design Pro, generic (body/law-office-laptop.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "office-laptop-folders.jpg": {
-    "alt": "Person at an office desk with a laptop, folders and a coffee",
-    "group": "office-laptop-folders",
-    "origin": "Dominion Web Design Pro, generic (body/hire-domain-ownership.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "office-tablet-front-window.jpg": {
-    "alt": "Man reading a tablet at a desk by the glass front of a small office",
-    "group": "office-tablet-front-window",
-    "origin": "Dominion Web Design Pro, generic (body/cedar-park-strip-center-office.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "owner-laptop-kitchen-table-hero.jpg": {
-    "alt": "Small business owner in a work vest at a kitchen table with a laptop and notebook",
-    "group": "owner-laptop-kitchen-table-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/pricing-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "owner-laptop-tablet-shop-window-hero.jpg": {
-    "alt": "Owner working on a laptop and tablet at a counter by the front window of a shop",
-    "group": "owner-laptop-tablet-shop-window-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/small-business-website-redesign-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "person-phone-hallway.jpg": {
-    "alt": "Person on a phone call walking down a hallway toward the back door",
-    "group": "person-phone-hallway",
-    "origin": "Water Damage Pro Dallas, generic (homeowner-on-phone-in-hallway.jpg), copied read-only Oct 15 2026",
-    "size": "1200x675"
-  },
-  "phone-counter-rainy-window.jpg": {
-    "alt": "Phone lying on a kitchen counter in front of a rainy window",
-    "group": "phone-counter-rainy-window",
-    "origin": "Water Damage Pro Dallas, generic (phone-on-counter-rainy-window.jpg), copied read-only Oct 15 2026",
-    "size": "1200x675"
-  },
-  "phone-notes-desk-window-hero.jpg": {
-    "alt": "Phone and a notepad on a desk beside a window looking out at a house",
-    "group": "phone-notes-desk-window-hero",
-    "origin": "Water Damage Pro Dallas, generic (phone-and-notes-on-desk-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "phone-photo-house-front.jpg": {
-    "alt": "Hand holding up a phone to photograph the front of a house",
-    "group": "phone-photo-house-front",
-    "origin": "Dominion Web Design Pro, generic (contractors/contractor-work.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "phone-planner-desk.jpg": {
-    "alt": "Hands holding a phone over an open planner on a desk",
-    "group": "phone-planner-desk",
-    "origin": "Dominion Web Design Pro, generic (body/domain-renewal-reminder.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "plumber-kneeling-toolbox.jpg": {
-    "alt": "Plumber in overalls and ear protection kneeling by a wall with a toolbox",
-    "group": "plumber-kneeling-toolbox",
-    "origin": "Water Damage Pro Dallas, generic (plumber-leak-detection-floor.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "porch-reading-paperwork.jpg": {
-    "alt": "Man reading paperwork on a porch, a white service van parked at the curb",
-    "group": "porch-reading-paperwork",
-    "origin": "Water Damage Pro Dallas, generic (homeowner-porch-reading-paperwork.jpg), copied read-only Oct 15 2026",
-    "size": "1200x675"
-  },
-  "printed-plans-highlighter-desk-hero.jpg": {
-    "alt": "Printed plan sheets with a pen and a highlighter on a desk beside a laptop",
-    "group": "printed-plans-highlighter-desk-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/web-design-packages-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "quiet-waiting-room-armchairs-hero.jpg": {
-    "alt": "Two armchairs and a side table in a quiet, sunlit waiting room",
-    "group": "quiet-waiting-room-armchairs-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/web-design-for-therapists-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "reading-paperwork-glasses.jpg": {
-    "alt": "Two people reading printed pages at a table with reading glasses",
-    "group": "reading-paperwork-glasses",
-    "origin": "Water Damage Pro Dallas, generic (reading-paperwork-glasses-table.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "roof-new-decking-sheets.jpg": {
-    "alt": "New plywood decking sheets laid on a roof during a tear-off",
-    "group": "roof-new-decking-sheets",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-tear-off-new-decking.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "roofer-kneeling-shingles-hero.jpg": {
-    "alt": "Roofer kneeling on a shingle roof on a sunny day",
-    "group": "roofer-kneeling-shingles-hero",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-04-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x800"
-  },
-  "roofer-ladder-brick-home.jpg": {
-    "alt": "Roofer standing at the foot of a ladder set against the gutter of a brick home",
-    "group": "roofer-ladder-brick-home",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roofer-ladder-at-gutter.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "roofer-sealing-vent-hero.jpg": {
-    "alt": "Roofer sealing around a roof vent pipe with a caulk gun",
-    "group": "roofer-sealing-vent-hero",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-05-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x800"
-  },
-  "roofers-shingle-roof-hero.jpg": {
-    "alt": "Crew of roofers working on a shingle roof under a clear blue sky",
-    "group": "roofers-shingle-roof-hero",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-01-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x800"
-  },
-  "service-van-evening-call-hero.jpg": {
-    "alt": "Service technician walking from a red van to a house at dusk",
-    "group": "service-van-evening-call-hero",
-    "origin": "Houston HVAC Pro, generic (hvac-06-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x800"
-  },
-  "sewer-cleanout-yard.jpg": {
-    "alt": "White sewer cleanout pipe in a front yard flower bed",
-    "group": "sewer-cleanout-yard",
-    "origin": "Water Damage Pro Dallas, generic (sewer-cleanout-pipe-yard.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "shop-owner-laptop-counter-hero.jpg": {
-    "alt": "Shop owner typing on a laptop at a wooden counter lined with shelves of jars",
-    "group": "shop-owner-laptop-counter-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/black-owned-web-design-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "shop-owner-laptop-gift-shop-hero.jpg": {
-    "alt": "Woman working on a laptop at the counter of a gift shop",
-    "group": "shop-owner-laptop-gift-shop-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/website-builder-vs-web-designer-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "shop-owner-laptop-shelves.jpg": {
-    "alt": "Shop owner on a laptop at the counter of a store with shelves of goods",
-    "group": "shop-owner-laptop-shelves",
-    "origin": "Dominion Web Design Pro, generic (body/austin-shop-owner-laptop.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "shop-owner-phone-call-notes-hero.jpg": {
-    "alt": "Store owner on a phone call, writing notes at the counter of a small shop",
-    "group": "shop-owner-phone-call-notes-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/contact-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "shop-owner-phone-laptop-register-hero.jpg": {
-    "alt": "Shop owner holding a phone beside a laptop and register at the counter",
-    "group": "shop-owner-phone-laptop-register-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/seo-web-design-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "shop-owner-phone-shelves.jpg": {
-    "alt": "Shop owner checking her phone among shelves of packaged goods",
-    "group": "shop-owner-phone-shelves",
-    "origin": "Dominion Web Design Pro, generic (body/kyle-family-shop-counter.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "shop-owner-tablet-counter-hero.jpg": {
-    "alt": "Woman at a shop counter looking at a tablet, shelves of goods behind her",
-    "group": "shop-owner-tablet-counter-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/faq-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "sketches-laptop-desk-hero.jpg": {
-    "alt": "Hand-drawn sketches spread on a desk beside a laptop",
-    "group": "sketches-laptop-desk-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/website-designer-cost-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "small-meeting-room-round-table.jpg": {
-    "alt": "Small meeting room with a round table, two chairs and a yellow legal pad",
-    "group": "small-meeting-room-round-table",
-    "origin": "Dominion Web Design Pro, generic (body/law-firm-consult-room.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "thermostat-hand-warm-light.jpg": {
-    "alt": "Hand adjusting a wall thermostat in a warmly lit living room",
-    "group": "thermostat-hand-warm-light",
-    "origin": "Houston HVAC Pro, generic (thermostat-warm-light.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "tradesman-laptop-workshop.jpg": {
-    "alt": "Tradesman in overalls typing on a laptop at his workshop bench",
-    "group": "tradesman-laptop-workshop",
-    "origin": "Dominion Web Design Pro, generic (contractors/contractor-review.jpg), copied read-only Oct 15 2026",
-    "size": "1200x686"
-  },
-  "two-story-brick-home-street-hero.jpg": {
-    "alt": "Two-story brick home on a quiet residential street",
-    "group": "two-story-brick-home-street-hero",
-    "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (two-story-brick-home-street-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  },
-  "waiting-room-sofa-lamp.jpg": {
-    "alt": "Gray sofa, floor lamp and plant in a calm waiting room",
-    "group": "waiting-room-sofa-lamp",
-    "origin": "Dominion Web Design Pro, generic (body/therapist-waiting-room.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "walk-up-cafe-window.jpg": {
-    "alt": "Small walk-up cafe window beside a tree-lined path, a bicycle parked by the door",
-    "group": "walk-up-cafe-window",
-    "origin": "Dominion Web Design Pro, generic (body/pflugerville-trailside-cafe.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "water-shutoff-valve-box.jpg": {
-    "alt": "Gloved hand turning a brass water shutoff valve in a ground box",
-    "group": "water-shutoff-valve-box",
-    "origin": "Water Damage Pro Dallas, generic (water-main-shutoff-valve-box.jpg), copied read-only Oct 15 2026",
-    "size": "1200x800"
-  },
-  "woodshop-owner-phone-call-hero.jpg": {
-    "alt": "Woodworker on a phone call at his workbench with the garage door open behind him",
-    "group": "woodshop-owner-phone-call-hero",
-    "origin": "Dominion Web Design Pro, generic (heroes/how-to-hire-a-web-designer-hero.jpg), copied read-only Oct 15 2026",
-    "size": "1920x1080"
-  }
+ "attic-air-handler-insulation.jpg": {
+  "alt": "Air handler and flexible ducts in an attic over pink insulation",
+  "group": "attic-air-handler-insulation",
+  "origin": "Houston HVAC Pro, generic (attic-air-handler.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "attic-flashlight-rafters.jpg": {
+  "alt": "Person in an attic shining a flashlight along the rafters and roof decking",
+  "group": "attic-flashlight-rafters",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (attic-roof-decking-flashlight-inspection.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "bakery-owner-bread-shelves-hero.jpg": {
+  "alt": "Bakery owner stocking shelves of fresh bread by the front window",
+  "group": "bakery-owner-bread-shelves-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/why-small-businesses-need-a-website-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "brick-ranch-home-oak-hero.jpg": {
+  "alt": "Single-story brick home with a shingle roof under a large oak tree",
+  "group": "brick-ranch-home-oak-hero",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (brick-ranch-home-oak-roof-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "cafe-owner-laptop-window-hero.jpg": {
+  "alt": "Owner working on a laptop at a small cafe counter beside the front window",
+  "group": "cafe-owner-laptop-window-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/website-cost-per-month-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "coffee-shop-counter-laptops.jpg": {
+  "alt": "Coffee shop with a barista at the counter and laptops on the tables",
+  "group": "coffee-shop-counter-laptops",
+  "origin": "Dominion Web Design Pro, generic (body/san-marcos-campus-area-shop.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "contract-papers-table.jpg": {
+  "alt": "Person reviewing printed forms on a table by a window",
+  "group": "contract-papers-table",
+  "origin": "Water Damage Pro Dallas, generic (contract-papers-kitchen-table.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "contractor-phone-truck-sunset.jpg": {
+  "alt": "Contractor in a hard hat and safety vest checking his phone beside a work truck at sunset",
+  "group": "contractor-phone-truck-sunset",
+  "origin": "Dominion Web Design Pro, generic (contractors/contractor-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1200x500"
+ },
+ "couple-reviewing-papers-kitchen.jpg": {
+  "alt": "Older couple reviewing papers and a tablet at a kitchen table",
+  "group": "couple-reviewing-papers-kitchen",
+  "origin": "Houston HVAC Pro, generic (couple-reviewing-papers.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "customer-phone-call-sunroom.jpg": {
+  "alt": "Woman smiling during a phone call in a bright sunroom",
+  "group": "customer-phone-call-sunroom",
+  "origin": "Houston HVAC Pro, generic (homeowner-phone-call.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "desk-phone-laptop-lamp.jpg": {
+  "alt": "Desk with an office phone, a laptop and a sketch pad under a lamp",
+  "group": "desk-phone-laptop-lamp",
+  "origin": "Dominion Web Design Pro, generic (body/builder-vs-designer-desk.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "east-texas-pine-woods.jpg": {
+  "alt": "Tall pine trees along a quiet road in the East Texas woods",
+  "group": "east-texas-pine-woods",
+  "origin": "Dominion Web Design Pro, generic (body/east-texas-pines.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "estimate-phone-kitchen-table.jpg": {
+  "alt": "Phone propped up on a kitchen table beside printed pages and a coffee mug",
+  "group": "estimate-phone-kitchen-table",
+  "origin": "Water Damage Pro Dallas, generic (written-estimate-phone-kitchen-table.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "florist-phone-map.jpg": {
+  "alt": "Florist looking at a map on her phone among buckets of fresh flowers",
+  "group": "florist-phone-map",
+  "origin": "Dominion Web Design Pro, generic (body/why-website-google-profile.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "gas-furnace-open-panel.jpg": {
+  "alt": "Gas furnace with its front panel open, lit by a flashlight",
+  "group": "gas-furnace-open-panel",
+  "origin": "Houston HVAC Pro, generic (gas-furnace-open-panel.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "hands-papers-coffee-counter.jpg": {
+  "alt": "Hands resting on printed pages at a counter next to a coffee cup and a phone",
+  "group": "hands-papers-coffee-counter",
+  "origin": "Dominion Web Design Pro, generic (body/designer-cost-quote-review.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "homeowner-clipboard-pickup-truck-hero.jpg": {
+  "alt": "Man holding a clipboard in front of a brick two-story house with a pickup truck at the curb",
+  "group": "homeowner-clipboard-pickup-truck-hero",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (homeowner-clipboard-checking-roofer-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "homeowner-porch-phone-hero.jpg": {
+  "alt": "Man on a phone call on the front walk of a brick home on a tree-lined street",
+  "group": "homeowner-porch-phone-hero",
+  "origin": "Water Damage Pro Dallas, generic (homeowner-phone-call-front-porch-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "homeowner-thermostat-window.jpg": {
+  "alt": "Woman standing by a sliding glass door near a wall thermostat",
+  "group": "homeowner-thermostat-window",
+  "origin": "Houston HVAC Pro, generic (homeowner-thermostat-window.jpg), copied read-only Oct 15 2026",
+  "size": "1200x500"
+ },
+ "hvac-installers-new-condenser.jpg": {
+  "alt": "Two installers setting a new condenser on a pad beside a house",
+  "group": "hvac-installers-new-condenser",
+  "origin": "Houston HVAC Pro, generic (installers-new-condenser.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "hvac-tech-crouched-condenser.jpg": {
+  "alt": "HVAC technician crouched beside a condenser unit in a fenced back yard",
+  "group": "hvac-tech-crouched-condenser",
+  "origin": "Houston HVAC Pro, generic (technician-crouched-condenser.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "hvac-tech-furnace-closet-hero.jpg": {
+  "alt": "HVAC technician working on an indoor furnace and duct connection",
+  "group": "hvac-tech-furnace-closet-hero",
+  "origin": "Houston HVAC Pro, generic (hvac-05-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x800"
+ },
+ "hvac-tech-gauges-condenser.jpg": {
+  "alt": "HVAC technician reading gauges on an outdoor condenser beside a brick house",
+  "group": "hvac-tech-gauges-condenser",
+  "origin": "Houston HVAC Pro, generic (technician-gauges-condenser.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "hvac-tech-gauges-side-yard-hero.jpg": {
+  "alt": "HVAC technician checking pressures on a condenser in a side yard",
+  "group": "hvac-tech-gauges-side-yard-hero",
+  "origin": "Houston HVAC Pro, generic (hvac-01-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x800"
+ },
+ "hvac-techs-condenser-side-yard-hero.jpg": {
+  "alt": "Two HVAC technicians working on a condenser beside a white house",
+  "group": "hvac-techs-condenser-side-yard-hero",
+  "origin": "Houston HVAC Pro, generic (hvac-02-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x800"
+ },
+ "kitchen-sink-cabinet-open.jpg": {
+  "alt": "Bright kitchen with the cabinet under the sink open and towels on the floor",
+  "group": "kitchen-sink-cabinet-open",
+  "origin": "Water Damage Pro Dallas, generic (kitchen-sink-cabinet-open-towels.jpg), copied read-only Oct 15 2026",
+  "size": "1200x675"
+ },
+ "laptop-notebook-bright-desk.jpg": {
+  "alt": "Man typing on a laptop at a bright desk with an open notebook",
+  "group": "laptop-notebook-bright-desk",
+  "origin": "Dominion Web Design Pro, generic (body/packages-seo-setup.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "laptop-paperwork-kitchen.jpg": {
+  "alt": "Laptop and paperwork on a kitchen table with a coffee cup",
+  "group": "laptop-paperwork-kitchen",
+  "origin": "Water Damage Pro Dallas, generic (license-lookup-laptop-kitchen.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "laundry-washer-water-heater.jpg": {
+  "alt": "Laundry room with a front-load washer and a tank water heater",
+  "group": "laundry-washer-water-heater",
+  "origin": "Water Damage Pro Dallas, generic (laundry-room-washer-water-heater.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "map-notes-laptop-coffee.jpg": {
+  "alt": "Person writing notes over a road map beside a laptop and a coffee",
+  "group": "map-notes-laptop-coffee",
+  "origin": "Dominion Web Design Pro, generic (body/seo-city-pages-planning.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "new-store-owner-shelves.jpg": {
+  "alt": "Owner arranging stock on the shelves of a new store",
+  "group": "new-store-owner-shelves",
+  "origin": "Dominion Web Design Pro, generic (body/leander-new-storefront-opening.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "notebook-pen-coffee-desk.jpg": {
+  "alt": "Open notebook and pen on a desk by a window, with a coffee cup and a plant",
+  "group": "notebook-pen-coffee-desk",
+  "origin": "Dominion Web Design Pro, generic (body/therapist-writing-notes.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "notebook-pen-table-window.jpg": {
+  "alt": "Spiral notebook and pen on a table beside a window",
+  "group": "notebook-pen-table-window",
+  "origin": "Water Damage Pro Dallas, generic (notebook-and-pen-table-window.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "notes-laptop-coffee-desk.jpg": {
+  "alt": "Person writing notes beside a laptop and a coffee cup",
+  "group": "notes-laptop-coffee-desk",
+  "origin": "Dominion Web Design Pro, generic (cost-page-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1200x500"
+ },
+ "office-laptop-files-glasses.jpg": {
+  "alt": "Laptop, a stack of file folders and reading glasses on an office desk",
+  "group": "office-laptop-files-glasses",
+  "origin": "Dominion Web Design Pro, generic (body/law-office-laptop.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "office-laptop-folders.jpg": {
+  "alt": "Person at an office desk with a laptop, folders and a coffee",
+  "group": "office-laptop-folders",
+  "origin": "Dominion Web Design Pro, generic (body/hire-domain-ownership.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "office-tablet-front-window.jpg": {
+  "alt": "Man reading a tablet at a desk by the glass front of a small office",
+  "group": "office-tablet-front-window",
+  "origin": "Dominion Web Design Pro, generic (body/cedar-park-strip-center-office.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "owner-laptop-kitchen-table-hero.jpg": {
+  "alt": "Small business owner in a work vest at a kitchen table with a laptop and notebook",
+  "group": "owner-laptop-kitchen-table-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/pricing-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "owner-laptop-tablet-shop-window-hero.jpg": {
+  "alt": "Owner working on a laptop and tablet at a counter by the front window of a shop",
+  "group": "owner-laptop-tablet-shop-window-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/small-business-website-redesign-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "person-phone-hallway.jpg": {
+  "alt": "Person on a phone call walking down a hallway toward the back door",
+  "group": "person-phone-hallway",
+  "origin": "Water Damage Pro Dallas, generic (homeowner-on-phone-in-hallway.jpg), copied read-only Oct 15 2026",
+  "size": "1200x675"
+ },
+ "phone-counter-rainy-window.jpg": {
+  "alt": "Phone lying on a kitchen counter in front of a rainy window",
+  "group": "phone-counter-rainy-window",
+  "origin": "Water Damage Pro Dallas, generic (phone-on-counter-rainy-window.jpg), copied read-only Oct 15 2026",
+  "size": "1200x675"
+ },
+ "phone-notes-desk-window-hero.jpg": {
+  "alt": "Phone and a notepad on a desk beside a window looking out at a house",
+  "group": "phone-notes-desk-window-hero",
+  "origin": "Water Damage Pro Dallas, generic (phone-and-notes-on-desk-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "phone-photo-house-front.jpg": {
+  "alt": "Hand holding up a phone to photograph the front of a house",
+  "group": "phone-photo-house-front",
+  "origin": "Dominion Web Design Pro, generic (contractors/contractor-work.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "phone-planner-desk.jpg": {
+  "alt": "Hands holding a phone over an open planner on a desk",
+  "group": "phone-planner-desk",
+  "origin": "Dominion Web Design Pro, generic (body/domain-renewal-reminder.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "plumber-kneeling-toolbox.jpg": {
+  "alt": "Plumber in overalls and ear protection kneeling by a wall with a toolbox",
+  "group": "plumber-kneeling-toolbox",
+  "origin": "Water Damage Pro Dallas, generic (plumber-leak-detection-floor.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "porch-reading-paperwork.jpg": {
+  "alt": "Man reading paperwork on a porch, a white service van parked at the curb",
+  "group": "porch-reading-paperwork",
+  "origin": "Water Damage Pro Dallas, generic (homeowner-porch-reading-paperwork.jpg), copied read-only Oct 15 2026",
+  "size": "1200x675"
+ },
+ "printed-plans-highlighter-desk-hero.jpg": {
+  "alt": "Printed plan sheets with a pen and a highlighter on a desk beside a laptop",
+  "group": "printed-plans-highlighter-desk-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/web-design-packages-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "quiet-waiting-room-armchairs-hero.jpg": {
+  "alt": "Two armchairs and a side table in a quiet, sunlit waiting room",
+  "group": "quiet-waiting-room-armchairs-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/web-design-for-therapists-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "reading-paperwork-glasses.jpg": {
+  "alt": "Two people reading printed pages at a table with reading glasses",
+  "group": "reading-paperwork-glasses",
+  "origin": "Water Damage Pro Dallas, generic (reading-paperwork-glasses-table.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "roof-new-decking-sheets.jpg": {
+  "alt": "New plywood decking sheets laid on a roof during a tear-off",
+  "group": "roof-new-decking-sheets",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-tear-off-new-decking.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "roofer-kneeling-shingles-hero.jpg": {
+  "alt": "Roofer kneeling on a shingle roof on a sunny day",
+  "group": "roofer-kneeling-shingles-hero",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-04-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x800"
+ },
+ "roofer-ladder-brick-home.jpg": {
+  "alt": "Roofer standing at the foot of a ladder set against the gutter of a brick home",
+  "group": "roofer-ladder-brick-home",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roofer-ladder-at-gutter.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "roofer-sealing-vent-hero.jpg": {
+  "alt": "Roofer sealing around a roof vent pipe with a caulk gun",
+  "group": "roofer-sealing-vent-hero",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-05-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x800"
+ },
+ "roofers-shingle-roof-hero.jpg": {
+  "alt": "Crew of roofers working on a shingle roof under a clear blue sky",
+  "group": "roofers-shingle-roof-hero",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (roof-01-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x800"
+ },
+ "service-van-evening-call-hero.jpg": {
+  "alt": "Service technician walking from a red van to a house at dusk",
+  "group": "service-van-evening-call-hero",
+  "origin": "Houston HVAC Pro, generic (hvac-06-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x800"
+ },
+ "sewer-cleanout-yard.jpg": {
+  "alt": "White sewer cleanout pipe in a front yard flower bed",
+  "group": "sewer-cleanout-yard",
+  "origin": "Water Damage Pro Dallas, generic (sewer-cleanout-pipe-yard.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "shop-owner-laptop-counter-hero.jpg": {
+  "alt": "Shop owner typing on a laptop at a wooden counter lined with shelves of jars",
+  "group": "shop-owner-laptop-counter-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/black-owned-web-design-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "shop-owner-laptop-gift-shop-hero.jpg": {
+  "alt": "Woman working on a laptop at the counter of a gift shop",
+  "group": "shop-owner-laptop-gift-shop-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/website-builder-vs-web-designer-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "shop-owner-laptop-shelves.jpg": {
+  "alt": "Shop owner on a laptop at the counter of a store with shelves of goods",
+  "group": "shop-owner-laptop-shelves",
+  "origin": "Dominion Web Design Pro, generic (body/austin-shop-owner-laptop.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "shop-owner-phone-call-notes-hero.jpg": {
+  "alt": "Store owner on a phone call, writing notes at the counter of a small shop",
+  "group": "shop-owner-phone-call-notes-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/contact-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "shop-owner-phone-laptop-register-hero.jpg": {
+  "alt": "Shop owner holding a phone beside a laptop and register at the counter",
+  "group": "shop-owner-phone-laptop-register-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/seo-web-design-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "shop-owner-phone-shelves.jpg": {
+  "alt": "Shop owner checking her phone among shelves of packaged goods",
+  "group": "shop-owner-phone-shelves",
+  "origin": "Dominion Web Design Pro, generic (body/kyle-family-shop-counter.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "shop-owner-tablet-counter-hero.jpg": {
+  "alt": "Woman at a shop counter looking at a tablet, shelves of goods behind her",
+  "group": "shop-owner-tablet-counter-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/faq-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "sketches-laptop-desk-hero.jpg": {
+  "alt": "Hand-drawn sketches spread on a desk beside a laptop",
+  "group": "sketches-laptop-desk-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/website-designer-cost-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "small-meeting-room-round-table.jpg": {
+  "alt": "Small meeting room with a round table, two chairs and a yellow legal pad",
+  "group": "small-meeting-room-round-table",
+  "origin": "Dominion Web Design Pro, generic (body/law-firm-consult-room.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "thermostat-hand-warm-light.jpg": {
+  "alt": "Hand adjusting a wall thermostat in a warmly lit living room",
+  "group": "thermostat-hand-warm-light",
+  "origin": "Houston HVAC Pro, generic (thermostat-warm-light.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "tradesman-laptop-workshop.jpg": {
+  "alt": "Tradesman in overalls typing on a laptop at his workshop bench",
+  "group": "tradesman-laptop-workshop",
+  "origin": "Dominion Web Design Pro, generic (contractors/contractor-review.jpg), copied read-only Oct 15 2026",
+  "size": "1200x686"
+ },
+ "two-story-brick-home-street-hero.jpg": {
+  "alt": "Two-story brick home on a quiet residential street",
+  "group": "two-story-brick-home-street-hero",
+  "origin": "Dallas Roofing Pro (DFW Expert Roofers), generic (two-story-brick-home-street-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "waiting-room-sofa-lamp.jpg": {
+  "alt": "Gray sofa, floor lamp and plant in a calm waiting room",
+  "group": "waiting-room-sofa-lamp",
+  "origin": "Dominion Web Design Pro, generic (body/therapist-waiting-room.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "walk-up-cafe-window.jpg": {
+  "alt": "Small walk-up cafe window beside a tree-lined path, a bicycle parked by the door",
+  "group": "walk-up-cafe-window",
+  "origin": "Dominion Web Design Pro, generic (body/pflugerville-trailside-cafe.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "water-shutoff-valve-box.jpg": {
+  "alt": "Gloved hand turning a brass water shutoff valve in a ground box",
+  "group": "water-shutoff-valve-box",
+  "origin": "Water Damage Pro Dallas, generic (water-main-shutoff-valve-box.jpg), copied read-only Oct 15 2026",
+  "size": "1200x800"
+ },
+ "woodshop-owner-phone-call-hero.jpg": {
+  "alt": "Woodworker on a phone call at his workbench with the garage door open behind him",
+  "group": "woodshop-owner-phone-call-hero",
+  "origin": "Dominion Web Design Pro, generic (heroes/how-to-hire-a-web-designer-hero.jpg), copied read-only Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "dental-office-front-desk-hero.jpg": {
+  "alt": "Bright dental office front desk with a phone and an appointment screen turned away, chairs in the waiting area",
+  "group": "dental-office-front-desk-hero",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "law-firm-reception-hero.jpg": {
+  "alt": "Small law office reception area with a desk phone, legal pads and shelves of binders",
+  "group": "law-firm-reception-hero",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "medical-office-reception-hero.jpg": {
+  "alt": "Clean medical office reception desk with a phone and a quiet waiting area",
+  "group": "medical-office-reception-hero",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "plumber-under-kitchen-sink-hero.jpg": {
+  "alt": "Plumber working under a kitchen sink with a flashlight and tools",
+  "group": "plumber-under-kitchen-sink-hero",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "real-estate-agent-home-tour-hero.jpg": {
+  "alt": "Real estate agent walking up the front path of a two-story home for a showing",
+  "group": "real-estate-agent-home-tour-hero",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "salon-stylist-station-hero.jpg": {
+  "alt": "Hair salon with a stylist working at a chair while a phone sits on the front counter",
+  "group": "salon-stylist-station-hero",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1920x1080"
+ },
+ "dental-front-desk-phone.jpg": {
+  "alt": "Dental office front desk phone beside an appointment book and a cup of pens",
+  "group": "dental-front-desk-phone",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
+ },
+ "law-office-intake-notes.jpg": {
+  "alt": "Legal pad with handwritten intake notes beside a desk phone in a law office",
+  "group": "law-office-intake-notes",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
+ },
+ "medical-office-check-in-desk.jpg": {
+  "alt": "Medical office check-in desk with a phone, a clipboard and hand sanitizer",
+  "group": "medical-office-check-in-desk",
+  "origin": "Artistly, Oct 15 2026",
+  "size": "1200x800"
+ }
 }
