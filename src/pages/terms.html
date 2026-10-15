@@ -1,0 +1,43 @@
+---
+type: page
+title: "Terms of Use | Dominion AI Agency"
+description: "Terms for using dominionaiagency.com and the Dominion AI Agency main line, including referral link disclosure and how to opt out of text messages once texting is live."
+h1: "Terms of Use"
+crumb: "Terms"
+lead: "Last updated October 15, 2026. These terms apply to dominionaiagency.com and to calls to our main line. Dominion AI Agency is a d/b/a of Dominion Digital Group."
+---
+{% block content %}
+<section class="prose">
+  <h2>Using this website</h2>
+  <p>This website describes the services Dominion AI Agency offers to businesses: setting up and managing AI receptionists, AI voice agents, website chat and voice widgets, appointment booking, CRM automation, review requests, websites and AI consulting. The information is general. It is not legal, medical, tax or financial advice, and it does not create any agreement. Any work we do for a business is governed by the separate agreement we make with that business.</p>
+
+  <h2>Prices</h2>
+  <p>The prices on this site are our current published prices. What is included in a package or service for a particular business is confirmed in writing before work starts.</p>
+
+  <h2>The AI receptionist on our main line</h2>
+  <p>Calls to our main line are answered by an AI receptionist. It can answer common questions about our services and take messages. It can make mistakes, and nothing it says changes these terms or the agreement you sign with us. For anything important, confirm it with us by email.</p>
+
+  <h2>Referral links</h2>
+  <p>The <a href="/tools/">tools page</a> contains referral links to HighLevel and ServiceTitan. If you sign up through one of them, we may earn a commission at no extra cost to you. No other page on this site contains referral links.</p>
+
+  <h2 id="text-messages">Text messages and how to opt out</h2>
+  {{ m.texting_note('These terms describe how texting will work once it is live.') }}
+  <ul>
+    <li>We will text you only if you have agreed to receive texts from us, and only about what you agreed to.</li>
+    <li>To stop receiving text messages, reply STOP to any message. You will receive one message confirming that you have been unsubscribed, and no further messages after that unless you sign up again.</li>
+    <li>For help, reply HELP or email <a href="mailto:{{ site.business.email }}">{{ site.business.email }}</a>.</li>
+    <li>Message frequency varies. Message and data rates may apply.</li>
+    <li>Carriers are not liable for delayed or undelivered messages.</li>
+    <li>Our <a href="/privacy-policy/">privacy policy</a> explains how we handle your information, including that no mobile information will be shared with third parties or affiliates for marketing or promotional purposes.</li>
+  </ul>
+
+  <h2>Content on this site</h2>
+  <p>The text, design and logo on this site belong to Dominion Digital Group. Photos are used for illustration and do not show our clients or their businesses. Links to other websites are provided for convenience; we do not control those sites.</p>
+
+  <h2>No warranty</h2>
+  <p>We work to keep this site accurate and current, but it is provided as is. To the extent the law allows, Dominion Digital Group is not liable for losses that come from using the website or relying on its general information.</p>
+
+  <h2>Contact</h2>
+  <p>Questions about these terms: <a href="mailto:{{ site.business.email }}">{{ site.business.email }}</a> or <a href="tel:{{ site.business.phone_tel }}">{{ site.business.phone_display }}</a>.</p>
+</section>
+{% endblock %}

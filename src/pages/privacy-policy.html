@@ -1,0 +1,45 @@
+---
+type: page
+title: "Privacy Policy | Dominion AI Agency"
+description: "How Dominion AI Agency handles information from website visitors, the contact form, calls to the main line and, once it is live, business text messaging."
+h1: "Privacy Policy"
+crumb: "Privacy Policy"
+lead: "Last updated October 15, 2026. This policy covers dominionaiagency.com and the main phone line of Dominion AI Agency, a d/b/a of Dominion Digital Group."
+---
+{% block content %}
+<section class="prose">
+  <h2>Who we are</h2>
+  <p>Dominion AI Agency is a d/b/a of Dominion Digital Group, based in East Texas. You can reach us at <a href="mailto:{{ site.business.email }}">{{ site.business.email }}</a> or by calling <a href="tel:{{ site.business.phone_tel }}">{{ site.business.phone_display }}</a>. In this policy, "we" and "us" mean Dominion AI Agency.</p>
+
+  <h2>Information we collect</h2>
+  <ul>
+    <li><strong>The contact form.</strong> Your name, business name, email address, phone number if you give one, and what you write in the message box. The form is processed by our website host, Netlify, and delivered to us.</li>
+    <li><strong>Calls to our main line.</strong> Our main line is answered by an AI receptionist. When you call, the system receives your phone number and what you say, and it may keep a recording, a transcript or a summary of the call and any message you leave, so that we can follow up. The AI receptionist runs on HighLevel, the platform we use for our own business and for client systems.</li>
+    <li><strong>Website analytics.</strong> We use Google Analytics 4 to understand how the site is used, including when someone taps a phone number. Google Analytics uses cookies and collects information such as pages viewed, the type of device and browser, and an approximate location derived from the IP address.</li>
+    <li><strong>Translation.</strong> If you choose Español in the header, the page is translated by Google Translate, which loads from Google and sets a cookie to remember your choice.</li>
+  </ul>
+
+  <h2>How we use it</h2>
+  <p>We use the information you give us to answer your question, to discuss and provide services you ask about, to keep records of our conversations with you, and to improve the website. We do not sell personal information, and we do not share it with other companies for their own marketing.</p>
+
+  <h2>Who we share it with</h2>
+  <p>Only the service providers that run the tools above (for example our website host, our CRM and phone platform, and Google for analytics and translation), and only so they can provide those services to us, or when the law requires it.</p>
+
+  <h2 id="text-messages">Text messages (SMS)</h2>
+  {{ m.texting_note('We do not send text messages from our business number today.') }}
+  <p>When business texting goes live, we will text only people who have agreed to receive texts from us, about the subject they agreed to. Message frequency will vary. Message and data rates may apply. You can reply STOP at any time to stop receiving texts, and HELP for help.</p>
+  <p>No mobile information will be shared with third parties/affiliates for marketing or promotional purposes. Text messaging originator opt-in data and consent will not be shared with any third parties, except the providers that deliver the messages for us.</p>
+
+  <h2>Client systems we build</h2>
+  <p>When we set up an AI receptionist, chat widget or CRM for a business, that business decides what its system collects from its own callers and customers and is responsible for its own privacy notice. We configure the tools on its instructions. Our service is not a HIPAA compliance program, and we do not configure systems to collect clinical or patient-record detail.</p>
+
+  <h2>How long we keep it, and your choices</h2>
+  <p>We keep messages and call records for as long as we need them to work with you, or as the law requires. You can ask us what information we hold about you, ask us to correct it, or ask us to delete it, by emailing <a href="mailto:{{ site.business.email }}">{{ site.business.email }}</a>. You can block or delete cookies in your browser settings, and Google offers a browser add-on to opt out of Google Analytics.</p>
+
+  <h2>Children</h2>
+  <p>This site is for business owners. It is not directed to children under 13, and we do not knowingly collect their information.</p>
+
+  <h2>Changes</h2>
+  <p>We will post any change to this policy on this page with a new date at the top.</p>
+</section>
+{% endblock %}

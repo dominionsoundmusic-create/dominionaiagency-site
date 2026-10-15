@@ -69,5 +69,10 @@
   "from": "bakery-owner-bread-shelves-hero.jpg",
   "alt": "Plates lined up at a restaurant kitchen pass during dinner service",
   "prompt": "Restaurant kitchen pass during dinner service: plated dishes under warm heat lamps, a cook's hands placing a plate, stainless steel counters, busy motion, no faces."
+ },
+ "plumber-under-kitchen-sink-hero.jpg": {
+  "from": "brick-ranch-home-oak-hero.jpg",
+  "alt": "Plumber working under a kitchen sink with a flashlight and tools",
+  "prompt": "Plumber seen from the side lying under an open kitchen sink cabinet with a flashlight and a wrench, toolbox on the tile floor, bright suburban kitchen, daylight, face not visible."
  }
 }

@@ -197,6 +197,7 @@ def main():
                 (warn if is_guide else err)(f"vendor/competitor name '{v}' (only in guides, cited)")
         body_m = re.search(r'<div class="page-content"[^>]*>(.*)</main>', raw, re.S)
         body_raw = body_m.group(1) if body_m else raw
+        body_raw = re.sub(r'<section class="band band--black cta".*?</section>', " ", body_raw, flags=re.S)  # shared call band
         body_txt = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", re.sub(r"(?s)<(script|style)[^>]*>.*?</\1>", " ", body_raw)))
         for mt in re.finditer(r"\$\s?([\d,]+(?:\.\d+)?)", body_txt + " " + p.title + " " + p.meta.get("description", "")):
             amt = mt.group(1).rstrip(",")

@@ -1,0 +1,43 @@
+---
+type: page
+title: "Message Received | Dominion AI Agency"
+description: "Your message reached Dominion AI Agency. We reply by email or phone. Meanwhile you can call the main line and hear the AI receptionist answer at any hour."
+h1: "Thanks, your message was sent"
+crumb: "Message sent"
+noindex: true
+cta: false
+hero:
+  size: short
+  image: shop-owner-laptop-shelves.jpg
+  alt: "Shop owner on a laptop at the counter of a store with shelves of goods"
+  lead: "It came straight to us. We read it and reply by email or by phone, using the details you gave."
+  secondary_label: "Back to the home page"
+  secondary_href: "/"
+faqs:
+  - q: "When will you reply?"
+    a: "<p>We do not promise a set time, but every message is read and answered. If you have not heard back and want to move faster, call the main line; the AI receptionist answers at any hour and can take a message marked as a follow-up.</p>"
+  - q: "What can I do while I wait?"
+    a: "<p>Call the main line and test the AI receptionist with the questions your own customers ask. Then read the <a href=\"/pricing/\">pricing page</a> and the page for <a href=\"/ai-for/\">your industry</a>, so the first conversation can go straight to the details that matter for your business.</p>"
+  - q: "Will you text me?"
+    a: "<p>No. Texting is not live yet on our side: voice works today, and text messages switch on only once carrier approval clears. Even then, sending this form does not sign you up for texts. We reply by email or phone.</p>"
+---
+{% block content %}
+<section class="prose">
+  <div class="split">
+    <div>
+      <h2>What happens next</h2>
+      <p>Your message lands with us, not with a sales list. We look at what you want automated and reply with a straight answer: what we would set up, which package or single service fits, and anything we cannot do for your kind of business.</p>
+      {{ m.texting_note('Our reply comes by email or phone.') }}
+    </div>
+    {{ img('office-laptop-folders.jpg', 'Person at an office desk with a laptop, folders and a coffee', 1200, 800) }}
+  </div>
+  <div class="split">
+    {{ img('notebook-pen-table-window.jpg', 'Spiral notebook and pen on a table beside a window', 1200, 800) }}
+    <div>
+      <h2>Hear it while you wait</h2>
+      <p>The quickest preview of what you would get is our own line. Ask it about your industry, your hours, or how booking works.</p>
+      <p><a class="btn btn--black" href="tel:{{ site.business.phone_tel }}">{{ site.cta.primary_label }}</a></p>
+    </div>
+  </div>
+</section>
+{% endblock %}

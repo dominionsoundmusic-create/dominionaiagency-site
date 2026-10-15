@@ -1,0 +1,79 @@
+---
+type: contact
+title: "Contact Dominion AI Agency: Call the AI Line or Send a Message"
+description: "Reach Dominion AI Agency: call the main line and hear the AI receptionist answer at any hour, send the short form about what you want automated, or email Maurice."
+h1: "Contact Dominion AI Agency"
+crumb: "Contact"
+hero:
+  size: short
+  image: shop-owner-phone-laptop-register-hero.jpg
+  alt: "Shop owner holding a phone beside a laptop and register at the counter"
+  lead: "Calling is the best first step, because the AI receptionist that answers is a working example of what we set up. If you would rather write, the form below comes straight to us."
+  secondary_label: "Send the form"
+  secondary_href: "#message"
+cta_title: "Rather hear it than read about it? Call the main line"
+faq_title: "Questions about getting in touch"
+faqs:
+  - q: "Who answers when I call Dominion AI Agency?"
+    a: "<p>An AI receptionist answers the main line 24 hours a day, every day. It can tell you about our services and prices, answer common questions and take a message for Maurice. That is on purpose: hearing it handle your questions tells you more than any page on this site. If you want a person, say so and it will take your details for a call back.</p>"
+  - q: "What should I put in the form?"
+    a: "<p>Your name, your business name, an email address, and a sentence or two about what you want automated, for example \"we miss calls after 5 p.m.\" or \"we want a chat on our website that books estimates\". A phone number is optional. We reply by email or phone. The form is not a way to send text messages, and we do not text you from it.</p>"
+  - q: "Do you have an office I can visit?"
+    a: "<p>No. Dominion AI Agency is based in East Texas but works remotely with businesses in all 50 states, and the address is not public. Everything happens by phone, email and shared screens, and nothing we set up requires a visit to your location.</p>"
+  - q: "Can I get a quote before I call?"
+    a: "<p>Our prices are published. Packages are $597, $1,097 and $1,997 a month, and single services start at $97 a month. The <a href=\"/pricing/\">pricing page</a> lists what each includes. Tell us in the form which one you are looking at, and we will tell you honestly whether it fits.</p>"
+---
+{% block content %}
+<section class="prose" id="message">
+  <div class="split">
+    <div>
+      <h2>Send us a message</h2>
+      <p>Fill in the four required fields. We read every message and answer by email or phone. If something is urgent, or you simply want to hear the product, call <a href="tel:{{ site.business.phone_tel }}">{{ site.business.phone_display }}</a> instead.</p>
+      <form class="form" name="{{ site.forms.contact }}" method="POST" action="/contact/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="{{ site.forms.contact }}">
+        <p class="hp"><label>Leave this field empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <label>Your name <input name="name" required autocomplete="name"></label>
+        <label>Business name <input name="business" required autocomplete="organization"></label>
+        <label>Email <input name="email" type="email" required autocomplete="email"></label>
+        <label>Phone (optional) <input name="phone" type="tel" autocomplete="tel"></label>
+        <label>What do you want automated? <textarea name="message" rows="5" required></textarea></label>
+        <button class="btn btn--gold" type="submit">Send my message</button>
+        <p class="form__note">We use what you send only to reply to you. It is never sold. See the <a href="/privacy-policy/">privacy policy</a> and the <a href="/terms/">terms</a>.</p>
+      </form>
+    </div>
+    {{ img('phone-planner-desk.jpg', 'Hands holding a phone over an open planner on a desk', 1200, 800) }}
+  </div>
+</section>
+
+<section class="prose">
+  <h2>Three ways to reach us</h2>
+  <div class="grid-3">
+    <div class="panel">
+      <h3>Call the main line</h3>
+      <p><a href="tel:{{ site.business.phone_tel }}">{{ site.business.phone_display }}</a>. An AI receptionist answers at any hour, every day. Ask it what you would want your own customers to be able to ask.</p>
+    </div>
+    <div class="panel">
+      <h3>Use the form</h3>
+      <p>Best when you want to describe your business in writing first: what calls you miss, which software you use, and what you hope the AI will do.</p>
+    </div>
+    <div class="panel">
+      <h3>Email</h3>
+      <p><a href="mailto:{{ site.business.email }}">{{ site.business.email }}</a>. The address is shared with our sister brand, Dominion Web Design Pro, so mention Dominion AI Agency in the subject line.</p>
+    </div>
+  </div>
+  <div class="split">
+    {{ img('notes-laptop-coffee-desk.jpg', 'Person writing notes beside a laptop and a coffee cup', 1200, 500) }}
+    <div>
+      <h2>What helps us help you</h2>
+      <ul class="checks">
+        <li>What kind of business you run and roughly how many calls come in on a busy day</li>
+        <li>When calls go unanswered now: after hours, at lunch, while you are with a customer</li>
+        <li>The questions callers ask most, and the ones only you can answer</li>
+        <li>The calendar, booking or practice software you already use, so we can check what connects</li>
+        <li>Your website address, if you want a chat or voice widget on it</li>
+      </ul>
+    </div>
+  </div>
+  {{ m.texting_note('We will not text you about your inquiry before then, and the form above does not sign you up for texts.') }}
+</section>
+{% endblock %}
