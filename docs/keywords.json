@@ -1,0 +1,2829 @@
+{
+ "/": {
+  "target": "ai agency",
+  "target_vol": 49500,
+  "target_sd": 27,
+  "supporting": [
+   {
+    "kw": "ai agency near me",
+    "vol": 320,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "ai agency automation",
+    "vol": 210,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "automated ai agency",
+    "vol": 70,
+    "sd": 27,
+    "question": false
+   },
+   {
+    "kw": "the ai agency",
+    "vol": 70,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "automation ai agency",
+    "vol": 30,
+    "sd": 72,
+    "question": false
+   },
+   {
+    "kw": "ai agency for small business",
+    "vol": 20,
+    "sd": 34,
+    "question": false
+   },
+   {
+    "kw": "ai agency group",
+    "vol": 20,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "ai agency for business",
+    "vol": 10,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "ai agency usa",
+    "vol": 10,
+    "sd": 26,
+    "question": false
+   }
+  ]
+ },
+ "/services/": {
+  "target": "ai agency services",
+  "target_vol": 40,
+  "target_sd": 55,
+  "supporting": [
+   {
+    "kw": "ai services near me",
+    "vol": 320,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "ai agency solutions",
+    "vol": 90,
+    "sd": 23,
+    "question": false
+   }
+  ]
+ },
+ "/ai-for/": {
+  "target": "ai for small business",
+  "target_vol": 1900,
+  "target_sd": 28,
+  "supporting": [
+   {
+    "kw": "best ai for small business",
+    "vol": 720,
+    "sd": 38,
+    "question": false
+   },
+   {
+    "kw": "ai for small business owners",
+    "vol": 140,
+    "sd": 65,
+    "question": false
+   },
+   {
+    "kw": "best ai for small business owners",
+    "vol": 140,
+    "sd": 47,
+    "question": false
+   },
+   {
+    "kw": "how to use ai for small business",
+    "vol": 50,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "agentic ai for small business",
+    "vol": 30,
+    "sd": 28,
+    "question": false
+   },
+   {
+    "kw": "what is the best ai for small business",
+    "vol": 20,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "ai agent for small business owners",
+    "vol": 10,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "generative ai for small business",
+    "vol": 10,
+    "sd": 21,
+    "question": false
+   },
+   {
+    "kw": "how to use ai for my small business",
+    "vol": 10,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "using ai for small business",
+    "vol": 10,
+    "sd": 30,
+    "question": false
+   }
+  ]
+ },
+ "/pricing/": {
+  "target": "ai automation agency pricing",
+  "target_vol": 30,
+  "target_sd": 19,
+  "supporting": [
+   {
+    "kw": "how much does ai cost",
+    "vol": 480,
+    "sd": 58,
+    "question": true
+   },
+   {
+    "kw": "ai voice agent pricing",
+    "vol": 70,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "marketing automation pricing",
+    "vol": 50,
+    "sd": 41,
+    "question": false
+   }
+  ]
+ },
+ "/how-it-works/": {
+  "target": "how does ai receptionist work",
+  "target_vol": 10,
+  "target_sd": 9,
+  "supporting": [
+   {
+    "kw": "how to set up ai answering service",
+    "vol": 10,
+    "sd": 31,
+    "question": false
+   }
+  ]
+ },
+ "/about/": {
+  "target": null,
+  "target_vol": 0,
+  "target_sd": 0,
+  "supporting": []
+ },
+ "/faq/": {
+  "target": null,
+  "target_vol": 0,
+  "target_sd": 0,
+  "supporting": []
+ },
+ "/contact/": {
+  "target": null,
+  "target_vol": 0,
+  "target_sd": 0,
+  "supporting": []
+ },
+ "/tools/": {
+  "target": null,
+  "target_vol": 0,
+  "target_sd": 0,
+  "supporting": []
+ },
+ "/ai-receptionist/": {
+  "target": "ai receptionist",
+  "target_vol": 12100,
+  "target_sd": 33,
+  "supporting": [
+   {
+    "kw": "artificial intelligence receptionist",
+    "vol": 2900,
+    "sd": 48,
+    "question": true
+   },
+   {
+    "kw": "ai receptionist software",
+    "vol": 390,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist services",
+    "vol": 210,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "go high level ai receptionist",
+    "vol": 70,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "voice ai receptionist",
+    "vol": 70,
+    "sd": 53,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist service",
+    "vol": 50,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "front desk ai receptionist",
+    "vol": 50,
+    "sd": 39,
+    "question": false
+   },
+   {
+    "kw": "what is an ai receptionist",
+    "vol": 50,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "24 7 ai receptionist",
+    "vol": 40,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for business",
+    "vol": 40,
+    "sd": 57,
+    "question": false
+   },
+   {
+    "kw": "gohighlevel ai receptionist",
+    "vol": 40,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "virtual ai receptionist",
+    "vol": 40,
+    "sd": 17,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist demo",
+    "vol": 30,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist near me",
+    "vol": 30,
+    "sd": 23,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist agency",
+    "vol": 10,
+    "sd": 38,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist business",
+    "vol": 10,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist companies",
+    "vol": 10,
+    "sd": 35,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist gohighlevel",
+    "vol": 10,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist meaning",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "personal ai receptionist",
+    "vol": 10,
+    "sd": 37,
+    "question": false
+   },
+   {
+    "kw": "what is ai receptionist",
+    "vol": 10,
+    "sd": 24,
+    "question": false
+   }
+  ]
+ },
+ "/ai-receptionist-for-small-business/": {
+  "target": "ai receptionist for small business",
+  "target_vol": 1600,
+  "target_sd": 24,
+  "supporting": [
+   {
+    "kw": "best ai receptionist",
+    "vol": 320,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "best ai receptionist for small business",
+    "vol": 260,
+    "sd": 10,
+    "question": false
+   },
+   {
+    "kw": "ai virtual assistant for small business",
+    "vol": 70,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent for small business",
+    "vol": 70,
+    "sd": 37,
+    "question": false
+   },
+   {
+    "kw": "ai assistant for small business owners",
+    "vol": 30,
+    "sd": 34,
+    "question": false
+   },
+   {
+    "kw": "what is the best ai receptionist",
+    "vol": 30,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "best ai receptionist software",
+    "vol": 20,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist small business",
+    "vol": 10,
+    "sd": 27,
+    "question": false
+   },
+   {
+    "kw": "top ai receptionist",
+    "vol": 10,
+    "sd": 26,
+    "question": false
+   }
+  ]
+ },
+ "/ai-answering-service/": {
+  "target": "ai answering service",
+  "target_vol": 2400,
+  "target_sd": 36,
+  "supporting": [
+   {
+    "kw": "ai phone answering service",
+    "vol": 880,
+    "sd": 33,
+    "question": true
+   },
+   {
+    "kw": "business answering phone service",
+    "vol": 720,
+    "sd": 11,
+    "question": true
+   },
+   {
+    "kw": "ai answering service for business",
+    "vol": 480,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "ai answering service for small business",
+    "vol": 260,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "what is answering service",
+    "vol": 260,
+    "sd": 19,
+    "question": true
+   },
+   {
+    "kw": "best ai answering service",
+    "vol": 170,
+    "sd": 35,
+    "question": false
+   },
+   {
+    "kw": "ai answering services",
+    "vol": 140,
+    "sd": 35,
+    "question": true
+   },
+   {
+    "kw": "best ai answering service for small business",
+    "vol": 140,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "automated business voicemail greeting",
+    "vol": 90,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "ai voice answering service",
+    "vol": 70,
+    "sd": 35,
+    "question": false
+   },
+   {
+    "kw": "best ai phone answering service",
+    "vol": 70,
+    "sd": 39,
+    "question": true
+   },
+   {
+    "kw": "ai business phone answering service",
+    "vol": 50,
+    "sd": 52,
+    "question": true
+   },
+   {
+    "kw": "ai business answering service",
+    "vol": 40,
+    "sd": 18,
+    "question": true
+   },
+   {
+    "kw": "ai telephone answering service",
+    "vol": 40,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "business automated phone answering system",
+    "vol": 40,
+    "sd": 47,
+    "question": false
+   },
+   {
+    "kw": "how does an answering service work",
+    "vol": 40,
+    "sd": 15,
+    "question": true
+   },
+   {
+    "kw": "ai phone answering service for small business",
+    "vol": 30,
+    "sd": 35,
+    "question": false
+   },
+   {
+    "kw": "ai after hours answering service",
+    "vol": 20,
+    "sd": 23,
+    "question": false
+   },
+   {
+    "kw": "ai business phone",
+    "vol": 20,
+    "sd": 39,
+    "question": true
+   },
+   {
+    "kw": "ai business phone assistant",
+    "vol": 10,
+    "sd": 17,
+    "question": true
+   },
+   {
+    "kw": "what is call answering service",
+    "vol": 10,
+    "sd": 24,
+    "question": true
+   },
+   {
+    "kw": "what is phone answering service",
+    "vol": 10,
+    "sd": 5,
+    "question": true
+   }
+  ]
+ },
+ "/ai-voice-agent/": {
+  "target": "ai voice agent",
+  "target_vol": 6600,
+  "target_sd": 40,
+  "supporting": [
+   {
+    "kw": "ai for customer service",
+    "vol": 5400,
+    "sd": 62,
+    "question": false
+   },
+   {
+    "kw": "conversational ai voice agent",
+    "vol": 1300,
+    "sd": 53,
+    "question": false
+   },
+   {
+    "kw": "voice ai agency",
+    "vol": 880,
+    "sd": 34,
+    "question": false
+   },
+   {
+    "kw": "conversational ai agency",
+    "vol": 590,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "best ai voice agent",
+    "vol": 210,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent agency",
+    "vol": 170,
+    "sd": 50,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent for customer service",
+    "vol": 140,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent services for businesses",
+    "vol": 140,
+    "sd": 14,
+    "question": false
+   },
+   {
+    "kw": "what is an ai voice agent",
+    "vol": 110,
+    "sd": 37,
+    "question": false
+   },
+   {
+    "kw": "what is ai calling",
+    "vol": 90,
+    "sd": 39,
+    "question": true
+   },
+   {
+    "kw": "ai voice agent for customer support",
+    "vol": 70,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "ai agent phone",
+    "vol": 50,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "gohighlevel ai voice agent",
+    "vol": 50,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "ai agent voice",
+    "vol": 40,
+    "sd": 17,
+    "question": true
+   },
+   {
+    "kw": "ai voice agent for business",
+    "vol": 40,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "go high level ai voice agent",
+    "vol": 40,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent companies",
+    "vol": 30,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent service",
+    "vol": 30,
+    "sd": 47,
+    "question": false
+   },
+   {
+    "kw": "autonomous ai customer service",
+    "vol": 30,
+    "sd": 47,
+    "question": false
+   },
+   {
+    "kw": "outbound ai voice agent",
+    "vol": 30,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "what are ai voice agents",
+    "vol": 30,
+    "sd": 37,
+    "question": true
+   },
+   {
+    "kw": "what is ai voice assistant",
+    "vol": 30,
+    "sd": 30,
+    "question": true
+   },
+   {
+    "kw": "ai voice agent for cold calling",
+    "vol": 20,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent for sales",
+    "vol": 20,
+    "sd": 10,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent business",
+    "vol": 10,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent call",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent outbound calls",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "can ai agents make phone calls",
+    "vol": 10,
+    "sd": 21,
+    "question": true
+   },
+   {
+    "kw": "custom ai voice agent",
+    "vol": 10,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "how ai voice agents work",
+    "vol": 10,
+    "sd": 5,
+    "question": true
+   },
+   {
+    "kw": "local ai voice agent",
+    "vol": 10,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "multi language ai voice agent",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "what is voice agent",
+    "vol": 10,
+    "sd": 5,
+    "question": true
+   }
+  ]
+ },
+ "/ai-chatbot-agency/": {
+  "target": "ai chatbot for website",
+  "target_vol": 880,
+  "target_sd": 71,
+  "supporting": [
+   {
+    "kw": "ai chatbot for customer service",
+    "vol": 1600,
+    "sd": 62,
+    "question": false
+   },
+   {
+    "kw": "ai chat for website",
+    "vol": 880,
+    "sd": 85,
+    "question": true
+   },
+   {
+    "kw": "ai chatbot example",
+    "vol": 390,
+    "sd": 75,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot companies",
+    "vol": 170,
+    "sd": 50,
+    "question": true
+   },
+   {
+    "kw": "chatbot for small business",
+    "vol": 140,
+    "sd": 22,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot for small business",
+    "vol": 90,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "best ai chatbot for website",
+    "vol": 70,
+    "sd": 56,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot for my website",
+    "vol": 40,
+    "sd": 12,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot on website",
+    "vol": 40,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "best chatbot for small business",
+    "vol": 40,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "chatbot vs ai",
+    "vol": 40,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "ai bot for website",
+    "vol": 30,
+    "sd": 70,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot benefits",
+    "vol": 30,
+    "sd": 30,
+    "question": true
+   },
+   {
+    "kw": "best ai chatbot for small business",
+    "vol": 30,
+    "sd": 51,
+    "question": false
+   },
+   {
+    "kw": "custom ai chatbot for website",
+    "vol": 30,
+    "sd": 79,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot for ecommerce website",
+    "vol": 20,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot for your website",
+    "vol": 20,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "ai live chat for website",
+    "vol": 20,
+    "sd": 81,
+    "question": false
+   },
+   {
+    "kw": "small business chatbot",
+    "vol": 20,
+    "sd": 22,
+    "question": true
+   },
+   {
+    "kw": "ai automation agency chatbot",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "ai bot on website",
+    "vol": 10,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "ai chat with website",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot website examples",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot widget for website",
+    "vol": 10,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "ai powered chatbot for website",
+    "vol": 10,
+    "sd": 12,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist website",
+    "vol": 10,
+    "sd": 39,
+    "question": false
+   },
+   {
+    "kw": "chatbot for small business owners",
+    "vol": 10,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "chatbot for your business",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   }
+  ]
+ },
+ "/missed-call-text-back/": {
+  "target": "missed call text back",
+  "target_vol": 390,
+  "target_sd": 30,
+  "supporting": [
+   {
+    "kw": "go high level missed call text back",
+    "vol": 110,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "how to respond to a missed call by text",
+    "vol": 110,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "missed call text back software",
+    "vol": 110,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "the missed call text back",
+    "vol": 90,
+    "sd": 21,
+    "question": false
+   },
+   {
+    "kw": "auto missed call text back",
+    "vol": 50,
+    "sd": 12,
+    "question": false
+   },
+   {
+    "kw": "gohighlevel missed call text back",
+    "vol": 50,
+    "sd": 22,
+    "question": false
+   },
+   {
+    "kw": "ghl missed call text back",
+    "vol": 40,
+    "sd": 27,
+    "question": false
+   },
+   {
+    "kw": "missed call text back automation",
+    "vol": 30,
+    "sd": 14,
+    "question": false
+   },
+   {
+    "kw": "missed call text back calculator",
+    "vol": 30,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "missed call text back gohighlevel",
+    "vol": 30,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "missed call text back service",
+    "vol": 30,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "the missed call text back calculator",
+    "vol": 30,
+    "sd": 8,
+    "question": false
+   },
+   {
+    "kw": "auto missed call text back software",
+    "vol": 20,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "high level missed call text back",
+    "vol": 10,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "how to set up missed call text back gohighlevel",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "missed call called back number disconnected",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "missed call text back app",
+    "vol": 10,
+    "sd": 9,
+    "question": false
+   },
+   {
+    "kw": "missed call text back high level",
+    "vol": 10,
+    "sd": 10,
+    "question": false
+   },
+   {
+    "kw": "should i call back a missed call",
+    "vol": 10,
+    "sd": 5,
+    "question": true
+   }
+  ]
+ },
+ "/ai-appointment-booking/": {
+  "target": "ai appointment booking",
+  "target_vol": 70,
+  "target_sd": 26,
+  "supporting": [
+   {
+    "kw": "ai appointment",
+    "vol": 40,
+    "sd": 63,
+    "question": false
+   },
+   {
+    "kw": "ai appointment booking bot",
+    "vol": 40,
+    "sd": 16,
+    "question": false
+   },
+   {
+    "kw": "what is appointment scheduling",
+    "vol": 40,
+    "sd": 21,
+    "question": true
+   },
+   {
+    "kw": "what is appointment scheduling software",
+    "vol": 30,
+    "sd": 34,
+    "question": true
+   },
+   {
+    "kw": "ai appointment setting bot",
+    "vol": 20,
+    "sd": 23,
+    "question": false
+   },
+   {
+    "kw": "ai appointment booking agent",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "ai appointment booking system",
+    "vol": 10,
+    "sd": 58,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent appointment setter",
+    "vol": 10,
+    "sd": 9,
+    "question": false
+   },
+   {
+    "kw": "what is online appointment",
+    "vol": 10,
+    "sd": 5,
+    "question": true
+   }
+  ]
+ },
+ "/ai-crm-automation/": {
+  "target": "crm automation",
+  "target_vol": 590,
+  "target_sd": 34,
+  "supporting": [
+   {
+    "kw": "marketing automation email",
+    "vol": 1600,
+    "sd": 45,
+    "question": false
+   },
+   {
+    "kw": "marketing crm automation",
+    "vol": 1300,
+    "sd": 58,
+    "question": false
+   },
+   {
+    "kw": "marketing automation ai",
+    "vol": 880,
+    "sd": 73,
+    "question": false
+   },
+   {
+    "kw": "marketing automation near me",
+    "vol": 480,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "what's marketing automation",
+    "vol": 480,
+    "sd": 16,
+    "question": true
+   },
+   {
+    "kw": "crm sales automation",
+    "vol": 390,
+    "sd": 41,
+    "question": false
+   },
+   {
+    "kw": "marketing automation agency",
+    "vol": 260,
+    "sd": 35,
+    "question": false
+   },
+   {
+    "kw": "crm automation software",
+    "vol": 210,
+    "sd": 43,
+    "question": false
+   },
+   {
+    "kw": "crm automation tools",
+    "vol": 210,
+    "sd": 52,
+    "question": false
+   },
+   {
+    "kw": "marketing automation for small businesses",
+    "vol": 210,
+    "sd": 45,
+    "question": false
+   },
+   {
+    "kw": "marketing automation meaning",
+    "vol": 210,
+    "sd": 56,
+    "question": false
+   },
+   {
+    "kw": "marketing automation workflow",
+    "vol": 210,
+    "sd": 38,
+    "question": false
+   },
+   {
+    "kw": "marketing automation benefits",
+    "vol": 170,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "marketing automation companies",
+    "vol": 170,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "marketing automation consultant",
+    "vol": 170,
+    "sd": 16,
+    "question": false
+   },
+   {
+    "kw": "what is crm automation",
+    "vol": 140,
+    "sd": 46,
+    "question": false
+   },
+   {
+    "kw": "crm automated emails",
+    "vol": 90,
+    "sd": 38,
+    "question": false
+   },
+   {
+    "kw": "marketing automation examples",
+    "vol": 90,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "ai lead follow up",
+    "vol": 50,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "marketing automation lead nurturing",
+    "vol": 50,
+    "sd": 46,
+    "question": false
+   },
+   {
+    "kw": "marketing automation with ai",
+    "vol": 50,
+    "sd": 47,
+    "question": false
+   },
+   {
+    "kw": "crm process automation",
+    "vol": 40,
+    "sd": 46,
+    "question": false
+   },
+   {
+    "kw": "marketing automation flow",
+    "vol": 40,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "marketing automation process",
+    "vol": 40,
+    "sd": 48,
+    "question": false
+   },
+   {
+    "kw": "marketing automation roi",
+    "vol": 40,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "ai follow up",
+    "vol": 30,
+    "sd": 29,
+    "question": true
+   },
+   {
+    "kw": "crm automation definition",
+    "vol": 30,
+    "sd": 44,
+    "question": false
+   },
+   {
+    "kw": "crm automation examples",
+    "vol": 30,
+    "sd": 43,
+    "question": false
+   },
+   {
+    "kw": "crm automation services",
+    "vol": 30,
+    "sd": 45,
+    "question": false
+   },
+   {
+    "kw": "lead scoring marketing automation",
+    "vol": 30,
+    "sd": 37,
+    "question": false
+   },
+   {
+    "kw": "marketing automation business",
+    "vol": 30,
+    "sd": 89,
+    "question": false
+   },
+   {
+    "kw": "marketing automation expert",
+    "vol": 30,
+    "sd": 27,
+    "question": false
+   },
+   {
+    "kw": "marketing automation implementation services",
+    "vol": 30,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "marketing automation lead",
+    "vol": 30,
+    "sd": 48,
+    "question": false
+   },
+   {
+    "kw": "marketing automation use cases",
+    "vol": 30,
+    "sd": 52,
+    "question": false
+   },
+   {
+    "kw": "why marketing automation",
+    "vol": 30,
+    "sd": 57,
+    "question": true
+   },
+   {
+    "kw": "crm automation meaning",
+    "vol": 20,
+    "sd": 16,
+    "question": false
+   },
+   {
+    "kw": "crm automation benefits",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "crm automation company",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "crm automation specialist",
+    "vol": 10,
+    "sd": 27,
+    "question": false
+   },
+   {
+    "kw": "go high level crm automation specialist",
+    "vol": 10,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "marketing automation what is it",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "why crm is so important",
+    "vol": 10,
+    "sd": 5,
+    "question": true
+   },
+   {
+    "kw": "why crm system",
+    "vol": 10,
+    "sd": 13,
+    "question": true
+   }
+  ]
+ },
+ "/ai-workflow-automation/": {
+  "target": "business automation services",
+  "target_vol": 480,
+  "target_sd": 24,
+  "supporting": [
+   {
+    "kw": "business automation processes",
+    "vol": 3600,
+    "sd": 63,
+    "question": false
+   },
+   {
+    "kw": "business automation process",
+    "vol": 2400,
+    "sd": 47,
+    "question": false
+   },
+   {
+    "kw": "business of automation",
+    "vol": 2400,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "business automation",
+    "vol": 1600,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "business automation service",
+    "vol": 590,
+    "sd": 53,
+    "question": false
+   },
+   {
+    "kw": "business automation agency",
+    "vol": 480,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "what is automation in business",
+    "vol": 390,
+    "sd": 39,
+    "question": true
+   },
+   {
+    "kw": "what is business automation",
+    "vol": 390,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "ai for business automation",
+    "vol": 320,
+    "sd": 51,
+    "question": false
+   },
+   {
+    "kw": "small business automation",
+    "vol": 320,
+    "sd": 34,
+    "question": false
+   },
+   {
+    "kw": "ai business automation",
+    "vol": 260,
+    "sd": 28,
+    "question": false
+   },
+   {
+    "kw": "benefits of business automation",
+    "vol": 260,
+    "sd": 38,
+    "question": false
+   },
+   {
+    "kw": "business automation ai",
+    "vol": 260,
+    "sd": 48,
+    "question": false
+   },
+   {
+    "kw": "business automation consultants",
+    "vol": 260,
+    "sd": 14,
+    "question": false
+   },
+   {
+    "kw": "business automation solution",
+    "vol": 260,
+    "sd": 43,
+    "question": false
+   },
+   {
+    "kw": "business process automation benefits",
+    "vol": 260,
+    "sd": 41,
+    "question": false
+   },
+   {
+    "kw": "business automation consultant",
+    "vol": 170,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "business process automation examples",
+    "vol": 170,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "business automation companies",
+    "vol": 140,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "business automation system",
+    "vol": 140,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "business automation definition",
+    "vol": 90,
+    "sd": 34,
+    "question": false
+   },
+   {
+    "kw": "business operations automation",
+    "vol": 90,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "ai agents for business automation",
+    "vol": 70,
+    "sd": 39,
+    "question": false
+   },
+   {
+    "kw": "best ai agents for business automation",
+    "vol": 70,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "business automation company",
+    "vol": 70,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "business automation workflow",
+    "vol": 50,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "what is office automation software",
+    "vol": 50,
+    "sd": 30,
+    "question": true
+   },
+   {
+    "kw": "ai powered business automation",
+    "vol": 40,
+    "sd": 57,
+    "question": false
+   },
+   {
+    "kw": "business automation examples",
+    "vol": 40,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "business automation experts",
+    "vol": 40,
+    "sd": 42,
+    "question": false
+   },
+   {
+    "kw": "business automation specialist",
+    "vol": 40,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "business growth automation",
+    "vol": 40,
+    "sd": 64,
+    "question": false
+   },
+   {
+    "kw": "ai for small business automation",
+    "vol": 30,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "ai for small business efficiency",
+    "vol": 30,
+    "sd": 6,
+    "question": false
+   },
+   {
+    "kw": "intelligent business automation",
+    "vol": 30,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "small business automation consultant",
+    "vol": 30,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "ai agent business automation",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "ai agent for solopreneur business automation",
+    "vol": 10,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "business automation expert",
+    "vol": 10,
+    "sd": 57,
+    "question": false
+   },
+   {
+    "kw": "business automation help",
+    "vol": 10,
+    "sd": 63,
+    "question": false
+   },
+   {
+    "kw": "business automation management",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "commercial business automation",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "end to end business automation",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "home business automation",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "local business automation",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "my business automation",
+    "vol": 10,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "my business automation system",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "small business automation services",
+    "vol": 10,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "small business automation solutions",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "why automation is good for business",
+    "vol": 10,
+    "sd": 5,
+    "question": true
+   }
+  ]
+ },
+ "/ai-consulting/": {
+  "target": "ai consulting for small business",
+  "target_vol": 390,
+  "target_sd": 30,
+  "supporting": [
+   {
+    "kw": "ai consultant",
+    "vol": 8100,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "ai consultant services",
+    "vol": 2900,
+    "sd": 46,
+    "question": false
+   },
+   {
+    "kw": "ai consultant agency",
+    "vol": 1000,
+    "sd": 56,
+    "question": false
+   },
+   {
+    "kw": "ai consultant near me",
+    "vol": 720,
+    "sd": 34,
+    "question": false
+   },
+   {
+    "kw": "ai consultant for small business",
+    "vol": 590,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "ai consulting for small businesses",
+    "vol": 590,
+    "sd": 29,
+    "question": true
+   },
+   {
+    "kw": "what is an ai consultant",
+    "vol": 260,
+    "sd": 22,
+    "question": false
+   },
+   {
+    "kw": "what is ai consulting",
+    "vol": 210,
+    "sd": 32,
+    "question": true
+   },
+   {
+    "kw": "ai agency consulting",
+    "vol": 170,
+    "sd": 82,
+    "question": false
+   },
+   {
+    "kw": "small business ai consultant",
+    "vol": 170,
+    "sd": 28,
+    "question": false
+   },
+   {
+    "kw": "what is ai consultant",
+    "vol": 140,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "what does an ai consultant do",
+    "vol": 90,
+    "sd": 23,
+    "question": false
+   },
+   {
+    "kw": "how can ai help small businesses",
+    "vol": 50,
+    "sd": 26,
+    "question": true
+   },
+   {
+    "kw": "ai consultant hourly rate",
+    "vol": 40,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "hire ai consultant",
+    "vol": 40,
+    "sd": 43,
+    "question": false
+   },
+   {
+    "kw": "what can ai do for business",
+    "vol": 40,
+    "sd": 26,
+    "question": true
+   },
+   {
+    "kw": "what can ai do for my business",
+    "vol": 30,
+    "sd": 57,
+    "question": true
+   },
+   {
+    "kw": "what is a ai consultant",
+    "vol": 30,
+    "sd": 20,
+    "question": false
+   },
+   {
+    "kw": "ai consulting rates",
+    "vol": 20,
+    "sd": 31,
+    "question": true
+   },
+   {
+    "kw": "ai implementation for small business",
+    "vol": 20,
+    "sd": 45,
+    "question": false
+   },
+   {
+    "kw": "ai consultant meaning",
+    "vol": 10,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "ai skills for small business",
+    "vol": 10,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "ai training for small business owners",
+    "vol": 10,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "how much do ai consultants charge",
+    "vol": 10,
+    "sd": 15,
+    "question": true
+   },
+   {
+    "kw": "what does ai consultant do",
+    "vol": 10,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "who is an ai consultant",
+    "vol": 10,
+    "sd": 10,
+    "question": false
+   },
+   {
+    "kw": "why ai is important for business",
+    "vol": 10,
+    "sd": 33,
+    "question": true
+   }
+  ]
+ },
+ "/ai-automation-agency/": {
+  "target": "ai automation agency",
+  "target_vol": 4400,
+  "target_sd": 13,
+  "supporting": [
+   {
+    "kw": "ai automation agency services",
+    "vol": 170,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "ai automation agency near me",
+    "vol": 110,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "ai automation agency business",
+    "vol": 30,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "ai automation agency in usa",
+    "vol": 10,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "ai automation agency usa",
+    "vol": 10,
+    "sd": 8,
+    "question": false
+   }
+  ]
+ },
+ "/ai-lead-generation/": {
+  "target": "ai marketing agency",
+  "target_vol": 1900,
+  "target_sd": 36,
+  "supporting": [
+   {
+    "kw": "ai marketing agency near me",
+    "vol": 320,
+    "sd": 36,
+    "question": false
+   },
+   {
+    "kw": "seo ai agency",
+    "vol": 320,
+    "sd": 23,
+    "question": false
+   },
+   {
+    "kw": "ai digital marketing agency",
+    "vol": 260,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "how to use ai in marketing",
+    "vol": 170,
+    "sd": 48,
+    "question": true
+   },
+   {
+    "kw": "ai for small business marketing",
+    "vol": 140,
+    "sd": 38,
+    "question": false
+   },
+   {
+    "kw": "ai powered marketing agency",
+    "vol": 140,
+    "sd": 37,
+    "question": false
+   },
+   {
+    "kw": "best ai for small business marketing",
+    "vol": 90,
+    "sd": 43,
+    "question": false
+   },
+   {
+    "kw": "ai driven marketing agency",
+    "vol": 50,
+    "sd": 37,
+    "question": false
+   },
+   {
+    "kw": "best ai marketing agency",
+    "vol": 50,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "how can ai be used in marketing",
+    "vol": 50,
+    "sd": 52,
+    "question": true
+   },
+   {
+    "kw": "is ai marketing legit",
+    "vol": 40,
+    "sd": 37,
+    "question": true
+   },
+   {
+    "kw": "ai marketing agency services",
+    "vol": 30,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "ai marketing automation agency",
+    "vol": 30,
+    "sd": 64,
+    "question": false
+   },
+   {
+    "kw": "how does ai help marketing",
+    "vol": 30,
+    "sd": 83,
+    "question": true
+   },
+   {
+    "kw": "marketing automation for lead generation",
+    "vol": 30,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "what is ai marketing agency",
+    "vol": 30,
+    "sd": 50,
+    "question": false
+   },
+   {
+    "kw": "what is an ai marketing agency",
+    "vol": 30,
+    "sd": 38,
+    "question": false
+   },
+   {
+    "kw": "ai based marketing agency",
+    "vol": 20,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "how does ai marketing work",
+    "vol": 20,
+    "sd": 25,
+    "question": true
+   },
+   {
+    "kw": "ai agency digital marketing",
+    "vol": 10,
+    "sd": 6,
+    "question": false
+   },
+   {
+    "kw": "ai automation agency lead generation",
+    "vol": 10,
+    "sd": 28,
+    "question": false
+   },
+   {
+    "kw": "ai first marketing agency",
+    "vol": 10,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "ai marketing agency meaning",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "growth ai marketing agency",
+    "vol": 10,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "how to use ai for small business marketing",
+    "vol": 10,
+    "sd": 53,
+    "question": false
+   },
+   {
+    "kw": "is a marketing agency worth it",
+    "vol": 10,
+    "sd": 10,
+    "question": false
+   },
+   {
+    "kw": "marketing agency with ai",
+    "vol": 10,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "what is a ai marketing agency",
+    "vol": 10,
+    "sd": 23,
+    "question": false
+   }
+  ]
+ },
+ "/ai-for/law-firms.html": {
+  "target": "ai for law firms",
+  "target_vol": 1600,
+  "target_sd": 55,
+  "supporting": [
+   {
+    "kw": "ai receptionist for law firms",
+    "vol": 90,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "best ai for law firms",
+    "vol": 70,
+    "sd": 20,
+    "question": false
+   },
+   {
+    "kw": "ai for small law firms",
+    "vol": 50,
+    "sd": 35,
+    "question": false
+   },
+   {
+    "kw": "ai agents for law firms",
+    "vol": 30,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "ai for personal injury law firms",
+    "vol": 30,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "generative ai for law firms",
+    "vol": 30,
+    "sd": 64,
+    "question": false
+   },
+   {
+    "kw": "agentic ai for law firms",
+    "vol": 10,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "ai answering service for law firms",
+    "vol": 10,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "ai consultant for law firms",
+    "vol": 10,
+    "sd": 14,
+    "question": false
+   },
+   {
+    "kw": "best ai for small law firms",
+    "vol": 10,
+    "sd": 25,
+    "question": false
+   }
+  ]
+ },
+ "/ai-for/hvac-companies.html": {
+  "target": "ai receptionist for hvac",
+  "target_vol": 40,
+  "target_sd": 7,
+  "supporting": [
+   {
+    "kw": "ai for hvac companies",
+    "vol": 30,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "how to run a hvac business",
+    "vol": 30,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "hvac ai receptionist",
+    "vol": 30,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "service titan ai voice agent",
+    "vol": 20,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "servicetitan ai voice agent",
+    "vol": 20,
+    "sd": 29,
+    "question": false
+   }
+  ]
+ },
+ "/ai-for/dentists.html": {
+  "target": "dental ai receptionist",
+  "target_vol": 170,
+  "target_sd": 11,
+  "supporting": [
+   {
+    "kw": "ai dental receptionist",
+    "vol": 170,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "ai for dental",
+    "vol": 170,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "ai for dentists",
+    "vol": 170,
+    "sd": 53,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for dentists",
+    "vol": 50,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for dental office",
+    "vol": 40,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for dentist",
+    "vol": 40,
+    "sd": 22,
+    "question": false
+   },
+   {
+    "kw": "best dental ai receptionist",
+    "vol": 40,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist dental",
+    "vol": 30,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "ai agents for dentists",
+    "vol": 10,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for dental clinic",
+    "vol": 10,
+    "sd": 20,
+    "question": false
+   }
+  ]
+ },
+ "/ai-for/salons.html": {
+  "target": "ai receptionist for salons",
+  "target_vol": 50,
+  "target_sd": 16,
+  "supporting": [
+   {
+    "kw": "ai receptionist for salon",
+    "vol": 50,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "ai for salons",
+    "vol": 10,
+    "sd": 28,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for nail salon",
+    "vol": 10,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "ai salon receptionist",
+    "vol": 10,
+    "sd": 35,
+    "question": false
+   }
+  ]
+ },
+ "/ai-for/contractors.html": {
+  "target": "ai for contractors",
+  "target_vol": 110,
+  "target_sd": 17,
+  "supporting": [
+   {
+    "kw": "ai for electrical contractors",
+    "vol": 30,
+    "sd": 13,
+    "question": false
+   },
+   {
+    "kw": "ai for general contractors",
+    "vol": 30,
+    "sd": 28,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for contractors",
+    "vol": 20,
+    "sd": 12,
+    "question": false
+   },
+   {
+    "kw": "ai for small construction business",
+    "vol": 10,
+    "sd": 16,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for electricians",
+    "vol": 10,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "best ai for construction business",
+    "vol": 10,
+    "sd": 29,
+    "question": true
+   },
+   {
+    "kw": "best ai for contractors",
+    "vol": 10,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "how can ai help in construction",
+    "vol": 10,
+    "sd": 24,
+    "question": true
+   }
+  ]
+ },
+ "/ai-for/restaurants.html": {
+  "target": "ai for restaurants",
+  "target_vol": 720,
+  "target_sd": 47,
+  "supporting": [
+   {
+    "kw": "ai voice agent for restaurant",
+    "vol": 70,
+    "sd": 21,
+    "question": false
+   },
+   {
+    "kw": "voice ai for restaurants",
+    "vol": 70,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent for restaurants",
+    "vol": 50,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for restaurant",
+    "vol": 40,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "best ai for restaurants",
+    "vol": 40,
+    "sd": 9,
+    "question": false
+   },
+   {
+    "kw": "ai answering service for restaurants",
+    "vol": 20,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "ai phone answering for restaurants",
+    "vol": 20,
+    "sd": 21,
+    "question": false
+   },
+   {
+    "kw": "ai for restaurant business",
+    "vol": 10,
+    "sd": 27,
+    "question": false
+   },
+   {
+    "kw": "ai for restaurant management",
+    "vol": 10,
+    "sd": 25,
+    "question": false
+   },
+   {
+    "kw": "ai phone answering service for restaurants",
+    "vol": 10,
+    "sd": 55,
+    "question": false
+   },
+   {
+    "kw": "use of ai in restaurants",
+    "vol": 10,
+    "sd": 23,
+    "question": true
+   }
+  ]
+ },
+ "/ai-for/real-estate-agents.html": {
+  "target": "ai for real estate agents",
+  "target_vol": 590,
+  "target_sd": 34,
+  "supporting": [
+   {
+    "kw": "best ai for real estate agents",
+    "vol": 140,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "ai for real estate marketing",
+    "vol": 90,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "how to use ai in real estate",
+    "vol": 90,
+    "sd": 52,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent for real estate",
+    "vol": 70,
+    "sd": 34,
+    "question": false
+   },
+   {
+    "kw": "ai for real estate lead generation",
+    "vol": 50,
+    "sd": 33,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot for real estate agents",
+    "vol": 20,
+    "sd": 8,
+    "question": false
+   },
+   {
+    "kw": "ai for real estate brokers",
+    "vol": 20,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "ai powered real estate agent",
+    "vol": 20,
+    "sd": 16,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for real estate",
+    "vol": 20,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "ai lead generation for real estate agents",
+    "vol": 10,
+    "sd": 21,
+    "question": false
+   },
+   {
+    "kw": "ai marketing for real estate agents",
+    "vol": 10,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for property management",
+    "vol": 10,
+    "sd": 23,
+    "question": false
+   },
+   {
+    "kw": "ai voice agent real estate",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "best ai assistant for real estate agents",
+    "vol": 10,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "how to use ai for real estate agents",
+    "vol": 10,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "using ai for real estate agents",
+    "vol": 10,
+    "sd": 22,
+    "question": false
+   },
+   {
+    "kw": "which ai is best for real estate agents",
+    "vol": 10,
+    "sd": 26,
+    "question": true
+   }
+  ]
+ },
+ "/ai-for/plumbers.html": {
+  "target": "ai receptionist for plumbers",
+  "target_vol": 40,
+  "target_sd": 13,
+  "supporting": [
+   {
+    "kw": "ai receptionist for home services",
+    "vol": 10,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "home service business automation",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   }
+  ]
+ },
+ "/ai-for/medical-offices.html": {
+  "target": "ai receptionist for medical office",
+  "target_vol": 90,
+  "target_sd": 26,
+  "supporting": [
+   {
+    "kw": "ai voice agent for healthcare",
+    "vol": 110,
+    "sd": 15,
+    "question": false
+   },
+   {
+    "kw": "medical ai receptionist",
+    "vol": 30,
+    "sd": 27,
+    "question": false
+   },
+   {
+    "kw": "what is an answering service for a doctors office",
+    "vol": 30,
+    "sd": 29,
+    "question": true
+   },
+   {
+    "kw": "what is medical answering service",
+    "vol": 20,
+    "sd": 19,
+    "question": true
+   },
+   {
+    "kw": "ai answering service for medical office",
+    "vol": 10,
+    "sd": 18,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist for healthcare",
+    "vol": 10,
+    "sd": 16,
+    "question": false
+   }
+  ]
+ },
+ "/how-much-does-an-ai-receptionist-cost/": {
+  "target": "how much does an ai receptionist cost",
+  "target_vol": 50,
+  "target_sd": 27,
+  "supporting": [
+   {
+    "kw": "ai receptionist cost",
+    "vol": 90,
+    "sd": 23,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist pricing",
+    "vol": 90,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "cheapest ai receptionist",
+    "vol": 70,
+    "sd": 24,
+    "question": false
+   },
+   {
+    "kw": "cheap ai receptionist",
+    "vol": 50,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "ai answering service cost",
+    "vol": 40,
+    "sd": 40,
+    "question": false
+   },
+   {
+    "kw": "ai chatbot cost",
+    "vol": 30,
+    "sd": 31,
+    "question": true
+   },
+   {
+    "kw": "how much chatbot cost",
+    "vol": 30,
+    "sd": 34,
+    "question": true
+   },
+   {
+    "kw": "cost of ai receptionist",
+    "vol": 10,
+    "sd": 31,
+    "question": false
+   },
+   {
+    "kw": "how much is ai receptionist",
+    "vol": 10,
+    "sd": 18,
+    "question": false
+   }
+  ]
+ },
+ "/ai-receptionist-vs-answering-service/": {
+  "target": "ai receptionist vs answering service",
+  "target_vol": 0,
+  "target_sd": 0,
+  "supporting": [
+   {
+    "kw": "what is receptionist do",
+    "vol": 590,
+    "sd": 51,
+    "question": true
+   },
+   {
+    "kw": "will ai replace customer service",
+    "vol": 50,
+    "sd": 31,
+    "question": true
+   }
+  ]
+ },
+ "/is-an-ai-receptionist-worth-it/": {
+  "target": "is ai receptionist worth it",
+  "target_vol": 20,
+  "target_sd": 26,
+  "supporting": [
+   {
+    "kw": "how often is ai incorrect",
+    "vol": 90,
+    "sd": 52,
+    "question": true
+   },
+   {
+    "kw": "can ai answer phone calls",
+    "vol": 40,
+    "sd": 31,
+    "question": true
+   },
+   {
+    "kw": "are ai answers accurate",
+    "vol": 30,
+    "sd": 6,
+    "question": true
+   },
+   {
+    "kw": "ai voice agent roi calculator",
+    "vol": 20,
+    "sd": 11,
+    "question": false
+   },
+   {
+    "kw": "are ai answers always correct",
+    "vol": 10,
+    "sd": 6,
+    "question": true
+   }
+  ]
+ },
+ "/what-is-an-ai-agency/": {
+  "target": "what is an ai agency",
+  "target_vol": 9900,
+  "target_sd": 24,
+  "supporting": [
+   {
+    "kw": "what is ai agency",
+    "vol": 2400,
+    "sd": 64,
+    "question": false
+   },
+   {
+    "kw": "what is ai automation",
+    "vol": 1300,
+    "sd": 44,
+    "question": true
+   },
+   {
+    "kw": "what is a ai agency",
+    "vol": 390,
+    "sd": 52,
+    "question": false
+   },
+   {
+    "kw": "what's an ai agency",
+    "vol": 390,
+    "sd": 17,
+    "question": false
+   },
+   {
+    "kw": "what is an ai automation agency",
+    "vol": 70,
+    "sd": 20,
+    "question": false
+   },
+   {
+    "kw": "what is ai automation agency",
+    "vol": 50,
+    "sd": 28,
+    "question": false
+   },
+   {
+    "kw": "ai agency meaning",
+    "vol": 40,
+    "sd": 30,
+    "question": false
+   },
+   {
+    "kw": "is ai a form of automation",
+    "vol": 30,
+    "sd": 74,
+    "question": true
+   },
+   {
+    "kw": "what is ai services",
+    "vol": 30,
+    "sd": 55,
+    "question": true
+   },
+   {
+    "kw": "ai automation agency explained",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "how ai automation agency works",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   },
+   {
+    "kw": "what does an ai agency do",
+    "vol": 10,
+    "sd": 12,
+    "question": false
+   },
+   {
+    "kw": "what is a ai automation agency",
+    "vol": 10,
+    "sd": 16,
+    "question": false
+   },
+   {
+    "kw": "what is an ai agency and how does it work",
+    "vol": 10,
+    "sd": 17,
+    "question": false
+   }
+  ]
+ },
+ "/how-to-choose-an-ai-agency/": {
+  "target": "best ai agency",
+  "target_vol": 1600,
+  "target_sd": 33,
+  "supporting": [
+   {
+    "kw": "ai automation companies",
+    "vol": 390,
+    "sd": 22,
+    "question": true
+   },
+   {
+    "kw": "top ai agency",
+    "vol": 390,
+    "sd": 29,
+    "question": false
+   },
+   {
+    "kw": "ai automation companies near me",
+    "vol": 40,
+    "sd": 39,
+    "question": false
+   },
+   {
+    "kw": "top ai automation agency",
+    "vol": 30,
+    "sd": 26,
+    "question": false
+   },
+   {
+    "kw": "ai receptionist reviews",
+    "vol": 20,
+    "sd": 20,
+    "question": false
+   },
+   {
+    "kw": "is ai automation agency worth it",
+    "vol": 20,
+    "sd": 32,
+    "question": false
+   },
+   {
+    "kw": "ai automation agency examples",
+    "vol": 10,
+    "sd": 19,
+    "question": false
+   },
+   {
+    "kw": "is ai automation agency legit",
+    "vol": 10,
+    "sd": 5,
+    "question": false
+   }
+  ]
+ }
+}
