@@ -220,7 +220,7 @@ def main():
             names = re.findall(r'<(?:input|textarea|select)\b[^>]*\bname="([^"]+)"', raw)
             if names != FORM_FIELDS:
                 err(f"agency-contact fields {names} != {FORM_FIELDS}")
-            if re.search(r'type="checkbox"', raw):
+            if re.search(r'<input[^>]*type="checkbox"', raw):
                 err("no checkbox (no SMS consent box) on the contact form")
         # referral links only on /tools/
         if url != "/tools/" and re.search(r"gohighlevel\.com/\?fp_ref|servicetitan\.com/", raw):

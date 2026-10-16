@@ -33,13 +33,12 @@
 {% if page.hero and page.hero.render_image %}{% set hs = webp_srcset(page.hero.render_image) %}
 <link rel="preload" as="image" href="/images/{{ page.hero.render_image }}"{% if hs %} imagesrcset="{{ hs }}" imagesizes="100vw" type="image/webp"{% endif %} fetchpriority="high">
 {% endif %}
-<link rel="stylesheet" href="/css/site.css">
+<style>{{ inline_css }}</style>
 {% if page.jsonld %}
 <script type="application/ld+json">{{ page.jsonld | tojson_ld }}</script>
 {% endif %}
 {% if site.analytics.ga4 %}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.ga4 }}"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.analytics.ga4 }}');document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="tel:"]');if(a){gtag('event','phone_call_click',{phone_number:a.getAttribute('href').slice(4),link_url:location.pathname});}},true);</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.analytics.ga4 }}');document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[href^="tel:"]');if(a){gtag('event','phone_call_click',{phone_number:a.getAttribute('href').slice(4),link_url:location.pathname});}},true);(function(){var done=false;function load(){if(done)return;done=true;var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id={{ site.analytics.ga4 }}';document.head.appendChild(s);}['scroll','pointerdown','keydown','touchstart'].forEach(function(ev){addEventListener(ev,load,{once:true,passive:true});});addEventListener('load',function(){setTimeout(load,4000);});})();</script>
 {% endif %}
 </head>
 <body class="type-{{ page.type | default('page') }}">

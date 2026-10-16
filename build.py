@@ -159,6 +159,14 @@ def strip_tags(text):
     return html.unescape(re.sub(r"<[^>]+>", "", str(text))).strip()
 
 
+def minify_css(css):
+    """Small, safe CSS minifier for inlining: drop comments and collapse whitespace."""
+    css = re.sub(r"/\*.*?\*/", "", css, flags=re.S)
+    css = re.sub(r"\s+", " ", css)
+    css = re.sub(r"\s*([{};,>])\s*", r"\1", css)
+    return css.replace(";}", "}").strip()
+
+
 class Builder:
     def __init__(self, out, write_docs):
         self.out = out
@@ -196,6 +204,7 @@ class Builder:
             svc=self.find("services"),
             guide=self.find("guides"),
             ind=self.find("industries"),
+            inline_css=minify_css((SRC / "static" / "css" / "site.css").read_text()),
         )
         self.env.filters["striptags_plain"] = strip_tags
         self.env.filters["tojson_ld"] = lambda v: Markup(
